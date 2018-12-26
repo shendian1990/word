@@ -1,0 +1,156 @@
+FIN 
+
+JECT 
+TRACT 
+DUC/DUCT
+
+SEQU 
+
+AMBI 
+EPI 
+HYP/HYPO 
+
+THERM/THERMO 
+
+POLY 
+
+PRIM 
+PROT/PROTO "first in time"
+
+HOM/HOMO 
+DIS
+
+VOR   to eat
+
+CARN  “flesh” or “meat.” 
+
+CRED  “to believe” or “to entrust.” 
+FID    “faith” or “trust.” 
+
+CURR/CURS “to run.”
+
+PED   
+
+FLECT “to bend.” 
+
+POST “after” or “behind.” 
+
+MAL “bad.” 
+
+CATA “down.” 
+
+ANTE "before"
+
+ORTHO “straight,” “right,” or “true.” 
+RECT “straight” or “right.” 
+
+DYS “bad” or “difficult.” 
+
+EQU 
+
+QUIS 
+
+PLE/PLEN  “to fill.” 
+
+METR/METER “measure.” 
+
+ERR   “to wander” or “to stray.” 
+
+CED “to proceed” or “to yield.” 
+
+AUD     hearing
+SON     “sound.”
+VIS     “see.” 
+SPECT   “to look at,” 
+VOC     “voice” and “speak.” 
+PHON    “sound,” “voice,” or “speech.” 
+
+CUR     “care for.” 
+
+PERI    “around.”  period
+
+SENS    “feeling” 
+
+SOPH    “wise” and “wisdom.” 
+
+PORT    “to carry.” 
+
+PEND    “to hang” or “to weigh.” 
+
+PAN     “all”
+
+EXTRA   “outside” or “beyond.” 
+
+PHOT    “light.” 
+LUC     “light,” 
+LUM     “light,” 
+UMBR    “shadow.” 
+
+MOR/MORT “to die” and “death.” 
+
+HER     “to stick.”  hes-
+
+FUG     “to flee or escape.”
+
+COSM    “order.” 
+
+SCI     “to know” or “to understand.” 
+kn-gn
+
+JUNCT   “to join.” 
+
+PART
+
+MIS     “to send.” 
+PEL     “to move or drive.” 
+
+PUT     “to think, consider, or believe.” 
+
+LOG     “word,” “speech,” or “reason,” 
+
+TERR    “earth.” 
+MAR     “sea,” 
+
+PATH    “feeling” or “suffering.” 
+
+PEN/PUN “to punish.” 
+
+MATR/MATER “mother.” 
+
+AQU     “water.” 
+
+CANT    “sing,”  chant
+sing
+
+LINGU   “tongue” and “language,” 
+
+SPIR    “breath” and “breathe.” 
+
+VER     “truth.” 
+
+TURB    “to throw into confusion or upset,” 
+VOLU/VOLV   to roll, wind, turn around, or twist around.”
+
+FAC     “to make or do.”
+
+vest
+
+URB
+
+CULT    “care.” 
+
+DEM/DEMO “people.” 
+POPUL    “people,” 
+
+cord 
+
+culp
+
+dict
+
+graph
+
+fort    “strong.” 
+
+CIS     “to cut, cut down, or slay.” 
+ 
