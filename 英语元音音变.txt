@@ -1,0 +1,90 @@
+由于方言发音的不同，在中文中存在元音辅音音变的情况。
+例如'一个人'的发音
+普通话：一个ren
+东北：一个yin
+南昌：一个len
+四川：一个zen
+长沙：一个nin
+广州：一个yen
+湖南与福建f-h不分。湖南人介绍自己，我是"腐烂"人；福建说自己经常坐"灰鸡"
+辅音变异：r-y-l-z-n
+元音变异：e-i
+变化产生的元音是历史造成的。从秦始皇开始，中国 '书同文，车同轨，行同伦。'。在张艺谋导演的《英雄》中就有这样一组镜头：在秦王宫殿，嬴政让属下挂起一幅大字--"剑"，然后秦王说：这个"剑"字有二十八种书写方法，征讨六国，是为了把这些种类繁杂的文字统一成一种．．．．．．由此英雄成就了一代伟业。从秦始皇开始，中国就是同文不同音，文字相同，发音不同。如果中国汉字演变成拼音文字，毫无疑问一个简单的'人'会出现多种拼写方法。是不是英语也有类似的情况呢？答案是肯定的(参考英语的演变历史)。英语元音与辅音的音变，就是我们记忆单词的密码之一。可以让我们穿越历史的阻隔，把拼写不同的多个单词联系起来。
+英语元音音变
+a-e-i-o-u
+begin-began-begun
+emperor n.皇帝---- imperial a.皇帝的 e-i互换 -or, -ial都是词尾
+enemy敌人--- inimical有敌意的（inim词根+ ical词尾）i-e互换
+gold黄金----gild镀金（v.） o-i互换
+例句The plates and bowls have a gilt edge.这些盘子和碗镀有金边。
+middle---mediate调解、居中调停----medium媒介（在中间起桥梁作用） mid=med i-e互换
+mother母亲--- mater母亲 maternal母性的。 a-o互换，辅音h脱落
+词根
+cap-cip-cup都表示抓住
+bind -bond-bund都有绑住、结合的意思
+combine v.(使)联合, (使)结合；n.联合企业, 联合收割机
+双原因变单元音（由于其中一个元音不发音，所以逐渐弱化，脱落了）
+ea-a (peace缩合为词根paci)
+peace---- pacific和平的；Pacific太平洋
+ae-e 字母a不发音脱落
+aesthetic美学的、审美的----esthetic审美的、感觉的
+Caesar恺撒---cesar恺撒
+eatable---edible可食用的
+英语辅音音变
+一．发音相似的辅音字母互换
+b-p-ph-f-v b-p发音相似；p-ph书写相似；ph-f-v发音相似。所以最终b-v发生了互换。
+burse 钱包--- purse钱包
+词根拓展：burse(尤指大学的)金库,(苏格兰大学的)奖学金。8000扩充：reimburse偿还，报销。
+prove证明---- proof 证据
+puzzle使困惑-----baffle使困惑
+brother兄弟---- frater(=phrater)兄弟 fraternity 兄弟情谊；兄弟会
+parliament英国议会(parlia表示'说')――phone（说出的声音）――fable寓言故事――verbal口头的――word单词，消息
+c-k-ck-que
+check---cheque
+candle蜡烛---kindle点燃
+k-ch/tch
+break v.---breach n.
+speak v.---speech n.
+bank堤岸---bench长椅子
+blank空白的---blanch漂白
+bleak寒冷的，黯淡的---blench退缩
+bake v.---batch（面包等）一炉，一批
+dike 堤坝(堤坝下面都有排水沟)---ditch n.臭水沟
+peak 顶峰---pitch高音调
+make做---match 竞赛，匹配 match-maker媒婆
+H音脱落
+c-ch h音脱落
+hard---arduous
+channel海峡, 水道, 沟, 路线--- canal运河, （人体内的）管道
+call（在基督教中，教徒接受了上帝的CALL召唤，就可以面对一切邪恶的挑战）---challenge
+camera(老式的相机都是一个大盒子，像个房间一样)---chamber
+campaign（战役，运动）---champion冠军 ---- campus
+词根camp指平原的意思。
+canal（运河, 人体导管）---channel（n海峡，频道; v引导）
+capital---chief
+cargo货物---charge收钱 （装了货物当然有收钱）
+card/carte卡片、纸牌---chart图标
+cord绳子---chord琴弦
+chalk---calcium(calc+ium--- [化]钙) 粉笔中的主要成分是碳酸钙。在古代是主要的书写原料。计算也离不开它：calculate计算，calculator计算器。calculus叫做微积分，也叫做【医学】结石(也是该一点一滴积累起来的)，用粉笔计算日子，得出了calendar日历。 chalk的h音脱落，k-c互换，chalk就变成了calc
+g - c互换
+pigment颜料---pictmenture （颜料是画图用的来自picture）
+agent(代理商，为你做事情的人)---act
+agitate搅动,煽动---act
+figment虚构的事---fiction小说
+distinguish 区分、辨别v.---distinct a. 清楚的，截然不同的
+extinguish v.熄灭、取消---extinct灭绝的，熄灭的
+contagious v.传染的---contact 接触，联系
+augment增加、增大---auction拍卖（拍卖不就是价格的增加吗？）
+fragment碎片---fraction【科学】分数 扩展:fragile易碎的，脆弱的
+segment片断、弧形---section【科学】剖面，截面
+辨析：frac/frag-词根表示裂开，所以形状不规则；而sect词根表示切开，所以形状规则
+玻璃碎片fragments of class，一瓣橘子a segment of orange,
+磁盘扇区disc sector，骨折fracture
+书写相似的辅音字母
+古拉丁字母只有23个字母，英语在此基础之上发展为26个字母。有i分化为i-j; 由v分化出三个字母u-v-w. 卡克斯顿(Caxton)于公元1 476年才把印刷术传入英国，在此之前英国人都靠口授手抄，所以经常出现抄写错误，这就造成了以下相似字母的混用与替换。
+u - v nausea --- navy+ sea ＝晕船 navigate航行
+v - w renovation -- re + new + tion ＝ 革新
+innovate 改革，创新
+n- m brink边缘(k辅音脱落) ---brim边缘
+limestone石灰石----linestoneline stone划线的石头（粉笔的主要原料也是石灰石）
+i - j joy快乐--- rejoice 欢喜，欢乐；（与in, at连用）为…而欢欣= re + joi(=joy) + ce
