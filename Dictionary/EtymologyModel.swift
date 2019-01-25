@@ -1,52 +1,47 @@
+import UIKit
 
-public func dataFromFile(_ filename: String) -> Data? {
+struct Etymology: Codable {
+    let etymology: [Root]
+    
+    struct Root: Codable {
+        let index: Int
+        let root: String
+        let explain: String
+        let words: [Word]
+    }
+    
+    struct Word: Codable {
+        let name: String
+        let pronunciation: String
+        let defination: String
+        let explain: String
+    }
+}
+
+func dataFromFile(_ filename: String)->Etymology?  {
     @objc class TestClass: NSObject { }
     
     let bundle = Bundle(for: TestClass.self)
+    var jsonResponse: String?
     if let path = bundle.path(forResource: filename, ofType: "json") {
-        return (try? Data(contentsOf: URL(fileURLWithPath: path)))
+        do{
+            let jsonResponse = try String(contentsOfFile: path, encoding: String.Encoding.utf8)
+            
+        }catch _ as NSError{print("error")}
     }
-    return nil
-}
-
-var wordIndex =0
-
-class Etymology{
-    var name: String?
-    var explain: String?
-    var words: [Word]()
-
-    init?(data: Data){
-        do {
-            if let json = try JSONSerialization.jsonObject(with: data) as? [String: Any], let body = json["Etymology"] as? [String: Any]{
-                let index = body["index"] as? Int
-                if(index == wordIndex){
-                    self.name = body["name"] as? String
-                    self.explain = body["explain"] as? String
-                    if let words = body["words"] as [[String: Any]]{
-                        self.words = words.map { Word(json: $0)}
-                    }
-                }
-            }
-        } catch{
-            print("Error deserializing JSON: \(error)")
-            return nil
+    
+    var etymology: Etymology?
+    
+    do{
+        let jsonDecoder = JSONDecoder()
+        jsonDecoder.keyDecodingStrategy = .convertFromSnakeCase
+        if let data = jsonResponse?.data(using: .utf8){
+            etymology = try jsonDecoder.decode(Etymology.self, from: data)
         }
+    }catch{
+        print("Something went horribly wrong:", error.localizedDescription)
     }
+    return etymology
 }
 
-class Word{
-    var name: String?
-    var pronunciation: String?
-    var defination: String?
-    var explain: String?
-    var examplSentence: String?
-
-    init(json: [String:Any]){
-        self.name = json["name"] as? String
-        self.pronunciation = json["pronunciation"] as? String
-        self.defination = json["defination"] as? String
-        self.explain = json["explain"] as? String
-        self.examplSentence = json["examplSentence"] as? String
-    }
-}
+dataFromFile("Etymology")

@@ -1,7 +1,7 @@
 {
-    "Etymology":[
+    "etymology":[
         {
-            "index": 0,
+            "index": 1,
             "root": "acid",
             "explain": "酸的，含酸的",
             "words":[
@@ -10,19 +10,19 @@
                     "pronunciation": "",
                     "defination": "酸的，酸味的",
                     "explain": "",
-                    "exampleSentence": ""
+                    "example": ""
                 },
                 {
                     "name": "acidify",
-                    "pronunciation": "",
+                    "pronunciation": "a",
                     "defination": "使......酸化，变酸",
                     "explain": "",
-                    "exampleSentence": ""
+                    "example": ""
                 }
             ]
         },
         {
-            "index": 1,
+            "index": 2,
             "root": "cub",
             "explain": "躺",
             "words":[
