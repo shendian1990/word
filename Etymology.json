@@ -16461,53 +16461,25 @@
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "repent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "punish",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "punitive",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16515,97 +16487,83 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "pend",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "depend",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "suspend",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "appendix",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "expend",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "impend",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "perpendicular",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "pendulum",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "pendant",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "suspense",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "dispense",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "peopensity",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -16613,48 +16571,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "peri(1)",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "imperial",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "imperious",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "peri(2)",
+            "explain": "try",
+            "words":[
                 {
-                    "name": "acidimeter",
+                    "name": "experience",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "experiment",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16662,46 +16613,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "pet,pat,pit",
+            "explain": "seek",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "appetite",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "compete",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "impetus",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "centripetal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "petition",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "petulance",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -16711,48 +16662,34 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "petr",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "petrol",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "petroleum",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "petrify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "petrology",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16760,48 +16697,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "pha,phen",
+            "explain": "show,image",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "emphasis",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "phase",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "phantasy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "phantom",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "phenomenon",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16809,48 +16739,34 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "phil",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "biblophilist",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "neophila",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidimeter",
+                    "name": "philosophy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "philanthropy",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16858,48 +16774,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "phon",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "telephone",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "microphone",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "symphony",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "stereophone",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "phone",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16907,48 +16816,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "photo",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "photograph",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "photochemistry",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "photocopy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "photon",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "photosynthesis",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -16956,25 +16858,25 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "pict",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "depict",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "picture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "pictograph",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -16986,67 +16888,32 @@
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
-                {
-                    "name": "acidulate",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "plac(1)",
+            "explain": "to calm,appease",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "implacable",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "placate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "placid",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17054,48 +16921,34 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "plant",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "transplant",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "implant",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "plantition",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "plantlet",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17103,48 +16956,27 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "plaus,plod",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "applaud",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "applause",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "explode",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17152,97 +16984,76 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "ple",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "complete",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "complement",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "supplement",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "implement",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "ample",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "deplete",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "plenty",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "plenary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "supply",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "comply",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17250,146 +17061,104 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "ply,pli,ploy,plex",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "reply",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "apply",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "imply",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "multiply",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "complicated",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "duplicate",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "explicate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "simple",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "multiple",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "duple",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "duplex",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "triple",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "complex",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "perplex",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17397,48 +17166,20 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "polis",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "metropolis",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidimeter",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "cosmopolitan",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17446,48 +17187,34 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "polit,polic",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "political",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "politic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "police",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "policy",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -17495,195 +17222,174 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "pon,pos",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "component",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "opponent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "postpone",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "compound",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "preposition",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "propose",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
+                },
                 {
-                    "name": "acid",
+                    "name": "purpose",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "suppose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "compose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "symposium",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "dispose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "deposit",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
+                },
                 {
-                    "name": "acid",
+                    "name": "depose",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "impose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "expose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "impose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "interpose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
+                    "name": "oppose",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
                 {
-                    "name": "acid",
+                    "name": "transpos",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "position",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "pose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "posture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "positive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "posit",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -17691,48 +17397,62 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "popul,publ",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "popular",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "population",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "populate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "populate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "populism",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "republic",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "public",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "publish",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -17740,46 +17460,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "port(1)",
+            "explain": "gate",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "opportunity",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "opportune",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "passport",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "helioport",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "importture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "portal",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -17789,97 +17509,83 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "port(2)",
+            "explain": "carry",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "report",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "support",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "export",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "import",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "important",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "transport",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "deport",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "comport",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "portable",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "porter",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "portage",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -17887,97 +17593,97 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "port(3)",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "apportion",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "proportion",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "portion",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "potent",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidimeter",
+                    "name": "impotent",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "omnipotent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
                 {
-                    "name": "acid",
+                    "name": "prepotent",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "potential",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "potentate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "preci",
+            "explain": "price",
+            "words":[
                 {
-                    "name": "acidimeter",
+                    "name": "appreciate",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "depreciatory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "precious",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -17985,146 +17691,139 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "press",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "express",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "compress",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "depress",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "impress",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "oppress",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "suppress",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "repress",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "prim,prin",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "primary",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "prime",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "primitive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "primal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "primier",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "primacy",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "primer",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "prince",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "princess",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "principal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "principle",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18132,48 +17831,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "pris",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "surprise",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "comprise",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "enterprise",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "apprise",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "prison",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -18181,97 +17873,97 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "priv(1)",
+            "explain": "private",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "private",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "privilege",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "privacy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "privty",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "privy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "priv(2)",
+            "explain": "deprive",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "deprive",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "privation",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "proach,proxim",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidify",
+                    "name": "approach",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "reproach",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "approximate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "proximate",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18279,48 +17971,62 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "prob",
+            "explain": "test",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "probable",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "probe",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "probate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "probation",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "prove",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "improve",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "reprove",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "prove",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18328,46 +18034,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "propri",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "appropriate",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "expropriate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "proprietary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "proprietor",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "proper",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "property",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -18377,48 +18083,55 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "psych",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "psychology",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "psychiatrist",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "psyche",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "psychics",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "psycho",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "psychoanalysis",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "psychotherapy",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18426,48 +18139,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "punct,pung",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "acupuncture",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "compunction",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "punctual",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "puncture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "expunge",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -18475,48 +18181,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "put",
+            "explain": "count",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "compute",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "dispute",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "reputition",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "repute",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "deputy",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -18524,48 +18223,55 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "quer",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "querimony",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "quarrel",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "quie",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidify",
+                    "name": "acquiesce",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "quiet",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "quiescent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "quietus",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18573,97 +18279,97 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "quir,quer,quist,quis",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "require",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "enquire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "acquire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "inquire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "request",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "conquest",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
+                },
                 {
-                    "name": "acid",
+                    "name": "question",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "questionnaire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "rac",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidify",
+                    "name": "race",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "racial",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "racism",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "racist",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18671,46 +18377,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "rad",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "abrade",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "abrasion",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "abrasive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "erase",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "eraser",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "razor",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -18720,97 +18426,90 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "radi(1)",
+            "explain": "root",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "eradicate",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "radical",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "radi(2)",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidify",
+                    "name": "eradiate",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "irradiate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "radio",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
                 {
-                    "name": "acid",
+                    "name": "radioactive",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "radiology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
+                    "name": "radiant",
+                    "pronunciation": "a",
+                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "radiate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "radius",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "radium",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18818,46 +18517,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "rat",
+            "explain": "reckon,reason",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "ratio",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "rate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "rating",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "ration",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "rational",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "ratify",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -18867,48 +18566,62 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "rect",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "correct",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "direct",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "directory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "eract",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "rectify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "rectangle",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "rectangle",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "rectum",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -18916,97 +18629,83 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "reg",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "regular",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "regulate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "region",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "regime",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "regiment",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "regal",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "regicide",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "regnant",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "royal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "reign",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "sovereign",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19014,48 +18713,62 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "creep",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "decrepit",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "reptant",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "reptile",
                     "pronunciation": "",
                     "definition": "",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "rid,ris",
+            "explain": "酸的，含酸的",
+            "words":[
+                {
+                    "name": "ridicule",
+                    "pronunciation": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "radiculous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "deride",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "derision",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19063,48 +18776,55 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "rig",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "rigid",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "rigorous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "riv",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidify",
+                    "name": "derive",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "river",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "rivulet",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "rival",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19112,25 +18832,25 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "robor",
+            "explain": "strong",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "robust",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "corroborate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "roborant",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -19140,20 +18860,34 @@
                     "name": "acidimeter",
                     "pronunciation": "",
                     "definition": "",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "rod",
+            "explain": "酸的，含酸的",
+            "words":[
+                {
+                    "name": "corrode",
+                    "pronunciation": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "erode",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "rodent",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19161,46 +18895,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "rog",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "arrogant",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "arrogate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "aborgate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "derogate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "interrogate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "rogation",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -19210,48 +18944,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "rot",
+            "explain": "wheel",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "rotate",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "rotary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "rotator",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "rotatory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "rotor",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -19259,146 +18986,146 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "rud",
+            "explain": "crude",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "rude",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidimeter",
+                    "name": "rudiments",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "erudite",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "rupt",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "bankrupt",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "interrupt",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "abrupt",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "abruption",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "corrupt",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "disrupt",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "erupt",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "irrupt",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sarc,sanct",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "sarcifice",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "sarced",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "sanction",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "sanctify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sanctimony",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "sanctum",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "sanctuary",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19406,48 +19133,55 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sult,sault",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "assault",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "result",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "insult",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "sal",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidimeter",
+                    "name": "salt",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "salary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "salinize",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19455,48 +19189,48 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "sat",
+            "explain": "full",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "satisfy",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "saturate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root":"scal",
+            "explain": "酸的，含酸的",
+            "words":[
                 {
-                    "name": "acidify",
+                    "name": "escalade",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "escalate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "scale",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -19504,48 +19238,34 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "scend",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "ascend",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "descend",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "condescend",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "transcend",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19553,48 +19273,69 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sci",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "conscience",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "conscious",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "nescient",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "omniscient",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "proscient",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "science",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "scope",
+            "explain": "酸的，含酸的",
+            "words":[
+                {
+                    "name": "microscope",
+                    "pronunciation": "",
+                    "definition": "酸的，酸味的",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "telescope",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19602,46 +19343,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "scribe",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "describe",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "prescribe",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "subscribe",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "superscribe",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "conscribe",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "subscript",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -19651,46 +19392,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sect",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "insect",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "bisect",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "intersec",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "transect",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sectio",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "sectile",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -19700,48 +19441,27 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sel,sult",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "counsel",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "sounsel",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "consult",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -19749,97 +19469,69 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sem,sim",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "resemble",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "assimilate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "dissimilate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "similar",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "simulate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sen",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "senior",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "senat",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "senescent",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -19847,97 +19539,83 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sens",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "sense",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "sensible",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "sensitiv",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "sensate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sensor",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "consen",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
-                {
-                    "name": "acid",
-                    "pronunciation": "",
-                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "resent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "assent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "sentimen",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sentence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "scent",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -19945,97 +19623,69 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sequ",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "consequenc",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidimeter",
+                    "name": "subsequent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sequence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
-                    "explain": "",
-                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sert",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "insert",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "consert",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "desert",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "assert",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "series",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -20043,48 +19693,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "serv(1)",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "deserve",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "subservient",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "serve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "service",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sergent",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -20092,48 +19735,27 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "serv(2)",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "observe",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidic",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "",
-                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "preserve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "conserve",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -20141,97 +19763,104 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sid,sit",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "consider",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "president",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "reside",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "subsidiary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "subsidy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "parasite",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
-            "words":[
+                },
                 {
-                    "name": "acid",
+                    "name": "situation",
                     "pronunciation": "",
-                    "definition": "酸的，酸味的",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "situate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "site",
                     "pronunciation": "",
                     "definition": "",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "sess",
+            "explain": "sit",
+            "words":[
+                {
+                    "name": "possess",
+                    "pronunciation": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "access",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "session",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "obsess",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -20239,46 +19868,46 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "sign",
+            "explain": "mark",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "signal",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "signify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "design",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "assign",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "resign",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "consign",
                     "pronunciation": "a",
                     "definition": "使......酸化，变酸",
                     "explain": "",
@@ -20288,48 +19917,41 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "soci",
+            "explain": "associate",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "associate",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "society",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "social",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "sociology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sociable",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
                     "explain": "",
                     "example": ""
                 }
@@ -20337,48 +19959,69 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "sol(1)",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "console",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "desolate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "solace",
                     "pronunciation": "",
                     "definition": "",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "sol(2)",
+            "explain": "sole",
+            "words":[
+                {
+                    "name": "solid",
+                    "pronunciation": "",
+                    "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "solemn",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "solo",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "soliloquy",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "consolidate",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
@@ -20386,39 +20029,39 @@
         },
         {
             "index": 1,
-            "root": "acid",
-            "explain": "酸的，含酸的",
+            "root": "sol(3)",
+            "explain": "sun",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "solar",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "solarium",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "solarize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "circumsolar",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "extrasolar",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -20435,48 +20078,62 @@
         },
         {
             "index": 1,
-            "root": "acid",
+            "root": "solv",
             "explain": "酸的，含酸的",
             "words":[
                 {
-                    "name": "acid",
+                    "name": "absolve",
                     "pronunciation": "",
                     "definition": "酸的，酸味的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidic",
+                    "name": "dissolve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
+                    "name": "resolve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidimeter",
+                    "name": "solve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "soph",
+            "explain": "酸的，含酸的",
+            "words":[
+                {
+                    "name": "philosophy",
+                    "pronunciation": "",
+                    "definition": "酸的，酸味的",
+                    "explain": "",
+                    "example": ""
                 },
                 {
-                    "name": "acidulate",
+                    "name": "sophistic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "acidify",
-                    "pronunciation": "a",
-                    "definition": "使......酸化，变酸",
+                    "name": "sophomore",
+                    "pronunciation": "",
+                    "definition": "",
                     "explain": "",
                     "example": ""
                 }
