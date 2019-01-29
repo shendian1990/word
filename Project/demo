@@ -1,0 +1,69 @@
+prefix{
+    ad
+    con
+    de
+    dis
+    ex
+    im
+    per
+    pre
+    pro
+    re
+    sub
+    trans
+}
+
+stem{
+    cept
+    duc
+    fer
+    flex
+    flect
+    grad
+    ject
+    mit
+    nounce
+    pel
+    port
+    put
+    close
+    fact
+    form
+    fuse
+    press
+    pose
+    quest
+    scribe
+    serve
+    sense
+    side
+    sign
+}
+
+
+word{
+    myself
+    motorcycle
+    football
+    widespread
+
+    advise
+    visit
+    visable
+    invisible
+    supervise
+    revise
+    television
+    visual
+
+    dialogue
+    prologue
+    apologize
+    epilogize
+    epilogue
+    monologist
+    neologism
+    pseudology
+}
+
+    
