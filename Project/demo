@@ -56,6 +56,9 @@ word{
     television
     visual
 
+    spect
+    
+
     dialogue
     prologue
     apologize
@@ -64,6 +67,96 @@ word{
     monologist
     neologism
     pseudology
+
+    muse
+    amuse
+    music
+    museum
+
+    act
+    active
+    inactive
+    action
+    radioactive
+    actor
+    actress
+    countract
+    enact
+    react
+    transact
+    interact
+
+    alt
+    altitude
+    altimeter
+    exalt
+
+    anim
+    animal
+    animism
+    animate
+    animation
+    unanimous
+
+    ann
+    annual
+    biannual
+    perennial
+    semiannual
+    anniversary
+
+    arch
+    architect
+    anarchy
+    monarch
+    patriarch
+
+    arm
+    army
+    armor
+    armada
+    armament
+    armory
+    disarm
+    forearm
+
+    star
+    aster
+    asterisk
+    disaster
+    astronomy
+    astrology
+
+    cap,capt,cept,ceive
+    capable
+    capture
+    captive
+    caption
+    accept
+    except
+    inception
+    intercept
+    precept
+    receive
+    conceive
+    deceive
+    perceive
+
+    car(1)
+    carry
+    carriage
+    cart
+    cargo
+
+    car(2)
+    care
+    careful
+    curious
+    secure
+    accurate
+
+    dict
+    
 }
 
     

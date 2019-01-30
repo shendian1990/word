@@ -1,252 +1,304 @@
-able            能够
-acu acr         尖锐，锐利
 {
-    act ag          行动，作用   ‘do, perform’ 
-    fic fact feat   做
+    bene 
+    am
+    plac
+    grat
+    phil
+    phob
+    mal
+    toxi
+    dys-
+    culp
 }
 {
-    alter           改变
+    bell
+    arm
+    milit           战斗
+    bat
+    pac
+    pen/pun
+    crim
 }
 {
-    auct aug        大
-    auth            作者
+    crit
+    judge/jur
+}
+
+{
+    grav
+    lev
+}
+
+{
+    mania
+    psych
+    physic
+    corp
+    path
+    ment
+    mem
+    sens
+    soph
+    sci
+    gn/gno
 }
 {
-    aud             听见
-    vis             看见
-    spect           看见
-}
-{
-    band            条，带
-}
-{
-    camp             ‘open field’ 空地
-}
-{
-    cap             头
-}
-{
-    car             关心
-    card
+    cred
+    fid
+    cord
     heart
     courage
+    car
+    {port}
+    cur
 }
 {
-    grad gress      走
-    ceed cess       走
-    st              站
-    sit
-    cur             跑
+    curr
+    grad gress    
+    ped
+    manu
+    capit
+    derm
+    hem/herm
+    {ped-}
+    st
+    sit/sid
+    sequ
+    equ             相等
+    par
+    ceed cess
+    ced
+    fin
 }
+
 {
-    cent            百
-    mill
+    clus
+    prim
+    proto
+    gen
+    {cre/cret}
+    {bio}
 }
-centr           中心
+
 {
-    cid cis         切，落下
+    cept
+    ject
+    mis
+    tract
+    duct
+    drag
+    pel   pull
+    lead
+    car
 }
+
 {
-    civi            文明
-    dem             民众
-}
-{
-    claim           呼喊,喊叫
+    aud             听见
+    son
+    vis             看见
+    spect           看见
+    scop
+    phon            声音
+    clam/claim           呼喊,喊叫
     call
     ban             说话，命令
     dic dict        说
+    {doc    tut/tui }
     log  loqu       说话
     fess            说
     view            看见
     voc             声音
+    spec   spic     看
+    opt
+    spond  spons    说
+    cant
+    sing
+    lingu
+    loqu
+    verb
+    spir
+}
+
+{
+    ortho
+    rect   
+    err
+    fall
+    ver
+    prob
+}
+{
+    homo
+    di-
+    bi-
+    tri-
+    sim
+    syn
+    dis-
+    uni-
+    omni
+    hol/holo
+    hemi/semi
+}
+
+{
+    flect
+    plex
+    press
+    fil
+    solu
+    loose
+}
+{
+    pend
+    junct
+    pact
+}
+
+{
+    matr
+    patr
+}
+
+{
+    act ag          行动，作用   ‘do, perform’ 
+    crac/crat
+    pot
+    val
+    fic fact feat   做
+    fract
+    fort
+    scribe
+    cis
+    cid
+    tom
+    quis
+    graph
+    fer             拿
+    hibit           拿，保持
+    capt   cept     ‘take, seize’ 
+    ceive
+    trib
+    perhend
+    fug
+    scend
+}
+
+{
+    civi            文明
+    polis
+    dem             民众
+    popul
+    dom             房子，统治，分配
+    {reg}
+    cult
+    {herd, greg}
+    urb
+    anthrop
 }
 {
     clar            清楚,清晰
     opaque
 }
 {
-    clud  clus      关闭
-}
-{
-    common          共同
-}
-{
     count           计算
     put             to think, consider, or believe 
 }
-{
-    cover           覆盖
-}
-cret                创造
-{
-    crim            罪犯
-}
-crit                批评，评论
-{
-    cura            "care, concern, trouble,"
-}
-dent                牙齿,相同
-divid               分
-{
-    dom             房子，统治，分配
-}
-{
-    duc             引导
-    lead
-    car
 
-}
-dur             持续
-electr          电
-empt            空
-equ             相等
-{
-    fer             拿
-    hibit           拿，保持
-    capt   cept     ‘take, seize’ 
-    ceive
-}
-
-fid             相信，忠诚
-fin             限制，极限
-firm            巩固，确定
-flex flect      弯曲
-flu  fuse       流
-form            形状，构成
-fort   forc     力气，强迫
-fund            建立，创立
-gen             基因
-{
-    graph           描写
-}
 {
     geo             土地
+    terr
     mar
+    aqu
+    {hydr pyn ign}
+    agri
     riv             河流
+    aer
+    und
+    surg
 }
-grav            重
-her  hes        粘，黏
-
-hos             主人
-hum             土
 {
-    jud             判断，审判
-    just            刚好，公平
+    flu
+    fus
 }
 
-labor           劳动
-lect leg        选择，法律
-lev             轻
-liber           自由
-liter           文字
-loc             地点
 {
     light           光
     lus  lum        光线
+    phot
+    radi
+    luc
+    umbr
+    vest
 }
-{
-    mem             记忆
-    ment            思想
-}
-man  manu       手
-mark            标记
-med             中间
-mod             模式，样式
-mer             经商
-merge           沉没
-migr            移动
-{
-    milit           战斗
-    bat
-}
-minis           管理
+
 {
     min             小
     max   maj       大
     magn            大，磁
+    micro
+    macro
+    nano
+    multi
 }
+
 {
-    mis mit         送，扔
-    ject            投掷
+    turb
+    volu/volo
+    trop
+    vert
+    sphere
+    circ
+    tort
 }
 
-mon  uni bi tri 单，一，二，三
-mot             移动
-nat             出生
-nom             名字
-norm            正常，标准
-not             表示，注意
-nov             新
-opt             选择
-ord             顺序
-ori             生气，起初，开始
-over            上面
-par    part     分离，分开
-pas             经过，放弃
-patr            国家，父亲
-pel   pull      拉
-pend  pens      悬挂
-pet             喜爱
-ple    pil      填充
-plea            喜爱
-ply    pli      折叠
-poli            政治
-port            港口
-pos    pon      放置
-prec            价值
-press           压
 {
-    prim            第一
-    proto           原型
+    morph
+    form
+    fig
+    struct
 }
 
-prov            证明
-pub             公开
-que   quire     求
-rad             根，光线
-rect            正，直
-reg             统治
-rupt   rip      破
-scend           送
-scrib           写
-sens            感觉，送
-sert            塞，放
-serv            服务，保持
-sid             做
-sign            标签，符号
-sim    sem      相同
-sym    syn      相同
-soc             社会
-sol             单独
-solv            解决
-spec            专门
-spec   spic     看
-spond  spons    说
-st  sist        站
-sti             刺
-spir            呼吸
-sper            希望
-str             拖，拉
-stru            建造
-sult            说
-sum             拿
-sure            确信
-tact            接触
-tain            保留
-tect            盖
-tend  tent      倾向
-test            考试
-tract           拖拉
-trans           穿梭
-ult             老
-under           下面
-vac  vain void  空
-val  vail       价值
-var             变化
-ven vent        走
-vers vert       转
-vey             道路
-vic             征服
+{
+    chron
+    tempor
+    {temper}
+}
 
-viv   vit       生命
-vol volv        旋转，卷
+{
+    sign
+    pos
+    top
+    lega
+}
+
+{
+    nom
+    onym
+}
+
+{
+    anim
+    bio
+    viv
+    {vir}
+    mort
+    kine
+    dynam
+}
+
+{
+    cover
+    crypt
+}
+
+{
+    acer
+    acr
+    ang
+}
+
+{
+    prop, propri
+    serv
+}
