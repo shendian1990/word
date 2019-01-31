@@ -13,6 +13,10 @@
     dys-
     culp
 }
+
+
+
+战斗有关
 {
     bell
     arm
@@ -23,6 +27,12 @@
 }
 
 
+
+
+
+
+
+正确与否
 {
     crit        //crim
     judge/jur
@@ -36,18 +46,48 @@
     prob        //phob
 }
 
+
+
+
+轻重
 {
     grav
     lev
 }
 
+
+
+
+
+
+生物，活力
+{
+    anim
+    bio
+    viv
+    {vir}
+    mort
+    kine
+    dynam
+    power
+}
+
+
+物理状态
+{
+    morph
+    form
+    fig
+    struct
+    corp
+    physic
+}
+
 精神状态
 {
-    mania
     psych
-    physic
-    corp
-
+    mania
+    
     path
     ment
     mem
@@ -73,13 +113,6 @@
     cur
 }
 
-{
-    morph
-    form
-    fig
-    struct
-}
-
 身体部位
 {
     derm
@@ -89,6 +122,10 @@
     capit
     manu
     ped
+}
+
+和脚有关
+{
     curr        //car
     grad gress    
     st
@@ -127,16 +164,7 @@
     verb
 }
 
-{
-    anim
-    bio
-    viv
-    {vir}
-    mort
-    kine
-    dynam
-}
-
+行为
 {
     act ag          行动，作用   ‘do, perform’ 
     crac/crat
@@ -199,6 +227,7 @@
     junct
     pact
 }
+旋转
 {
     turb
     volu/volo
@@ -248,6 +277,7 @@
 
     matr
     patr
+    66.Mc-,Mac-,儿子，某某之子
 }
 
 {
@@ -276,7 +306,7 @@
 
 
 
-
+数量
 {
     min             小
     max   maj       大
@@ -286,25 +316,24 @@
     nano
     multi
 }
-
-数量
 {
     homo
+    pan
+    hol/holo
+    hemi/semi
+    omni
+    uni-
+    sim
+    syn
+    equ             相等
+    par
     di-
     bi-
     tri-
-    sim
-    syn
     dis-
-    uni-
-    omni
-    hol/holo
-    hemi/semi
-    sequ
-    equ             相等
-    par
 }
 
+sequ
 
 
 
