@@ -1,9 +1,12 @@
+形容词根
 {
     bene 
     am
     plac
+    pac
     grat
     phil
+
     phob
     mal
     toxi
@@ -15,13 +18,22 @@
     arm
     milit           战斗
     bat
-    pac
     pen/pun
     crim
 }
+
+
 {
-    crit
+    crit        //crim
     judge/jur
+}
+{
+    ortho
+    rect   
+    err
+    fall        //fil,ful
+    ver
+    prob        //phob
 }
 
 {
@@ -29,19 +41,27 @@
     lev
 }
 
+精神状态
 {
     mania
     psych
     physic
     corp
+
     path
     ment
     mem
     sens
-    soph
+    
     sci
     gn/gno
+    soph
+
+    count           计算
+    put             to think, consider, or believe 
 }
+
+心理
 {
     cred
     fid
@@ -52,112 +72,69 @@
     {port}
     cur
 }
+
 {
-    curr
-    grad gress    
+    morph
+    form
+    fig
+    struct
+}
+
+身体部位
+{
     derm
     hem/herm
     {ped-}
+    spir
     capit
     manu
     ped
+    curr        //car
+    grad gress    
     st
     sit/sid
-    sequ
-    equ             相等
-    par
     ceed cess
     ced
 }
 
-{
-    clus
-    prim
-    proto
-    gen
-    fin
-    {cre/cret}
-    {bio}
-}
-
-{
-    cept
-    ject
-    mis
-    tract
-    duct
-    drag
-    pel   pull
-    lead
-    car
-}
-
+听，看，说
 {
     aud             听见
     son
+    voc             声音
+    phon            声音
+
     vis             看见
+    view            看见
+    opt
     spect           看见
     scop
-    phon            声音
-    clam/claim           呼喊,喊叫
-    call
-    ban             说话，命令
+    spec   spic     看      //spir
+    
     dic dict        说
     {doc    tut/tui }
     log  loqu       说话
     fess            说
-    view            看见
-    voc             声音
-    spec   spic     看
-    opt
+    call
+    clam/claim           呼喊,喊叫
     spond  spons    说
-    cant
+    ban             说话，命令
+    
     sing
+    cant
     lingu
     loqu
     verb
-    spir
 }
 
 {
-    ortho
-    rect   
-    err
-    fall
-    ver
-    prob
-}
-{
-    homo
-    di-
-    bi-
-    tri-
-    sim
-    syn
-    dis-
-    uni-
-    omni
-    hol/holo
-    hemi/semi
-}
-
-{
-    flect
-    plex
-    press
-    fil
-    solu
-    loose
-}
-{
-    pend
-    junct
-    pact
-}
-
-{
-    matr
-    patr
+    anim
+    bio
+    viv
+    {vir}
+    mort
+    kine
+    dynam
 }
 
 {
@@ -174,36 +151,71 @@
     tom
     quis
     graph
-    fer             拿
-    hibit           拿，保持
-    capt   cept     ‘take, seize’ 
-    ceive
-    trib
-    perhend
-    fug
+
     scend
+    fug
 }
 
+推，拉，抽,扔
 {
-    civi            文明
-    polis
-    dem             民众
-    popul
-    dom             房子，统治，分配
-    {reg}
-    cult
-    {herd, greg}
-    urb
-    anthrop
+    pel   pull
+    drag
+    tract
+    ject
+}
+
+拿,给予
+{
+    cept
+    fer             拿
+    hibit           拿，保持
+    perhend
+    capt   cept     ‘take, seize’ 
+    ceive
+
+    trib
+}
+
+携带，运送，引导
+{
+    car
+    mis
+
+    duct
+    lead
+}
+
+挤压，折叠,填满,放松
+{
+    press
+    flect
+    plex
+    fil
+    solu
+    loose
 }
 {
-    clar            清楚,清晰
-    opaque
+    pend
+    junct
+    pact
 }
 {
-    count           计算
-    put             to think, consider, or believe 
+    turb
+    volu/volo
+    trop
+    vert
+    sphere
+    circ
+    tort
 }
+
+
+
+
+
+
+
+
 
 {
     geo             土地
@@ -223,6 +235,22 @@
 }
 
 {
+    civi            文明
+    polis
+    dem             民众
+    popul
+    dom             房子，统治，分配
+    {reg}
+    cult
+    {herd, greg}
+    urb
+    anthrop
+
+    matr
+    patr
+}
+
+{
     light           光
     lus  lum        光线
     phot
@@ -231,6 +259,23 @@
     umbr
     vest
 }
+
+{
+    clar            清楚,清晰
+    opaque
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 {
     min             小
@@ -242,23 +287,43 @@
     multi
 }
 
+数量
 {
-    turb
-    volu/volo
-    trop
-    vert
-    sphere
-    circ
-    tort
+    homo
+    di-
+    bi-
+    tri-
+    sim
+    syn
+    dis-
+    uni-
+    omni
+    hol/holo
+    hemi/semi
+    sequ
+    equ             相等
+    par
 }
 
-{
-    morph
-    form
-    fig
-    struct
-}
 
+
+
+
+
+
+
+
+
+
+
+{
+    prim
+    proto
+    gen
+    fin
+    clus
+    {cre/cret}
+}
 {
     chron
     tempor/temper
@@ -274,16 +339,6 @@
 {
     nom
     onym
-}
-
-{
-    anim
-    bio
-    viv
-    {vir}
-    mort
-    kine
-    dynam
 }
 
 {
