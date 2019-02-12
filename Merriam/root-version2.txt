@@ -5,6 +5,7 @@
     plac
     pac
     grat
+    grac
     phil
 
     phob
@@ -331,6 +332,9 @@
     bi-
     tri-
     dis-
+    al-
+    el-
+    ul-
 }
 
 sequ
