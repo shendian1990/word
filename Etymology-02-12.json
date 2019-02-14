@@ -59,6 +59,34 @@
         {
             "index": 1,
             "root": "plac",
+            "explain": "满意，安抚",
+            "words":[
+                {
+                    "name": "placable",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "placid",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "please",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "pac",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
@@ -79,7 +107,7 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "grat/grac",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
@@ -100,7 +128,7 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "phil",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
@@ -121,7 +149,7 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "phob",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
@@ -142,7 +170,7 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "mal",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
@@ -163,7 +191,7 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "toxi",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
@@ -184,28 +212,7 @@
         },
         {
             "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
+            "root": "dys",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
