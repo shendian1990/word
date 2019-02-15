@@ -3,41 +3,48 @@
         {
             "index": 1,
             "root": "aud",
-            "explain": "听",
+            "explain": "和听有关",
             "words":[
                 {
                     "name": "audible",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "adj. 听得见的",
+                    "explain": "aud+ible, ible=able 有....能力.听得见的",
                     "example": ""
                 },
                 {
                     "name": "audio",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "adj. 声音的；[声] 音频的",
+                    "explain": "audi=aud  +o, 元音aeiou变换，其意义不变",
                     "example": ""
                 },
                 {
                     "name": "auditory",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. 听众；礼堂    adj. 听觉的；耳朵的",
+                    "explain": "aud + itory  -itory 当作为名词后缀时，表示：场所，地点，作形容词后缀。表示：有...性质的",
                     "example": ""
                 },
                 {
                     "name": "audience",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. 观众；听众；读者；接见",
+                    "explain": "audi+ence  -ence 名词后缀",
+                    "example": ""
+                },
+                {
+                    "name": "audit",
+                    "pronunciation": "",
+                    "definition": "n. 审计；[审计] 查帐    vt. （美）旁听",
+                    "explain": "audit  最初官方的查账都是听人报账",
                     "example": ""
                 },
                 {
                     "name": "auditorium",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. 礼堂，会堂；观众席",
+                    "explain": "audit + orium -orium 表地点场所的名词后缀",
                     "example": ""
                 }
             ]
@@ -45,62 +52,62 @@
         {
             "index": 1,
             "root": "son",
-            "explain": "to love",
+            "explain": "声音",
             "words":[
                 {
                     "name": "sonic",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "son + ic -ic 形容词和名词后缀：.....的",
+                    "explain": "adj. 音速的；声音的；音波的",
                     "example": ""
                 },
                 {
                     "name": "resonance",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. [力] 共振；共鸣；反响",
+                    "explain": "re- + son + -ance, re- 往回，重复的。 -ance 名词后缀",
                     "example": ""
                 },
                 {
                     "name": "song",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "歌曲",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "sing",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "vi. 唱歌；歌颂；鸣叫；呼号",
+                    "explain": "sing = song 元音aeiou变换，其意义不变",
                     "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "cant/chant",
+            "root": "chant",
             "explain": "满意，安抚",
             "words":[
                 {
-                    "name": "accent",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
                     "name": "chant",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "n. 圣歌；赞美诗  vt. 唱；诵扬",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "enchant",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "vt. 使迷惑；施魔法",
+                    "explain": "en- 进入 chant 唱歌，念咒  ",
+                    "example": ""
+                },
+                {
+                    "name": "accent",
+                    "pronunciation": "",
+                    "definition": "n. 口音， 重音",
+                    "explain": "cent= chant",
                     "example": ""
                 }
             ]
@@ -108,83 +115,69 @@
         {
             "index": 1,
             "root": "voc",
-            "explain": "well,美丽，幸福，好的结果",
+            "explain": "声音",
             "words":[
                 {
                     "name": "vocal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "adj. 歌唱的；声音的，有声的",
+                    "explain": "voc + -al",
                     "example": ""
                 },
                 {
                     "name": "voice",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. 声音；嗓音；发言权；愿望",
+                    "explain": "voice = voc ",
                     "example": ""
                 },
                 {
                     "name": "vocabulary",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. 词汇；词表",
+                    "explain": "voc + -able + -ary",
                     "example": ""
                 },
                 {
                     "name": "vocation",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "n. 职业；天职；天命；神召",
+                    "explain": "voc + -ation 原先指上帝的呼唤，神职，牧师类的工作，现泛指所有职业",
                     "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "dic/dict",
+            "root": "dict",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
                     "name": "predict",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "vt. 预报，预言",
+                    "explain": "pre- 在前，提前 + dict 提前说",
                     "example": ""
                 },
                 {
                     "name": "addict",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "indict",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "indictate",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "vt. 使沉溺；使上瘾",
+                    "explain": "ad- 加强语气 + dict 祈祷神灵 引申为着迷 上瘾",
                     "example": ""
                 },
                 {
                     "name": "contradict",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "反驳， 驳斥",
+                    "explain": "contra-,相对， 相反， -dict,说",
                     "example": ""
                 },
                 {
                     "name": "verdict",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "裁决",
+                    "explain": "ver-,真实的， 词源同 verify,-dict,说， 词源同 dictionary.引申词义公正， 裁决。",
                     "example": ""
                 },
                 {
