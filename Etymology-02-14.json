@@ -1383,6 +1383,13 @@
                     "definition": "",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "figure",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
@@ -2725,39 +2732,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "vert",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "advert",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "advertize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "revert",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "reverse",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -2767,18 +2767,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "sphere",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "atmosphere",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "hemisphere",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -2788,60 +2788,46 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "circ",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "circle",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "circlet",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "circumspect",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "circuit",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "circular",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "circus",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -2851,18 +2837,11 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "tort",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
                 {
-                    "name": "benefit",
+                    "name": "torture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -2872,39 +2851,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "anim",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "animal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "animate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "animation",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "unanimous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -2914,81 +2886,60 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "bio",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "biology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "biotic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "antibiotic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "symbiotic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "biochemistry",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "bionic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "biosphere",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "biography",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -2998,39 +2949,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "mort",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "mortal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "mortality",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "mortgage",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "mortify",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "amortize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3040,39 +2991,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "morph",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "geomorphic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "polymorphic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "morphology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "anthropmorphous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3082,81 +3026,60 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "form",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "uniform",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "reform",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "transform",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "conform",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "multiform",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "format",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "formal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "formulate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3166,60 +3089,46 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "frag",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "fragment",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "fragile",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "infraction",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "refractory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "fraction",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "fracture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3229,39 +3138,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "corp",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "corpse",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "corporal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "incorporate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "corporation",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3271,18 +3173,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "phys",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "physical",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "physics",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3292,81 +3194,74 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "psych",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "psychology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "psychics",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "psychiatrist",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "path",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "pathology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "sympathy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "neurpathy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "socipathic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "antipathetic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "pathetic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -3376,1425 +3271,46 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "ment",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "mental",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "mention",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
                 },
                 {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
+                    "name": "comment",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "mentor",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "remind",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "meditate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -4804,60 +3320,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "mem",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "memory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "benediction",
+                    "name": "memorize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "memorial",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "remember",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -4867,60 +3355,46 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "sens",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "sense",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "sensor",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "sensible",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "resent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "sentiment",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "sentance",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -4930,39 +3404,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "sci",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "science",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "conscience",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "conscious",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -4972,60 +3432,46 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "gn/cogn",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "recognize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "cognitive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "ignore",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "diagnose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "agnostic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "know",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5035,39 +3481,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "soph",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "philosophy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "sophistic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "sophomore",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5077,39 +3509,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "count",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "counter",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "account",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "accountable",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5119,60 +3537,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "put",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "compute",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "dispute",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "reputition",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "repute",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "deputy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5182,102 +3579,74 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "cred",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "credit",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "incredible",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "credible",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "accord",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "concord",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "record",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "cardinal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "courage",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "encourage",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "heart",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5287,39 +3656,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "derm",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "hyperderm",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "dermal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "dermis",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5329,60 +3684,53 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "spir",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "expire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "aspire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "conspire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "inspire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "perspire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "respire",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "transpire",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5392,39 +3740,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "cap",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "cape",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "capsize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "capital",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "captain",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5434,60 +3775,46 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "man",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "manual",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "manufacture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "mannuscript",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "manage",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "manager",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "management",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5497,39 +3824,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "geo",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "geology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "geography",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "geometry",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "geothermal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5539,39 +3859,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "terr",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "territory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "terrain",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "terrible",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "terrify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5581,18 +3894,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "mar",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "marine",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "submarine",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5602,18 +3915,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "aqu",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "aqumarine",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "aquarium",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "opaqua",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5623,18 +3943,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "hydr",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "hydrogen",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "hydrant",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "carbohydrate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5644,18 +3971,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "ign",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "ignite",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "ignify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5665,18 +3992,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "agri",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "agriculture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "acer",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "agrarian",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5686,18 +4020,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "riv",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "river",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "rival",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "derive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5707,39 +4048,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "aer",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "air",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "aerial",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "aero",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "aeration",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5749,123 +4083,88 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "flu",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "flow",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "flood",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "fluid",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "fluent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "flute",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "influence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "superfluence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "affluence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "affluent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "effluence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "superfluence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "confluence",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5875,39 +4174,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "fus",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "confuse",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "refuse",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "diffuse",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "infuse",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5917,39 +4209,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "civi",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "civil",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "civilize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "civility",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "civilization",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -5959,39 +4244,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "polic",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "politic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "political",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "police",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "policy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6001,18 +4279,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "dem",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "democracy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "epidemic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6022,18 +4300,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "popul",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "popular",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "population",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "populate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6043,39 +4328,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "dom",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "dome",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "domestic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "kingdome",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "predominate",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "dominate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6085,60 +4370,53 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "reg",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "region",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "regime",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "regal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "reign",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "regulation",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "regular",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "regulate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6148,18 +4426,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "cult",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "culture",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "agriculture",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "cultive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6169,18 +4454,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "greg",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "aggregate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "congregate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6190,39 +4475,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "urb",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "urban",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "urbanize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "urbane",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "suburb",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6232,18 +4510,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "anthrop",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "anthropology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "anthropologist",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "anthropoid",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6253,39 +4538,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "patr",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "patriot",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "father",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "matr",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "mother",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "matrix",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6295,123 +4580,117 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "lum",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "luminous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "illuminate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "illustrate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "luxury",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "delux",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "light",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "umbrella",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "phot",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "photo",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "photon",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "photograph",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 }
+
             ]
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "radi",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "raiation",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "radiar",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "radius",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "radiator",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6421,39 +4700,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "prim",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "primary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "prime",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "primitive",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "prime",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6463,18 +4735,11 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "proto",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
                 {
-                    "name": "benefit",
+                    "name": "protocal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6484,102 +4749,74 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "gen",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "generate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "gene",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "genetics",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "genius",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "antigen",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "oxygen",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "gender",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "degenerate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "homogenous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "general",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6589,60 +4826,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "fin",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "final",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "infinate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "definate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "define",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "confine",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6652,39 +4868,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "chron",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "chronic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
-                {
-                    "name": "benefit",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
                 {
-                    "name": "benediction",
+                    "name": "chronology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "chronmeter",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6694,18 +4896,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "tempor",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "contrmporary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "temporary",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6715,39 +4917,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "sign",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "signal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "signify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "design",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "assign",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "resign",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6757,207 +4959,165 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "pos",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "component",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "opponent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "postpone",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "compound",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "preposition",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "prepose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "pose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "purpose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "suppose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "compose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "symposium",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "dispose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "deposit",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "impose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "expose",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "position",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "posture",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "leg",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "delegate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "relegate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "legal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "legislation",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "legitimate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -6967,60 +5127,67 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "nom",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "name",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "norminate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "norminator",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "denominate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
+                },
+                {
+                    "name": "anonymous",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "norm",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "normal",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "abnormal",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "enormous",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7030,18 +5197,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "tect",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "detect",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "deck",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7051,18 +5218,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "cover",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "discover",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "recover",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7072,18 +5239,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "crypt",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "cryptology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "decrypt",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7093,18 +5260,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "prop",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "property",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "appropriate",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "proper",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7114,39 +5288,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "serv",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "serve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "service",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "sergent",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "deserve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7177,39 +5344,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "am",
+            "explain": "to love",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "amiable",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "amateur",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "amour",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "enamor",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7219,18 +5379,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "plac",
+            "explain": "满意，安抚",
             "words":[
+                {
+                    "name": "placable",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
                 {
-                    "name": "benediction",
+                    "name": "placid",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "please",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7240,81 +5407,60 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "grat",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "congratulate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "gratulate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "grateful",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "grace",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "gracful",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "agree",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "agreeable",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "disagree",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7324,18 +5470,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "phil",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "philology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "philosophy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7345,18 +5491,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "bel",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "rebel",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "antebellum",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7366,39 +5512,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "arm",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "army",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "armor",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "armada",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "disarm",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7408,18 +5547,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "bat",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "battle",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "combat",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "debate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7429,18 +5575,11 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "milit",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
-                {
-                    "name": "benediction",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
                 {
-                    "name": "benefit",
+                    "name": "military",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7450,18 +5589,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "pun",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "punish",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "penalty",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7471,18 +5610,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "crim",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "crime",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "criminal",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "crimology",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7492,39 +5638,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "crit",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "critic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "critical",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "critize",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "critique",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "hypocritical",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7534,123 +5680,88 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "jud",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "judge",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "prejudge",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "prejudice",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "judicial",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "judicious",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "adjure",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "conjure",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "prejure",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "justify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "adjust",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "justice",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "justify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7660,18 +5771,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "ortho",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "orthodox",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "orthography",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "orthopedic",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7681,39 +5799,39 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "rect",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "correct",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "direct",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "directory",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "rectify",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "rectangle",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7723,18 +5841,18 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "err",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "error",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "aberrant",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7744,18 +5862,25 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "prob",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "probe",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "prove",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "improve",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7765,39 +5890,32 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "grav",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "grave",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "gravify",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "grief",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "aggravate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
@@ -7807,60 +5925,53 @@
         },
         {
             "index": 1,
-            "root": "bene",
+            "root": "lev",
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "benediction",
+                    "name": "lever",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "levy",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "elevate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "alleviate",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "bene",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "benediction",
+                    "name": "levity",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "benefit",
+                    "name": "relieve",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "relief",
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
