@@ -3375,15 +3375,15 @@
                 {
                     "name": "memory",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "记忆， 存储器",
+                    "explain": "mer,记忆 + -ory",
                     "example": ""
                 },
                 {
                     "name": "memorize",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "记忆",
+                    "explain": "来自 memory,记忆， -ize,使。",
                     "example": ""
                 },
                 {
@@ -3396,8 +3396,8 @@
                 {
                     "name": "remember",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "记忆， 想起， 纪念",
+                    "explain": "re-,再， 重新， memorari,记忆",
                     "example": ""
                 }
             ]
@@ -3410,36 +3410,36 @@
                 {
                     "name": "sense",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "感官， 感觉， 意义， 含义， 理解力， 判断力",
+                    "explain": "sens,感觉， 知觉， 理解， 五种感官的功能， ",
                     "example": ""
                 },
                 {
                     "name": "sensor",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "传感器",
+                    "explain": "来自 sense,感觉， 知觉， -or,表物。",
                     "example": ""
                 },
                 {
                     "name": "sensible",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "能感知的， 有理解力的",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "resent",
-                    "pronunciation": "",
+                    "pronunciation": "气愤， 愤恨",
                     "definition": "",
-                    "explain": "",
+                    "explain": "re-,表强调， -sent,感觉， 感知.即强烈的感觉， 后引申词义气愤， 愤恨",
                     "example": ""
                 },
                 {
                     "name": "sentiment",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "情感， 伤感， 哀伤",
+                    "explain": "感觉， 感知， 词源同 sense.-ment,名词后缀。 原指客观的感觉， 后词义感情化， 多用于指伤感， 哀伤",
                     "example": ""
                 },
                 {
@@ -3466,15 +3466,15 @@
                 {
                     "name": "conscience",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "良知",
+                    "explain": "con-,表强调， -sci,知道",
                     "example": ""
                 },
                 {
                     "name": "conscious",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "意识到",
+                    "explain": "con-,表强调， -sci,知道",
                     "example": ""
                 }
             ]
@@ -3487,8 +3487,8 @@
                 {
                     "name": "recognize",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "认识， 认出",
+                    "explain": "re-,再， 重新， cognize,认识， 认出， 词源同 know.",
                     "example": ""
                 },
                 {
@@ -3501,28 +3501,28 @@
                 {
                     "name": "ignore",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "忽视， 无知",
+                    "explain": "ig-,不， 非， -gnore,知道， 了解， 词源同 know,narrate.即不知道的， 引申词义无知， 忽视。",
                     "example": ""
                 },
                 {
                     "name": "diagnose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "诊断",
+                    "explain": "dia-,穿过， 整个的， -gn,知道， 词源同 know,cognizance",
                     "example": ""
                 },
                 {
                     "name": "agnostic",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "不可知论者",
+                    "explain": "a-,非， 没有， -gn,知道， 词源同 can,know.此处用于宗教义， 认为上帝不存在。",
                     "example": ""
                 },
                 {
                     "name": "know",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "知道， 认识， 理解",
                     "explain": "",
                     "example": ""
                 }
@@ -3536,22 +3536,22 @@
                 {
                     "name": "philosophy",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "哲学",
+                    "explain": "philo-,爱， 爱好， -soph,思考， 智慧， 词源同 Sophia,sophist.引申词义哲学家",
                     "example": ""
                 },
                 {
                     "name": "sophistic",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "诡辩的， 强词夺理的",
+                    "explain": "sophist,诡辩者， -ic,形容词后缀。 引申词义强词压理的",
                     "example": ""
                 },
                 {
                     "name": "sophomore",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
+                    "explain": "来自希腊语 sophos,聪明的， 智慧的， moros,笨蛋， 弱智， 词源同 moron,oxymoron.或简单的 more,更加， 即变得稍微聪明一点。",
                     "example": ""
                 }
             ]
@@ -3564,15 +3564,15 @@
                 {
                     "name": "counter",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "柜台",
+                    "explain": "count,数， 结帐",
                     "example": ""
                 },
                 {
                     "name": "account",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "帐目",
+                    "explain": "ac-,去， 往， count,数数。 引申词义帐目。",
                     "example": ""
                 },
                 {
@@ -3592,15 +3592,15 @@
                 {
                     "name": "compute",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "计算",
+                    "explain": "com-,表强调， -put,计算， 思考， 词源同 putative,dispute.",
                     "example": ""
                 },
                 {
                     "name": "dispute",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "争论",
+                    "explain": "dis-,分开， 散开， -put,思考， 词源同 compute,putative.即不同的思考， 引申词义争论。",
                     "example": ""
                 },
                 {
@@ -3613,15 +3613,22 @@
                 {
                     "name": "repute",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "尊敬， 声望",
                     "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "depute",
+                    "pronunciation": "",
+                    "definition": "授权， 代理",
+                    "explain": "de-,向下， 表强调， -put,思考， 词源同 compute,impute.即经过仔细思考的授权",
                     "example": ""
                 },
                 {
                     "name": "deputy",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "副职",
+                    "explain": "来自 depute,授权， 使担任副职， 代表。",
                     "example": ""
                 }
             ]
@@ -3634,71 +3641,64 @@
                 {
                     "name": "credit",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "信誉， 信用",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "incredible",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "难以置信的",
+                    "explain": "in-,不， 非， credible,可相信的。",
                     "example": ""
                 },
                 {
                     "name": "credible",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "可信的",
+                    "explain": "来自 cred-,相信， 信任。",
                     "example": ""
                 },
                 {
                     "name": "accord",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "条约",
+                    "explain": "ac-,去， 往， -cord,心， 词源同 heart.引申词义达成一致， 条约。",
                     "example": ""
                 },
                 {
                     "name": "concord",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "和谐， 一致",
+                    "explain": "con-,表强调， -cord,心， 词源同 heart,cordial.即同心， 一致",
                     "example": ""
                 },
                 {
                     "name": "record",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "cardinal",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "记录， 记载， 录音， 录制",
+                    "explain": "re-,再， 重新， -cord,心， 词源同 cordial,heart.即再次想起， 记住， 引申诸相关词义。",
                     "example": ""
                 },
                 {
                     "name": "courage",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "勇气",
+                    "explain": "来自 cor-,心， 词源同 heart,cardiologist.",
                     "example": ""
                 },
                 {
                     "name": "encourage",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "鼓励",
+                    "explain": "en-,进入， 使， courage,鼓励。",
                     "example": ""
                 },
                 {
                     "name": "heart",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "心， 内心",
+                    "explain": "来自 PIE*kerd,心， 心脏， 词源同 cordial,credible.",
                     "example": ""
                 }
             ]
@@ -3723,9 +3723,16 @@
                     "example": ""
                 },
                 {
+                    "name": "epiderm",
+                    "pronunciation": "",
+                    "definition": "表皮",
+                    "explain": "epi-,在上， 在中， -derm,皮肤， 词源同 dermal,hypodermic.",
+                    "example": ""
+                },
+                {
                     "name": "dermis",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "真皮",
                     "explain": "",
                     "example": ""
                 }
@@ -3739,50 +3746,50 @@
                 {
                     "name": "expire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "终止",
+                    "explain": "ex-,向外， -spir,呼吸， 词源同 spirit,inspire.原指呼出最后一口气， 临终",
                     "example": ""
                 },
                 {
                     "name": "aspire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "渴望",
+                    "explain": "a-,去， 往， spir-,呼吸,词源同 inspire,吸入， 启迪",
                     "example": ""
                 },
                 {
                     "name": "conspire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "密谋",
+                    "explain": "con-,表强调， -spir,呼吸， 词源同 spirit,respire",
                     "example": ""
                 },
                 {
                     "name": "inspire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "启发， 鼓舞",
+                    "explain": "in-,进入， 使， -spir,呼吸， 词源同 respire,spirit.即吸入活力， 吸收灵感， 引申词义启发， 鼓舞。",
                     "example": ""
                 },
                 {
                     "name": "perspire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "per-,穿过， 透过， -spir,呼吸， 词源同 spirit,transpire.委婉语， 引申词义出汗， 流汗。",
+                    "explain": "流汗， 出汗",
                     "example": ""
                 },
                 {
                     "name": "respire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "呼吸",
+                    "explain": "re-,表反复， -spir,呼吸， 吸气",
                     "example": ""
                 },
                 {
                     "name": "transpire",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "公开， 透露， 水分蒸发",
+                    "explain": "trans-,转变， -spir,呼吸， 词源同 spirit,conspire.引申诸相关词义。",
                     "example": ""
                 }
             ]
@@ -3795,7 +3802,7 @@
                 {
                     "name": "cape",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "披肩， 斗篷",
                     "explain": "",
                     "example": ""
                 },
@@ -3809,15 +3816,15 @@
                 {
                     "name": "capital",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "首都， 资本",
+                    "explain": "来自 cap-,头， 词义外延不断扩大。",
                     "example": ""
                 },
                 {
                     "name": "captain",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "队长",
+                    "explain": "来自 cap-,头， 词源同 chief,cape.",
                     "example": ""
                 }
             ]
@@ -3830,15 +3837,15 @@
                 {
                     "name": "manual",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "手工的， 手册",
+                    "explain": "手， 词源同 manure,manufacture.即手制造的， 手工的，",
                     "example": ""
                 },
                 {
                     "name": "manufacture",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "生产， 制造",
+                    "explain": "manu-,手， -fact,制造。",
                     "example": ""
                 },
                 {
@@ -3851,15 +3858,15 @@
                 {
                     "name": "manage",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "管理， 应付",
+                    "explain": "来自拉丁语 manus,手， 词源同 manual.引申词义用手操作， 控制， 管理， 应付等。",
                     "example": ""
                 },
                 {
                     "name": "manager",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "经理",
+                    "explain": "来自 manage,管理。",
                     "example": ""
                 },
                 {
@@ -3879,29 +3886,29 @@
                 {
                     "name": "geology",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "地质学",
+                    "explain": "geo-,地， 地球， -logy,学说。",
                     "example": ""
                 },
                 {
                     "name": "geography",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "地理学。",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "geometry",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "几何",
+                    "explain": "geo-,地， 地球， -metry,测量。",
                     "example": ""
                 },
                 {
                     "name": "geothermal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "geo-,地， 地球， thermal,热的。",
+                    "explain": "地热的",
                     "example": ""
                 }
             ]
@@ -3915,28 +3922,28 @@
                     "name": "territory",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
+                    "explain": "terra-,土地， 陆地， -ory,表地后缀。 原指领主管辖区域， 引申词义领土， 领地。",
                     "example": ""
                 },
                 {
                     "name": "terrain",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "地形， 地势",
+                    "explain": "terra-,土地， 陆地， -ain,名词后缀。 引申词义地形， 地势。",
                     "example": ""
                 },
                 {
                     "name": "terrible",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "可怕的",
+                    "explain": "来自 terror,恐惧， 惊恐， -ible,形容词后缀。",
                     "example": ""
                 },
                 {
                     "name": "terrify",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "使恐惧， 使惊吓",
+                    "explain": "来自 terror,恐惧， 惊恐， -fy,使。",
                     "example": ""
                 }
             ]
@@ -3949,15 +3956,15 @@
                 {
                     "name": "marine",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "海的",
+                    "explain": "来自 mare,海， -ine,形容词后缀。",
                     "example": ""
                 },
                 {
                     "name": "submarine",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "水下的， 海底的， 潜水艇",
+                    "explain": "sub-,在下， marine,海的。",
                     "example": ""
                 }
             ]
@@ -3977,8 +3984,8 @@
                 {
                     "name": "aquarium",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "水族馆",
+                    "explain": "来自 aqua,水， -arium,表地点。",
                     "example": ""
                 },
                 {
@@ -3998,22 +4005,22 @@
                 {
                     "name": "hydrogen",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "氢， 氢气",
+                    "explain": "hydro-,水， -gen,生成， 词源同 generate.因氢接触氧气生成水而得名。",
                     "example": ""
                 },
                 {
                     "name": "hydrant",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "给水栓， 消防龙头",
+                    "explain": "hydr-,水， -ant,名词后缀。 引申词义给水栓， 消防龙头",
                     "example": ""
                 },
                 {
                     "name": "carbohydrate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "碳氢化合物",
+                    "explain": "carb-,碳， 见 carbon.-hydr,氢， 水， 见 hydrate.",
                     "example": ""
                 }
             ]
@@ -4026,8 +4033,8 @@
                 {
                     "name": "ignite",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "点火",
+                    "explain": "来自拉丁语 ignis,火， 来自 PIE*egni,火， 词源同 Egni,印度火神。",
                     "example": ""
                 },
                 {
@@ -4047,8 +4054,8 @@
                 {
                     "name": "agriculture",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "农学",
+                    "explain": "agri-,农业， culture,培育。",
                     "example": ""
                 },
                 {
@@ -4061,8 +4068,8 @@
                 {
                     "name": "agrarian",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "农业的",
+                    "explain": "agra-,农业， 来自 ag-,做， 词源同 act,agent.",
                     "example": ""
                 }
             ]
@@ -4075,22 +4082,29 @@
                 {
                     "name": "river",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "河， 江",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "rival",
                     "pronunciation": "",
+                    "definition": "竞争者",
+                    "explain": "流动， 流水",
+                    "example": ""
+                },
+                {
+                    "name": "arrive",
+                    "pronunciation": "",
                     "definition": "",
-                    "explain": "",
+                    "explain": "ar-,向， 往， -rive,河岸， 词源同 riparian,river.指航海后到达陆地。",
                     "example": ""
                 },
                 {
                     "name": "derive",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "衍生于",
+                    "explain": "de-,从， 向下， 离开， -riv,流动， 词源同 river,rivulet.原指从源头处流下， 引申词义衍生于",
                     "example": ""
                 }
             ]
@@ -4138,22 +4152,22 @@
                 {
                     "name": "flow",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "浮动， 流动",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "flood",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "洪水",
+                    "explain": "流动，",
                     "example": ""
                 },
                 {
                     "name": "fluid",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "液体",
+                    "explain": "流动",
                     "example": ""
                 },
                 {
@@ -4164,17 +4178,10 @@
                     "example": ""
                 },
                 {
-                    "name": "flute",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
                     "name": "influence",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "影响， 支配",
+                    "explain": "in-,进入， 使， -flu,流动， 词源同 fluid,fluent.即流进， 引申词义影响",
                     "example": ""
                 },
                 {
@@ -4194,8 +4201,8 @@
                 {
                     "name": "affluent",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "富裕的",
+                    "explain": "af-,去， 往， -flu,流动， 流出。",
                     "example": ""
                 },
                 {
@@ -4215,8 +4222,8 @@
                 {
                     "name": "confluence",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "汇合处",
+                    "explain": "con-,表强调， -flu,流， 词源同 flu,fluent.",
                     "example": ""
                 }
             ]
@@ -4229,29 +4236,29 @@
                 {
                     "name": "confuse",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "困惑",
+                    "explain": "con-,表强调， -fus,流， 倾泻， 词源同 fusion,foundry.即流到一起， 难以区别而产生困惑。",
                     "example": ""
                 },
                 {
                     "name": "refuse",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "拒绝， 回绝",
+                    "explain": "re-,向后， 往回， -fus,流入， 词源同 refund,fusion.即流回， 引申词义拒绝， 回绝。",
                     "example": ""
                 },
                 {
                     "name": "diffuse",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "漫射",
+                    "explain": "dis-,分开， 散开， -fus,流， 涌， 词源同 fusion,confuse.即光线向不同方向流出， 漫射开。",
                     "example": ""
                 },
                 {
                     "name": "infuse",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "注入",
+                    "explain": "in-,进入， 使， -fus,流， 涌进， 词源同 fuse,confuse.",
                     "example": ""
                 }
             ]
@@ -4264,8 +4271,8 @@
                 {
                     "name": "civil",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "城市的， 市民的",
+                    "explain": "城市的， 市民的",
                     "example": ""
                 },
                 {
@@ -4279,7 +4286,7 @@
                     "name": "civility",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
+                    "explain": "文明",
                     "example": ""
                 },
                 {
@@ -4299,29 +4306,29 @@
                 {
                     "name": "politic",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "政治的， 谨慎的， 明智的， 从政的",
+                    "explain": "polis,城邦， 市民， 词源同 police,polity.引申词义谨慎的， 明智的。 同时用于动词词义从政。",
                     "example": ""
                 },
                 {
                     "name": "political",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "政治的",
+                    "explain": "来自 politic,政治的， -al,形容词后缀",
                     "example": ""
                 },
                 {
                     "name": "police",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "警察",
+                    "explain": "来自希腊语 polis,城市，词源同 policy,polity.该词为 policy 对词，",
                     "example": ""
                 },
                 {
                     "name": "policy",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "政策， 主张",
+                    "explain": "来自希腊语 polis,城市， 词源同 policy,polity.该词为 police 对词，引申词义政策， 主张。",
                     "example": ""
                 }
             ]
@@ -4334,15 +4341,15 @@
                 {
                     "name": "democracy",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "民主制",
+                    "explain": "demo-,人民， -cracy,管理， 统治。",
                     "example": ""
                 },
                 {
                     "name": "epidemic",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "流行的",
+                    "explain": "epi-,在上， 在中， -demo,人民， 词源同 demotic,democracy.432",
                     "example": ""
                 }
             ]
@@ -4355,22 +4362,22 @@
                 {
                     "name": "popular",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "流行的",
+                    "explain": "popul-,人， 民众， -ar,形容词后缀。 比喻用法。",
                     "example": ""
                 },
                 {
                     "name": "population",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "人口",
+                    "explain": "来自 populate,居住， 构成人口， -ion,名词后缀。",
                     "example": ""
                 },
                 {
                     "name": "populate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "构成人口， 居住， 迁移",
+                    "explain": "popul-,人， 民众， -ate,使。 引申词义居住， 迁移等。",
                     "example": ""
                 }
             ]
@@ -4383,15 +4390,15 @@
                 {
                     "name": "dome",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "穹顶",
+                    "explain": "来自拉丁语 domus,家， 词源同 domain.引申词义天主教教堂， 穹顶。",
                     "example": ""
                 },
                 {
                     "name": "domestic",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "本国的",
+                    "explain": "来自拉丁语 domus,家， 词源同 domain.即家里面的， 本国的。",
                     "example": ""
                 },
                 {
@@ -4404,14 +4411,14 @@
                 {
                     "name": "predominate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "占优势， 主导",
+                    "explain": "pre-,在前， 早于， dominate,统治， 控制。 引申词义占优势， 主导。",
                     "example": ""
                 },
                 {
                     "name": "dominate",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "控制， 支配， ",
                     "explain": "",
                     "example": ""
                 }
@@ -4425,50 +4432,50 @@
                 {
                     "name": "region",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "地方， 区域",
+                    "explain": "来自拉丁语 regere,统治， 管理， 词源同 regulate.即管理区域。",
                     "example": ""
                 },
                 {
                     "name": "regime",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "政治制度， 政体",
+                    "explain": "来自法语 regime,来自拉丁语 regimen,统治， 政府， 政体， 制度， 来自 regere,统治， 管理， 词",
                     "example": ""
                 },
                 {
                     "name": "regal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "王室的， 豪华的",
+                    "explain": "来自拉丁语 regalis,国王的， 王室的， 来自 rex,国王， 来自 PIE*reg,拉直， 管理， 统治， 词源同 regulate,right.",
                     "example": ""
                 },
                 {
                     "name": "reign",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "统治， 当政",
+                    "explain": "来自拉丁语 regnum,王国， 统治， 来自 regere,统治， 管理， 词源同 regal,regulate.",
                     "example": ""
                 },
                 {
                     "name": "regulation",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "规章制度",
+                    "explain": "来自 regulate,管理， 控制。",
                     "example": ""
                 },
                 {
                     "name": "regular",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "规则的， 惯常的",
+                    "explain": "来自拉丁语 regula,规则，来自 regere,管理，统治，来自 PIE*reg,拉直，词源同 correct,right,regal.",
                     "example": ""
                 },
                 {
                     "name": "regulate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "管理， 控制， 调节",
+                    "explain": "来自 regular,规则的， 惯常的， -ate,使。 引申词义管理， 控制等。",
                     "example": ""
                 }
             ]
@@ -4481,15 +4488,15 @@
                 {
                     "name": "culture",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "种植， 栽培， 文明， 文化",
+                    "explain": "来自 cult-,耕作。 引申词义文化， 即耕耘， 培养。",
                     "example": ""
                 },
                 {
                     "name": "agriculture",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "农学",
+                    "explain": "agri-,农业， culture,培育。",
                     "example": ""
                 },
                 {
@@ -4509,15 +4516,15 @@
                 {
                     "name": "aggregate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "合并",
+                    "explain": "ag-,向， 往， -greg,集聚， 词源同 gregarious,合群的。",
                     "example": ""
                 },
                 {
                     "name": "congregate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "聚集",
+                    "explain": "con-,表强调， -greg,集合， 词源同 aggregate,egregious.",
                     "example": ""
                 }
             ]
@@ -4530,29 +4537,22 @@
                 {
                     "name": "urban",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "城市的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "urbanize",
+                    "name": "urbanized",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "urbane",
-                    "pronunciation": "",
-                    "definition": "",
+                    "definition": "城市化的",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "suburb",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "郊区",
+                    "explain": "sub-,在下， -urb,城市， 词源同 urban,urbane.引申词义郊区， 城乡结合部。",
                     "example": ""
                 }
             ]
@@ -4565,7 +4565,7 @@
                 {
                     "name": "anthropology",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "人类学",
                     "explain": "",
                     "example": ""
                 },
@@ -4579,7 +4579,7 @@
                 {
                     "name": "anthropoid",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "类人",
                     "explain": "",
                     "example": ""
                 }
@@ -4593,15 +4593,22 @@
                 {
                     "name": "patriot",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "同胞， 爱国者",
+                    "explain": "来自 pater,父亲， 词源同 father.-otes,状态后缀。 即同一个父亲的， 同一个祖先的， 后用以指同胞， 爱国者。",
+                    "example": ""
+                },
+                {
+                    "name": "compatriot",
+                    "pronunciation": "",
+                    "definition": "同胞",
+                    "explain": "com-,表强调， -patri,父亲， 词源同 father.即同宗同祖",
                     "example": ""
                 },
                 {
                     "name": "father",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "父亲",
+                    "explain": "pater,父亲",
                     "example": ""
                 },
                 {
@@ -4614,15 +4621,15 @@
                 {
                     "name": "mother",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "母亲",
+                    "explain": "妈妈， 来自*ma,妈， 儿语",
                     "example": ""
                 },
                 {
                     "name": "matrix",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "矩阵， 社会环境",
+                    "explain": "来自拉丁语 matrix,子宫， 母体， 来自 mater,母亲。 引申词义社会环境， 并用于指科学术语矩阵。 见电影《黑客帝国》",
                     "example": ""
                 }
             ]
@@ -4635,29 +4642,22 @@
                 {
                     "name": "luminous",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "发光的",
+                    "explain": "来自拉丁语 lumen,光亮， 光线， 词源同 light.",
                     "example": ""
                 },
                 {
                     "name": "illuminate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "il-,进入， 使， -lum,发光， 照亮， 词源同 light,luminary.引申词义解释， 说明。",
+                    "explain": "照明， 解释",
                     "example": ""
                 },
                 {
                     "name": "illustrate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "luxury",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "解释， 阐明",
+                    "explain": "il-,进入， 使， luster,发光， 光泽。 引申词义解释， 阐明。",
                     "example": ""
                 },
                 {
@@ -4678,7 +4678,7 @@
                     "name": "umbrella",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
+                    "explain": "umbra,阴影， 影子， 词源同 adumbrate,umbrage,-ella,小词后缀。 用来指遮阳伞或雨伞。",
                     "example": ""
                 }
             ]
@@ -4691,22 +4691,22 @@
                 {
                     "name": "photo",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "曝光， 照片。",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "photon",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "光子",
+                    "explain": "phot-,光， -on,子， 词源同 ion,electron.",
                     "example": ""
                 },
                 {
                     "name": "photograph",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "照片， 照相",
+                    "explain": "phot-,光， -graph,写， 记录。 即把光记录下来， 引申词义照相， 相片。",
                     "example": ""
                 }
 
@@ -4718,10 +4718,10 @@
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "raiation",
+                    "name": "radiation",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "放射线， 辐射",
+                    "explain": "来自 radiate,放射， 辐射。",
                     "example": ""
                 },
                 {
@@ -4734,15 +4734,15 @@
                 {
                     "name": "radius",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "半径",
+                    "explain": "rad-,半径， 根， -us,阳性格。",
                     "example": ""
                 },
                 {
                     "name": "radiator",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "暖气片， 散热器",
+                    "explain": "来自 radiate,放射， 发散。 后用于指暖气片， 散热器等。",
                     "example": ""
                 }
             ]
@@ -4755,22 +4755,22 @@
                 {
                     "name": "primary",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "最早的， 最主要的",
+                    "explain": "来自 prime,第一的， 最初的， 首要的， -ary,形容词后缀。",
                     "example": ""
                 },
                 {
                     "name": "prime",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "第一的， 最初的， 首要的",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "primitive",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "原始的， 远古的， 简单的",
+                    "explain": "来自 prime,第一的， 最初的， 原始的， -itive,形容词后缀",
                     "example": ""
                 },
                 {
@@ -4804,15 +4804,15 @@
                 {
                     "name": "generate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "产生",
+                    "explain": "来自 gen-,生育， 词源同 gene.",
                     "example": ""
                 },
                 {
                     "name": "gene",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "基因",
+                    "explain": "来自 gen-,生育， 词源同 generate.用于科学术语。",
                     "example": ""
                 },
                 {
@@ -4825,36 +4825,36 @@
                 {
                     "name": "genius",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "天资",
+                    "explain": "来自 gen-,生育， 词源同 generate.原义为守护精灵， 传说中每个人出生时都会有守护精灵相伴而生， 并一生陪伴成长， 引申词义天资。 ",
                     "example": ""
                 },
                 {
                     "name": "antigen",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "抗原",
+                    "explain": "anti-,相对， 相反， -gen,产生， 原。",
                     "example": ""
                 },
                 {
                     "name": "oxygen",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "氧气",
+                    "explain": "来自 PIE*ak,尖， 刺， 词源同 acid,acumen.-gen,生成， 产生。 即生成的尖锐刺鼻气体， 后用于指氧气。",
                     "example": ""
                 },
                 {
                     "name": "gender",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "性别",
+                    "explain": "来自 gen-,生育， 词源同 gene,generate.",
                     "example": ""
                 },
                 {
                     "name": "degenerate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "堕落， 恶化",
+                    "explain": "de-,向下， 离开， -gen,出生， 词源同 gene,generate.原义为偏离祖训， 有损祖先名声， 后引申为堕落， 恶化。",
                     "example": ""
                 },
                 {
@@ -4867,8 +4867,8 @@
                 {
                     "name": "general",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "一般的， 通用的， 将军",
+                    "explain": "来自 gen-,生育， 词源同 generate.即同种类的， 通用的。 引申词义将军。",
                     "example": ""
                 }
             ]
@@ -4881,8 +4881,8 @@
                 {
                     "name": "final",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "最后的",
+                    "explain": "来自拉丁语 finis,终结， 边界， 词源同 finish.",
                     "example": ""
                 },
                 {
@@ -4893,24 +4893,24 @@
                     "example": ""
                 },
                 {
-                    "name": "definate",
+                    "name": "definite",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "明确的",
+                    "explain": "来自 define,明确， 界定。",
                     "example": ""
                 },
                 {
                     "name": "define",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "明确， 界定",
+                    "explain": "de-,向下， 表强调， -fin,边界， 界限， 词源同 finish",
                     "example": ""
                 },
                 {
                     "name": "confine",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "限制",
+                    "explain": "con-,表强调， -fin,界限， 限制， 词源同 finish,finite.",
                     "example": ""
                 }
             ]
@@ -4925,6 +4925,13 @@
                     "pronunciation": "",
                     "definition": "",
                     "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "synchronize",
+                    "pronunciation": "",
+                    "definition": "使同步",
+                    "explain": "syn-,一起， -chron,时间， 词源同 chronic,chronicle.",
                     "example": ""
                 },
                 {
@@ -4949,17 +4956,17 @@
             "explain": "well,美丽，幸福，好的结果",
             "words":[
                 {
-                    "name": "contrmporary",
+                    "name": "contemporary",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "同时代的",
+                    "explain": "con-,表强调， -temp,时间， 词源同 temporary.",
                     "example": ""
                 },
                 {
                     "name": "temporary",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "临时的， 暂时的",
+                    "explain": "来自 temporal,时间的， -ary,形容词后缀。 原义为持续一段时间的， 后引申词义临时的， 暂时的。",
                     "example": ""
                 }
             ]
@@ -4972,36 +4979,36 @@
                 {
                     "name": "signal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "信号， 暗号， 标记， 表明",
+                    "explain": "sign,标记， 记号， -al,名词后缀。 引申词义信号， 暗号等。",
                     "example": ""
                 },
                 {
                     "name": "signify",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "预示， 表明， 表达， 表示",
+                    "explain": "sign,标记， 记号， -fy,使。 引申诸相关词义。",
                     "example": ""
                 },
                 {
                     "name": "design",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "设计",
+                    "explain": "de-,向下， sign,标记。 即写下来， 描绘， 设计。",
                     "example": ""
                 },
                 {
                     "name": "assign",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "指定",
+                    "explain": "as-,去， 往， sign,记号。",
                     "example": ""
                 },
                 {
                     "name": "resign",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "放弃， 屈从， 顺从， 辞职",
+                    "explain": "来自 re-,相反， signare,作记号， 作标记， 词源同 sign.比喻用法， 引申诸相关词义。",
                     "example": ""
                 }
             ]
@@ -5014,36 +5021,36 @@
                 {
                     "name": "component",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "组成",
+                    "explain": "com-,表强调， -pon,放置， 词源同 opponent,position.即放在一起。",
                     "example": ""
                 },
                 {
                     "name": "opponent",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "反对者， 对手",
+                    "explain": "op-,相对， 对着的， -pon,放置， 词源同 pose,component.即对着放的， 引申词义反对者， 对手。",
                     "example": ""
                 },
                 {
                     "name": "postpone",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "推迟， 延期",
+                    "explain": "post-,在后， -pon,放置， 词源同 position.引申词义推迟， 延期。",
                     "example": ""
                 },
                 {
                     "name": "compound",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "复合物",
+                    "explain": "com-,表强调， -pon,放置， 词源同 opponent,position.即放在一起的。",
                     "example": ""
                 },
                 {
                     "name": "preposition",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "介词",
+                    "explain": "pre-,在前， position,位置。 用于语法指介词。",
                     "example": ""
                 },
                 {
@@ -5063,71 +5070,64 @@
                 {
                     "name": "purpose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "意图， 目的， 意义",
+                    "explain": "pur-,向前， -pos,放置， 词源同 pose,position.引申词义意图， 目的等。",
                     "example": ""
                 },
                 {
                     "name": "suppose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "认为， 假设， 推测， 猜测",
+                    "explain": "sup-,在下， -pos,放置， 词源同 position,propose.引申词义认为， 假设等",
                     "example": ""
                 },
                 {
                     "name": "compose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "symposium",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "组成",
+                    "explain": "com-,表强调， -pos,放置， 词源同 opponent,position.即放在一起的",
                     "example": ""
                 },
                 {
                     "name": "dispose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "安排， 布置， 处理",
+                    "explain": "dis-,分开， 散开， -pos,放置， 词源同 pose,compose.即有序布置， 安排， 引申词义处理。",
                     "example": ""
                 },
                 {
                     "name": "deposit",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "沉积， 存放",
+                    "explain": "de-,向下， 离开， -posit,放置， 词源同 composite,position.即放下， 引申词义存放， 沉积。",
                     "example": ""
                 },
                 {
                     "name": "impose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "推行， 强加",
+                    "explain": "im-,进入， 使， -pos,放置， 词源同 position,compose.即放置， 施压， 引申词义推行， 强加。",
                     "example": ""
                 },
                 {
                     "name": "expose",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "ex-,向外，-pos,放置，词源同 pose,component.即展开，引申词义暴露。比较词源同源词 exponent.",
+                    "explain": "暴露",
                     "example": ""
                 },
                 {
                     "name": "position",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "位置， 观点， 态度",
+                    "explain": "引申词义位置， 观点， 态度等",
                     "example": ""
                 },
                 {
                     "name": "posture",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": " 姿势",
+                    "explain": "posture 姿势， 看法， 做出某种姿势 ",
                     "example": ""
                 }
             ]
@@ -5140,22 +5140,22 @@
                 {
                     "name": "delegate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "授权， 委托",
+                    "explain": "de-,向下， 离开， -leg,法律， 送出， 词源同 legal,legate.即依法授权， 委托。",
                     "example": ""
                 },
                 {
                     "name": "relegate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "降级， 贬职",
+                    "explain": "re-,向后， 往回， -leg,送出， 词源同 legate,delegate.引申词义降级， 贬职。",
                     "example": ""
                 },
                 {
                     "name": "legal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "法律的",
+                    "explain": "来自拉丁语 legis,法， 法律， 来自 PIE*leg,选择， 收集， 词源同 collect.引申词义收集的规则,法规， 法律。",
                     "example": ""
                 },
                 {
@@ -5168,8 +5168,8 @@
                 {
                     "name": "legitimate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "合法的， 合情合理的",
+                    "explain": "来自拉丁语 legis,法律， 词源同 legal.",
                     "example": ""
                 }
             ]
@@ -5203,15 +5203,15 @@
                 {
                     "name": "denominate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "命名",
+                    "explain": "de-,向下， 表强调， -nom,命名， 词源同 name.即命名， 取名字。",
                     "example": ""
                 },
                 {
                     "name": "anonymous",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "匿名的",
+                    "explain": "an-,无， 没有， -onym,名字， 词源同 name",
                     "example": ""
                 }
             ]
@@ -5224,22 +5224,22 @@
                 {
                     "name": "normal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "正常的",
+                    "explain": "来自 norm,规范， 正常。",
                     "example": ""
                 },
                 {
                     "name": "abnormal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "不正常的",
+                    "explain": "ab-,不， 非， normal,正常的",
                     "example": ""
                 },
                 {
                     "name": "enormous",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "巨大的",
+                    "explain": "e-,向外， -norm,正常， 见 normal.即超出正常的， 巨大的。",
                     "example": ""
                 }
             ]
@@ -5252,14 +5252,14 @@
                 {
                     "name": "detect",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "查明",
+                    "explain": "de-,不， 非， 使相反， -tect,覆盖， 词源同 deck,tile.即揭开覆盖， 查明。",
                     "example": ""
                 },
                 {
                     "name": "deck",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "甲板",
                     "explain": "",
                     "example": ""
                 }
@@ -5273,15 +5273,8 @@
                 {
                     "name": "discover",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "recover",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "发现",
+                    "explain": "dis-,不， 非， 使相反， cover,覆盖。",
                     "example": ""
                 }
             ]
@@ -5301,8 +5294,8 @@
                 {
                     "name": "decrypt",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "解密",
+                    "explain": "de-,不， 非， 使相反， crypt,隐秘的。",
                     "example": ""
                 }
             ]
@@ -5315,22 +5308,22 @@
                 {
                     "name": "property",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "财产， 房产， 不动产",
+                    "explain": "来自 proper,个人的， -ty,名词后缀。 即个人或私人所有的财产或财物。",
                     "example": ""
                 },
                 {
                     "name": "appropriate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "合适的",
+                    "explain": "ap-,向， 往， proper,自己的， 合适的。",
                     "example": ""
                 },
                 {
                     "name": "proper",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "个人的， 正确的， 恰当的， 合适的",
+                    "explain": "来自 privus,个人的， 私人的， 词源同 private.引申诸相关词义",
                     "example": ""
                 }
             ]
@@ -5350,22 +5343,43 @@
                 {
                     "name": "service",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "服务， 服役， 检修， 维修",
+                    "explain": "serve,服务， -ice,名词后缀。 引申诸相关词义。",
                     "example": ""
                 },
                 {
                     "name": "sergent",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "中士， 警佐",
+                    "explain": "sergent,仆人， 家仆， 臣子， 来自拉丁语 servire,服务， 服侍， 词源同 serve,-ant 人。 后用于指军事衔级中士， 警佐。 词义演变比较 marshal,元帅， 原指国王养马的仆人。",
                     "example": ""
                 },
                 {
                     "name": "deserve",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "应得",
+                    "explain": "de-,向下， 表强调， serve,服务。 原指服务所应得的报酬， 后词义通用化",
+                    "example": ""
+                },
+                {
+                    "name": "preserve",
+                    "pronunciation": "",
+                    "definition": "保护， 维护， 保存",
+                    "explain": "pre-,在前， 早于， 预先， -serv,保护， 看护， 词源同 conserve,observe.",
+                    "example": ""
+                },
+                {
+                    "name": "conserve",
+                    "pronunciation": "",
+                    "definition": "保护",
+                    "explain": "con-,表强调， -serv,照看， 保护， 词源同 observe,观察。",
+                    "example": ""
+                },
+                {
+                    "name": "observe",
+                    "pronunciation": "",
+                    "definition": "观察， 注视， 遵行， 遵守",
+                    "explain": "ob-,向前， 朝向， -serve,注视， 观察， 保护， 词源同 conserve,hero.引申词义坚守， 遵守， 遵行等。",
                     "example": ""
                 }
             ]
@@ -5378,15 +5392,15 @@
                 {
                     "name": "benediction",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "祝福",
+                    "explain": "bene-,美丽， 幸福， 好， 词源同 belle,美女， bonus,红利。 -dict,说， 词源同 diction,措辞。",
                     "example": ""
                 },
                 {
                     "name": "benefit",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "益处",
+                    "explain": "来自法语。 bene-,好， -fit,做， 词源同 fact,字母 c 脱落。 原指做好事， 善举， 后也指个人利益，即善有善报。",
                     "example": ""
                 }
             ]
@@ -5399,29 +5413,29 @@
                 {
                     "name": "amiable",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "友好的",
+                    "explain": "来自 am-,爱， 愉悦， 词源同 amateur.",
                     "example": ""
                 },
                 {
                     "name": "amateur",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "业余爱好者",
+                    "explain": "am-,爱， 爱好， 词源同 amiable,-eur,人。",
                     "example": ""
                 },
                 {
                     "name": "amour",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "风流事",
+                    "explain": "来自 am-,爱， 愉悦， 词源同 amiable.",
                     "example": ""
                 },
                 {
                     "name": "enamor",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "迷恋",
+                    "explain": "en-,进入， 使， -am,爱， 词源同 amigo,amiable.",
                     "example": ""
                 }
             ]
@@ -5434,22 +5448,22 @@
                 {
                     "name": "placable",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "可安抚的， 易抚慰的",
                     "explain": "",
                     "example": ""
                 },
                 {
                     "name": "placid",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "平静的",
+                    "explain": "来自拉丁语 placate,安抚， 安慰， 词源同 please,placate.引申词义安抚的， 平静的。",
                     "example": ""
                 },
                 {
                     "name": "please",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "请， 使满意",
+                    "explain": "来自 placere,抚慰， 安抚， 来自 PIE*plak,平的， 来自 PIE*pele,展开， 放平， 词源同 plan,place.",
                     "example": ""
                 }
             ]
@@ -5462,8 +5476,8 @@
                 {
                     "name": "congratulate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "道贺",
+                    "explain": "con-,表强调， -grat,感激， 致意， 词源同 grateful,ingrate.congratulation 祝贺",
                     "example": ""
                 },
                 {
@@ -5476,14 +5490,14 @@
                 {
                     "name": "grateful",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "感谢的",
+                    "explain": "来自 grat-,感谢， 词源同 grace,gratitude.",
                     "example": ""
                 },
                 {
                     "name": "grace",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "优雅， 恩宠",
                     "explain": "",
                     "example": ""
                 },
@@ -5497,8 +5511,8 @@
                 {
                     "name": "agree",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "同意",
+                    "explain": "去， 往， -gree,满意， 词源同 gratify,使满意。",
                     "example": ""
                 },
                 {
@@ -5511,8 +5525,8 @@
                 {
                     "name": "disagree",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "不同意",
+                    "explain": "dis-,不， 非， 使相反， agree,同意。",
                     "example": ""
                 }
             ]
@@ -5525,15 +5539,15 @@
                 {
                     "name": "philology",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "语文学",
+                    "explain": "philo-,爱， 爱好， -log,说话， 语言， 词源同 dialogue,lecture.引申词义语文学。",
                     "example": ""
                 },
                 {
                     "name": "philosophy",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "哲学",
+                    "explain": "philo-,爱， 爱好， -soph,思考， 智慧， 词源同 Sophia,sophist.引申词义哲学家。",
                     "example": ""
                 }
             ]
@@ -5546,15 +5560,15 @@
                 {
                     "name": "rebel",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "反抗， 叛逆",
+                    "explain": "re-,相对， 相反， -bel,战争， 词源同 belligerent,bellicose.引申词义反抗， 叛逆。",
                     "example": ""
                 },
                 {
                     "name": "antebellum",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "战前",
+                    "explain": "ante-,在前， -bell,战争， 词源同 Bellona,罗马神话中司战女神",
                     "example": ""
                 }
             ]
@@ -5567,15 +5581,15 @@
                 {
                     "name": "army",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "军队",
+                    "explain": "来自 arm,武器， 装甲。",
                     "example": ""
                 },
                 {
                     "name": "armor",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "甲胄",
+                    "explain": "来自 arm,武器， 装甲。",
                     "example": ""
                 },
                 {
@@ -5588,8 +5602,8 @@
                 {
                     "name": "disarm",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "裁军",
+                    "explain": "dis-,不， 非， 使相反， arm,武装， 军备竞赛。 即解除武装， 裁军。",
                     "example": ""
                 }
             ]
@@ -5602,22 +5616,22 @@
                 {
                     "name": "battle",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "战斗",
+                    "explain": "词源同 beat,击， 打， -le,表反复。",
                     "example": ""
                 },
                 {
                     "name": "combat",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "战斗",
+                    "explain": "com-,表强调， -bat,击， 打， 词源同 beat,batter.",
                     "example": ""
                 },
                 {
                     "name": "debate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "争辩",
+                    "explain": "de-,表加强， -bat,击打， 词源同 beat,batter.引申词义交锋， 争辩。",
                     "example": ""
                 }
             ]
@@ -5630,7 +5644,7 @@
                 {
                     "name": "military",
                     "pronunciation": "",
-                    "definition": "",
+                    "definition": "军事的， 军队的",
                     "explain": "",
                     "example": ""
                 }
@@ -5644,15 +5658,15 @@
                 {
                     "name": "punish",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "惩罚， 处罚",
+                    "explain": "来自拉丁语 punire,惩罚， 处罚， 纠正， 来自 poena,处罚， 罚金， 词源同 pain,penal.",
                     "example": ""
                 },
                 {
                     "name": "penalty",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "处罚， 刑罚， 罚点球",
+                    "explain": "来自 penal,处罚的， 处罚的。 后用于指体育运动罚球， 罚点球等。",
                     "example": ""
                 }
             ]
@@ -5672,8 +5686,8 @@
                 {
                     "name": "criminal",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "罪犯",
+                    "explain": "来自 crime,犯罪。",
                     "example": ""
                 },
                 {
@@ -5700,10 +5714,17 @@
                 {
                     "name": "critical",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "关键的",
+                    "explain": "来自 PIE*krei,区分， 筛选， 判断， 词源同 crime,crisis.即到了选择关头的， 关键的。",
                     "example": ""
                 },
+                {
+                    "name": "criticism",
+                    "pronunciation": "",
+                    "definition": "批评",
+                    "explain": "词源同 criterion,标准。 即使其达到标准， 批评使其改正。",
+                    "example": ""
+                }, 
                 {
                     "name": "critize",
                     "pronunciation": "",
@@ -5714,8 +5735,8 @@
                 {
                     "name": "critique",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "评论",
+                    "explain": "来自 PIE*krei,区分， 筛选， 判断， 词源同 crime,crisis.即进行区分， 判断， 进行评论。",
                     "example": ""
                 },
                 {
@@ -5735,50 +5756,43 @@
                 {
                     "name": "judge",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "法官， 审判员， 判断， 审判",
+                    "explain": "来自古法语 jugier,判断， 审判， 来自拉丁语 iudicare,判断， 审判， 来自 ius,正义， 公理， 法律， 词源同 just,justice,dicere,说， 词源同 dictate,diction.即依法进行判断， 审理和裁决。 引申词义法官， 审判员。 拼写比较 bridge,edge,lodge.",
                     "example": ""
                 },
                 {
                     "name": "prejudge",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "预先判断， 成见",
+                    "explain": "pre-,在前， 早于， 预先， judge,判断。 引申词义偏见， 成见。",
                     "example": ""
                 },
                 {
                     "name": "prejudice",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "偏见， 偏心， 成见",
+                    "explain": "pre-,在前， 早于， 预先， -judic,判断， 裁决， 词源同 judge,judiciary.引申词义偏见， 偏心。",
                     "example": ""
                 },
                 {
                     "name": "judicial",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "司法的",
+                    "explain": "词源同 judge.即与审判相关的， 引申词义司法的。",
                     "example": ""
                 },
                 {
                     "name": "judicious",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "明智的， 有判断力的",
+                    "explain": "来自拉丁语 iudicare,审判， 判决， 判断， 词源同 judge.即有判断力的， 明智的， 审慎的。",
                     "example": ""
                 },
                 {
                     "name": "adjure",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "conjure",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "声明放弃",
+                    "explain": "ab-,离开， -jure,发誓,词源同 adjure.即发誓离开， 引申词义放弃。",
                     "example": ""
                 },
                 {
@@ -5791,29 +5805,36 @@
                 {
                     "name": "justify",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "证明合法， 证明有理， 辩护",
+                    "explain": "just,合法的， 公正的， -fy,使。 即使合法， 引申词义证明合法， 证明有理， 辩护等。",
                     "example": ""
                 },
                 {
                     "name": "adjust",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "调节",
+                    "explain": "来自俗词源， ad-,去， 往， just,刚好的。",
+                    "example": ""
+                },
+                {
+                    "name": "injure",
+                    "pronunciation": "",
+                    "definition": "伤害",
+                    "explain": "in-,不， 非， -jur,法律， 公正， 词源同 jury,justice.即审判不公， 引申词义伤害。",
                     "example": ""
                 },
                 {
                     "name": "justice",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "公平， 正义",
+                    "explain": "来自 just,公平的， 公正的， -ice,名词后缀。",
                     "example": ""
                 },
                 {
                     "name": "justify",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "just,合法的， 公正的， -fy,使。 即使合法， 引申词义证明合法， 证明有理， 辩护等。",
+                    "explain": "证明合法， 证明有理， 辩护",
                     "example": ""
                 }
             ]
@@ -5827,14 +5848,14 @@
                     "name": "orthodox",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "",
+                    "explain": "ortho-,正确的， -dox,观念， 思想， 词源同 doctor,dogma.",
                     "example": ""
                 },
                 {
                     "name": "orthography",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "文字正确拼写法",
+                    "explain": "ortho-,正确的， -graphy,写。",
                     "example": ""
                 },
                 {
@@ -5854,36 +5875,36 @@
                 {
                     "name": "correct",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "正确的",
+                    "explain": "cor-,表强调， -rect,直， 正确， 词源同 erect,right .",
                     "example": ""
                 },
                 {
                     "name": "direct",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "直接， 管理",
+                    "explain": "di-,分开， -reg,竖直， 引导， 词源同 regulate,correct.引申词义拉直， 部署， 管理。",
                     "example": ""
                 },
                 {
                     "name": "directory",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "电话号码薄",
+                    "explain": "来自 direct,引导， 管理。 引申词义电话号码薄。",
                     "example": ""
                 },
                 {
                     "name": "rectify",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "纠正， 矫正",
+                    "explain": "rect-,直的， 正确的， -fy,使。",
                     "example": ""
                 },
                 {
                     "name": "rectangle",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "直角",
+                    "explain": "rect-,直的， 正确的， angle,角。",
                     "example": ""
                 }
             ]
@@ -5896,15 +5917,15 @@
                 {
                     "name": "error",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "错误",
+                    "explain": "来自 err,犯错误。",
                     "example": ""
                 },
                 {
                     "name": "aberrant",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "反常的",
+                    "explain": "ab-,离开， -err,偏离， 词源同 error,错误。 即偏离， 引申词义反常的。",
                     "example": ""
                 }
             ]
@@ -5917,22 +5938,22 @@
                 {
                     "name": "probe",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "盘问， 追究， 探究， 试探， 检验",
+                    "explain": "检验， 试探， 来自 pro-,向前， -be,成为， 存在， 词源同 be.引申诸相关词义。",
                     "example": ""
                 },
                 {
                     "name": "prove",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "证明， 证实",
+                    "explain": "来自拉丁语 probare,检验， 证明， 测试， 来自 pro-,向前， -be,成为， 是， 词源同 be.",
                     "example": ""
                 },
                 {
                     "name": "improve",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "改进， 改善",
+                    "explain": "em-,进入， 使， prou,利润， 收益，词源同 proud,原义为有收益的， 有用的。 后拼写受 prove 影响俗化。 引申词义改进， 改善。",
                     "example": ""
                 }
             ]
@@ -5959,15 +5980,15 @@
                 {
                     "name": "grief",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "悲痛",
+                    "explain": "来自拉丁语 gravis,重的， 沉重， 词源同 grave,gravity.",
                     "example": ""
                 },
                 {
                     "name": "aggravate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "加重",
+                    "explain": "ag-,向， 往， -grav,重， 词源同 gravity,重力。",
                     "example": ""
                 }
             ]
@@ -5980,50 +6001,43 @@
                 {
                     "name": "lever",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "levy",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "杠杆",
+                    "explain": "来自拉丁语 levare,升起， 举起， 来自 PIE*legwh,轻的， 可举起的， 词源同 light,levitate.引申词义杠杆。",
                     "example": ""
                 },
                 {
                     "name": "elevate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "提升",
+                    "explain": "e-,向外， -lev,举起， 轻， 词源同 light,lever.",
                     "example": ""
                 },
                 {
                     "name": "alleviate",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "缓和",
+                    "explain": "al-,去， 往， -lev,轻， 词源同 lever,light.",
                     "example": ""
                 },
                 {
                     "name": "levity",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "轻浮， 轻佻",
+                    "explain": "轻的， 可举起的， 词源同 light,levitate.引申词义轻浮， 轻佻。",
                     "example": ""
                 },
                 {
                     "name": "relieve",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "缓和， 减轻",
+                    "explain": "来自拉丁语 relevare,减轻， 来自 re-,表强调， levare,举起， 词源同 lever,lighten,relevant.",
                     "example": ""
                 },
                 {
                     "name": "relief",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
+                    "definition": "缓和， 减轻， 浮雕",
+                    "explain": "来自 relieve 的名词形式。 比较 proof,prove.",
                     "example": ""
                 }
             ]
