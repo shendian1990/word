@@ -2,84 +2,98 @@
     "etymology":[
         {
             "index": 1,
-            "root": "aud",
-            "explain": "和听有关",
+            "root": "voc",
+            "explain": "voice   voc 表示声音",
             "words":[
                 {
-                    "name": "audible",
+                    "name": "voice",
                     "pronunciation": "",
-                    "definition": "adj. 听得见的",
-                    "explain": "aud+ible, ible=able 有....能力.听得见的",
+                    "definition": "n. 声音；嗓音；发言权；愿望",
+                    "explain": "voice = voc ",
                     "example": ""
                 },
                 {
-                    "name": "audio",
+                    "name": "vocal",
                     "pronunciation": "",
-                    "definition": "adj. 声音的；[声] 音频的",
-                    "explain": "audi=aud  +o, 元音aeiou变换，其意义不变",
+                    "definition": "adj. 歌唱的；声音的，有声的",
+                    "explain": "voc + -al",
                     "example": ""
                 },
                 {
-                    "name": "auditory",
+                    "name": "vocabulary",
                     "pronunciation": "",
-                    "definition": "n. 听众；礼堂    adj. 听觉的；耳朵的",
-                    "explain": "aud + itory  -itory 当作为名词后缀时，表示：场所，地点，作形容词后缀。表示：有...性质的",
+                    "definition": "n. 词汇；词表",
+                    "explain": "voc + -able + -ary",
                     "example": ""
                 },
                 {
-                    "name": "audience",
+                    "name": "vocation",
                     "pronunciation": "",
-                    "definition": "n. 观众；听众；读者；接见",
-                    "explain": "audi+ence  -ence 名词后缀",
+                    "definition": "n. 职业；天职；天命；神召",
+                    "explain": "voc + -ation 原先指上帝的呼唤，神职，牧师类的工作，现泛指所有职业",
                     "example": ""
                 },
                 {
-                    "name": "audit",
+                    "name": "advocate",
                     "pronunciation": "",
-                    "definition": "n. 审计；[审计] 查帐    vt. （美）旁听",
-                    "explain": "audit  最初官方的查账都是听人报账",
+                    "definition": "vt.提倡； 拥护； 鼓吹； 为…辩护 n.（辩护）律师； 提倡者； 支持者 ",
+                    "explain": "ad + voc + -ate 原先指上帝的呼唤，神职，牧师类的工作，现泛指所有职业",
                     "example": ""
                 },
                 {
-                    "name": "auditorium",
+                    "name": "advocator",
                     "pronunciation": "",
-                    "definition": "n. 礼堂，会堂；观众席",
-                    "explain": "audit + orium -orium 表地点场所的名词后缀",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "son",
-            "explain": "声音",
-            "words":[
-                {
-                    "name": "sonic",
-                    "pronunciation": "",
-                    "definition": "son + ic -ic 形容词和名词后缀：.....的",
-                    "explain": "adj. 音速的；声音的；音波的",
+                    "definition": "n.拥护者,提倡者",
+                    "explain": "ad + voc + -ate 原先指上帝的呼唤，神职，牧师类的工作，现泛指所有职业",
                     "example": ""
                 },
                 {
-                    "name": "resonance",
+                    "name": "equivocal",
                     "pronunciation": "",
-                    "definition": "n. [力] 共振；共鸣；反响",
-                    "explain": "re- + son + -ance, re- 往回，重复的。 -ance 名词后缀",
-                    "example": ""
-                },
-                {
-                    "name": "sing",
-                    "pronunciation": "vi. 唱歌；歌颂；鸣叫；呼号",
-                    "definition": "歌曲",
+                    "definition": "adj. 意义不明确的, 模棱两可的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "song",
+                    "name": "provocation",
                     "pronunciation": "",
-                    "definition": "vi. 唱歌；歌颂；鸣叫；呼号",
-                    "explain": "sing 来自 sing 的名词形式 元音aeiou变换，其意义不变",
+                    "definition": "n. 激怒, 刺激, 挑拨，挑衅的事物，激怒的原因",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "convocation",
+                    "pronunciation": "",
+                    "definition": "n. 召集, 会议",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "convoke",
+                    "pronunciation": "",
+                    "definition": "vt. 召集(会议)",
+                    "explain": "in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引， 提及",
+                    "example": ""
+                },
+                {
+                    "name": "evoke",
+                    "pronunciation": "",
+                    "definition": "vt. 唤起,引起",
+                    "explain": "in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引， 提及",
+                    "example": ""
+                },
+                {
+                    "name": "invoke",
+                    "pronunciation": "",
+                    "definition": "援引，提及，祈求神灵",
+                    "explain": "in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引， 提及",
+                    "example": ""
+                },
+                {
+                    "name": "vowel",
+                    "pronunciation": "",
+                    "definition": "元音",
+                    "explain": "",
                     "example": ""
                 }
             ]
@@ -87,7 +101,7 @@
         {
             "index": 1,
             "root": "chant",
-            "explain": "满意，安抚",
+            "explain": "accent ac+cent ac-=ad- cent = chant",
             "words":[
                 {
                     "name": "chant",
@@ -114,57 +128,246 @@
         },
         {
             "index": 1,
-            "root": "voc",
-            "explain": "声音",
+            "root": "fame",
+            "explain": "fame 名声，众口相传的",
             "words":[
                 {
-                    "name": "vocal",
+                    "name": "famous",
                     "pronunciation": "",
-                    "definition": "adj. 歌唱的；声音的，有声的",
-                    "explain": "voc + -al",
+                    "definition": "adj. 著名的,一流的",
+                    "explain": "pro-,向前，在前，-fess,说话，告知",
                     "example": ""
                 },
                 {
-                    "name": "voice",
+                    "name": "defame",
                     "pronunciation": "",
-                    "definition": "n. 声音；嗓音；发言权；愿望",
-                    "explain": "voice = voc ",
+                    "definition": "v. 诽谤,中伤 vt. 诽谤",
+                    "explain": "pro-,向前，在前，-fess,说话，告知",
                     "example": ""
                 },
                 {
-                    "name": "vocabulary",
+                    "name": "infamous",
                     "pronunciation": "",
-                    "definition": "n. 词汇；词表",
-                    "explain": "voc + -able + -ary",
+                    "definition": "adj. 无耻的,不名誉的,声名狼藉的",
+                    "explain": "来自 profess,宣称，信奉，-er,人。字面意思指公开宣称自己在某领域是行家的人",
                     "example": ""
                 },
                 {
-                    "name": "vocation",
+                    "name": "infant",
                     "pronunciation": "",
-                    "definition": "n. 职业；天职；天命；神召",
-                    "explain": "voc + -ation 原先指上帝的呼唤，神职，牧师类的工作，现泛指所有职业",
+                    "definition": "adj. 婴儿的, 幼稚的, 初期的 n. 婴儿, 幼儿",
+                    "explain": "来自 profess,宣称，信奉，-ion,名词后缀。引申词义职业，行业，即内心的召唤。词义演变 比较 vocation,voice.",
                     "example": ""
                 },
                 {
-                    "name": "vowel",
+                    "name": "fate",
                     "pronunciation": "",
-                    "definition": "元音",
-                    "explain": "",
+                    "definition": "n. 命运,天意 vt. 注定",
+                    "explain": "来自 profess,宣称，信奉，-ion,名词后缀。引申词义职业，行业，即内心的召唤。词义演变 比较 vocation,voice.",
                     "example": ""
                 },
                 {
-                    "name": "invoke",
+                    "name": "fatal",
                     "pronunciation": "",
-                    "definition": "援引，提及，祈求神灵",
-                    "explain": "in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引， 提及",
+                    "definition": "adj. 致命的, 毁灭性的, 决定性的",
+                    "explain": "来自 profess,宣称，信奉，-ion,名词后缀。引申词义职业，行业，即内心的召唤。词义演变 比较 vocation,voice.",
+                    "example": ""
+                },
+                {
+                    "name": "confess",
+                    "pronunciation": "",
+                    "definition": "坦承",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "profess",
+                    "pronunciation": "",
+                    "definition": "v. 声称, 冒称，以...为业，正式接受入教，表明信仰",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "profession",
+                    "pronunciation": "",
+                    "definition": "n. 职业,专业,声明,信仰",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "fable",
+                    "pronunciation": "",
+                    "definition": "n. 宣称者,教授",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "fable",
+                    "pronunciation": "",
+                    "definition": "n. 寓言",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "fabulous",
+                    "pronunciation": "",
+                    "definition": "adj.极好的，极妙的； （美貌）惊人的； 寓言般的； 难以置信的",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "affable",
+                    "pronunciation": "",
+                    "definition": "adj. 和蔼可亲的, 友善的, 殷勤的",
+                    "explain": "con-,表强调，-fess,说，交谈",
+                    "example": ""
+                },
+                {
+                    "name": "phone",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "声音",
+                    "example": ""
+                },
+                {
+                    "name": "telephone",
+                    "pronunciation": "",
+                    "definition": "电话",
+                    "explain": "远处传来的声音",
+                    "example": ""
+                },
+                {
+                    "name": "microphone",
+                    "pronunciation": "",
+                    "definition": "话筒",
+                    "explain": "micro-,微小的，phone,电话",
+                    "example": ""
+                },
+                {
+                    "name": "symphony",
+                    "pronunciation": "",
+                    "definition": "交响乐，交响曲",
+                    "explain": "sym-,一起，一致，-phone,声音，-y,学术，学科。引申词义交响乐，交响曲。",
                     "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "dict",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "clam",
+            "explain": "call clam",
+            "words":[
+                {
+                    "name": "claim",
+                    "pronunciation": "",
+                    "definition": "声称",
+                    "explain": "叫，呼喊，词源同 call,",
+                    "example": ""
+                },
+                {
+                    "name": "acclaim",
+                    "pronunciation": "",
+                    "definition": "称誉",
+                    "explain": "ac-,去，往，-claim,叫，",
+                    "example": ""
+                },
+                {
+                    "name": "declaim",
+                    "pronunciation": "",
+                    "definition": "慷慨陈词",
+                    "explain": "de-,向下，表强调，claim,叫喊，声称",
+                    "example": ""
+                },
+                {
+                    "name": "disclaim",
+                    "pronunciation": "",
+                    "definition": "v. 放弃, 弃权, 拒绝",
+                    "explain": "de-,向下，表强调，claim,叫喊，声称",
+                    "example": ""
+                },
+                {
+                    "name": "proclaim",
+                    "pronunciation": "",
+                    "definition": "声称，声明",
+                    "explain": "pro-,向前，-claim,说",
+                    "example": ""
+                },
+                {
+                    "name": "exclaim",
+                    "pronunciation": "",
+                    "definition": "惊叫",
+                    "explain": "ex-,向外，-cl,呼叫，叫喊",
+                    "example": ""
+                },
+                {
+                    "name": "reclaim",
+                    "pronunciation": "",
+                    "definition": "v. 开垦, 纠正, 收回",
+                    "explain": "ex-,向外，-cl,呼叫，叫喊",
+                    "example": ""
+                },
+                {
+                    "name": "clear",
+                    "pronunciation": "",
+                    "definition": "adj. 清楚的,明确的,澄清的,头脑清醒的 vt. 澄清,清除障碍, 使明亮, 明确",
+                    "explain": "原始含义是“清晰、容易辨别的声音”。由 clear演变出了词根 clar,表示“清楚,明白”",
+                    "example": ""
+                },
+                {
+                    "name": "clarify",
+                    "pronunciation": "",
+                    "definition": "vt. 澄清,阐明,使...明晰",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "declare",
+                    "pronunciation": "",
+                    "definition": "vt. &vi. 宣布,声明,申报",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "excite",
+                    "pronunciation": "",
+                    "definition": "兴奋",
+                    "explain": "ex-,向外，-cit,呼喊，移动",
+                    "example": ""
+                },
+                {
+                    "name": "exciting",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "recite",
+                    "pronunciation": "",
+                    "definition": "背诵，朗诵",
+                    "explain": "re-,向后，往回，cite,召唤，援引。",
+                    "example": ""
+                },
+                {
+                    "name": "incite",
+                    "pronunciation": "",
+                    "definition": "煽动，刺激",
+                    "explain": "in-,进入，使，-cit,移动，运动，召唤",
+                    "example": ""
+                },
+                {
+                    "name": "citation",
+                    "pronunciation": "",
+                    "definition": "n. 引用,引证,引用文",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "dic",
+            "explain": "dictionary dict dic ,最原始的含义是“手指”,做动词的话就是“用手指指”,所以 dict最初的含义是“指着说",
             "words":[
                 {
                     "name": "predict",
@@ -181,6 +384,13 @@
                     "example": ""
                 },
                 {
+                    "name": "edict",
+                    "pronunciation": "",
+                    "definition": "n. 法令，布告",
+                    "explain": "ad- 加强语气 + dict 祈祷神灵 引申为着迷 上瘾",
+                    "example": ""
+                },
+                {
                     "name": "contradict",
                     "pronunciation": "",
                     "definition": "反驳， 驳斥",
@@ -192,6 +402,34 @@
                     "pronunciation": "",
                     "definition": "裁决",
                     "explain": "ver-,真实的， 词源同 verify,-dict,说， 词源同 dictionary.引申词义公正， 裁决。",
+                    "example": ""
+                },
+                {
+                    "name": "indict",
+                    "pronunciation": "v. 起诉, 控告, 指控",
+                    "definition": "",
+                    "explain": "v.指明, 表明, 显示, 象征, 指示",
+                    "example": ""
+                },
+                {
+                    "name": "indicate",
+                    "pronunciation": "发音，措辞，用语",
+                    "definition": "",
+                    "explain": "v.指明, 表明, 显示, 象征, 指示",
+                    "example": ""
+                },
+                {
+                    "name": "dictate",
+                    "pronunciation": "发音，措辞，用语",
+                    "definition": "",
+                    "explain": "vi. 听写 vt. 口述,口授 n. 命令,指挥,指令",
+                    "example": ""
+                },
+                {
+                    "name": "dictator",
+                    "pronunciation": "n. 独裁者",
+                    "definition": "",
+                    "explain": "vi. 听写 vt. 口述,口授 n. 命令,指挥,指令",
                     "example": ""
                 },
                 {
@@ -212,21 +450,21 @@
         },
         {
             "index": 1,
-            "root": "loqu/log",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "lingu",
+            "explain": "language 语言，lingue tongue",
             "words":[
                 {
-                    "name": "eloquent",
+                    "name": "linguist",
                     "pronunciation": "",
-                    "definition": "雄辩的",
-                    "explain": "e-,向外，-loq,说",
+                    "definition": "语言学家",
+                    "explain": "lingu + ist",
                     "example": ""
                 },
                 {
-                    "name": "loquacious",
+                    "name": "language",
                     "pronunciation": "",
-                    "definition": "话多的，健谈的",
-                    "explain": "loqu + -acious",
+                    "definition": "",
+                    "explain": "",
                     "example": ""
                 },
                 {
@@ -270,138 +508,19 @@
                     "definition": "后记",
                     "explain": "epi-,在上，在中，在后，-log,说，即在后面补充的话",
                     "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "lingu",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
+                },
                 {
-                    "name": "linguist",
+                    "name": "eloquent",
                     "pronunciation": "",
-                    "definition": "语言学家",
-                    "explain": "lingu + ist",
+                    "definition": "雄辩的",
+                    "explain": "e-,向外，-loq,说",
                     "example": ""
                 },
                 {
-                    "name": "language",
+                    "name": "loquacious",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "fess",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "profess",
-                    "pronunciation": "",
-                    "definition": "宣称，声称，表明，信奉",
-                    "explain": "pro-,向前，在前，-fess,说话，告知",
-                    "example": ""
-                },
-                {
-                    "name": "professor",
-                    "pronunciation": "",
-                    "definition": "教授",
-                    "explain": "来自 profess,宣称，信奉，-er,人。字面意思指公开宣称自己在某领域是行家的人",
-                    "example": ""
-                },
-                {
-                    "name": "profession",
-                    "pronunciation": "",
-                    "definition": "宣称，信奉，行业，职业",
-                    "explain": "来自 profess,宣称，信奉，-ion,名词后缀。引申词义职业，行业，即内心的召唤。词义演变 比较 vocation,voice.",
-                    "example": ""
-                },
-                {
-                    "name": "confess",
-                    "pronunciation": "",
-                    "definition": "坦承",
-                    "explain": "con-,表强调，-fess,说，交谈",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "cit",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "excite",
-                    "pronunciation": "",
-                    "definition": "兴奋",
-                    "explain": "ex-,向外，-cit,呼喊，移动",
-                    "example": ""
-                },
-                {
-                    "name": "exciting",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "",
-                    "example": ""
-                },
-                {
-                    "name": "recite",
-                    "pronunciation": "",
-                    "definition": "背诵，朗诵",
-                    "explain": "re-,向后，往回，cite,召唤，援引。",
-                    "example": ""
-                },
-                {
-                    "name": "incite",
-                    "pronunciation": "",
-                    "definition": "煽动，刺激",
-                    "explain": "in-,进入，使，-cit,移动，运动，召唤",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "clam",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "claim",
-                    "pronunciation": "",
-                    "definition": "声称",
-                    "explain": "叫，呼喊，词源同 call,",
-                    "example": ""
-                },
-                {
-                    "name": "acclaim",
-                    "pronunciation": "",
-                    "definition": "称誉",
-                    "explain": "ac-,去，往，-claim,叫，",
-                    "example": ""
-                },
-                {
-                    "name": "declaim",
-                    "pronunciation": "",
-                    "definition": "慷慨陈词",
-                    "explain": "de-,向下，表强调，claim,叫喊，声称",
-                    "example": ""
-                },
-                {
-                    "name": "proclaim",
-                    "pronunciation": "",
-                    "definition": "声称，声明",
-                    "explain": "pro-,向前，-claim,说",
-                    "example": ""
-                },
-                {
-                    "name": "exclaim",
-                    "pronunciation": "",
-                    "definition": "惊叫",
-                    "explain": "ex-,向外，-cl,呼叫，叫喊",
+                    "definition": "话多的，健谈的",
+                    "explain": "loqu + -acious",
                     "example": ""
                 }
             ]
@@ -450,134 +569,92 @@
         },
         {
             "index": 1,
-            "root": "quis/quir",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "son",
+            "explain": "sound son",
             "words":[
                 {
-                    "name": "quest",
+                    "name": "sonic",
                     "pronunciation": "",
-                    "definition": "探索，疑问",
-                    "explain": "疑问，询问，查问",
+                    "definition": "son + ic -ic 形容词和名词后缀：.....的",
+                    "explain": "adj. 音速的；声音的；音波的",
                     "example": ""
                 },
                 {
-                    "name": "question",
+                    "name": "resonance",
                     "pronunciation": "",
-                    "definition": "问题",
-                    "explain": "quest,探索，疑问",
+                    "definition": "n. [力] 共振；共鸣；反响",
+                    "explain": "re- + son + -ance, re- 往回，重复的。 -ance 名词后缀",
                     "example": ""
                 },
                 {
-                    "name": "request",
+                    "name": "sonar",
                     "pronunciation": "",
-                    "definition": "要求",
-                    "explain": "re-,表强调，-quest,要求，询问",
+                    "definition": "n. 声纳，声波定位器",
+                    "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "inquire",
+                    "name": "resonate",
                     "pronunciation": "",
-                    "definition": "查询，询问",
-                    "explain": "in-,进入，使，-quir,问询，寻求",
-                    "example": ""
-                },
-                {
-                    "name": "acquire",
-                    "pronunciation": "",
-                    "definition": "获得",
-                    "explain": "ac-,去，往，-quir,追求",
-                    "example": ""
-                },
-                {
-                    "name": "enquire",
-                    "pronunciation": "",
-                    "definition": "询问",
-                    "explain": "en-,进入，使，-quir,询问",
-                    "example": ""
-                },
-                {
-                    "name": "require",
-                    "pronunciation": "",
-                    "definition": "要求",
-                    "explain": "re-,表强调，-quir,要求，询问",
+                    "definition": "v. 产生共鸣",
+                    "explain": "",
                     "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "phon",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "aud",
+            "explain": "audi 奥迪",
             "words":[
                 {
-                    "name": "phone",
+                    "name": "audible",
                     "pronunciation": "",
-                    "definition": "",
-                    "explain": "声音",
+                    "definition": "adj. 听得见的",
+                    "explain": "aud+ible, ible=able 有....能力.听得见的",
                     "example": ""
                 },
                 {
-                    "name": "telephone",
+                    "name": "audio",
                     "pronunciation": "",
-                    "definition": "电话",
-                    "explain": "远处传来的声音",
+                    "definition": "adj. 声音的；[声] 音频的",
+                    "explain": "audi=aud  +o, 元音aeiou变换，其意义不变",
                     "example": ""
                 },
                 {
-                    "name": "microphone",
+                    "name": "auditory",
                     "pronunciation": "",
-                    "definition": "话筒",
-                    "explain": "micro-,微小的，phone,电话",
+                    "definition": "n. 听众；礼堂    adj. 听觉的；耳朵的",
+                    "explain": "aud + itory  -itory 当作为名词后缀时，表示：场所，地点，作形容词后缀。表示：有...性质的",
                     "example": ""
                 },
                 {
-                    "name": "symphony",
+                    "name": "audience",
                     "pronunciation": "",
-                    "definition": "交响乐，交响曲",
-                    "explain": "sym-,一起，一致，-phone,声音，-y,学术，学科。引申词义交响乐，交响曲。",
+                    "definition": "n. 观众；听众；读者；接见",
+                    "explain": "audi+ence  -ence 名词后缀",
+                    "example": ""
+                },
+                {
+                    "name": "audit",
+                    "pronunciation": "",
+                    "definition": "n. 查帐,审计 vt. 审计,旁听",
+                    "explain": "audit  最初官方的查账都是听人报账",
+                    "example": ""
+                },
+                {
+                    "name": "auditorium",
+                    "pronunciation": "",
+                    "definition": "n. 礼堂，会堂；观众席",
+                    "explain": "audit + orium -orium 表地点场所的名词后缀",
                     "example": ""
                 }
             ]
         },
         {
             "index": 1,
-            "root": "phot",
-            "explain": "well,美丽，幸福，好的结果",
-            "words":[
-                {
-                    "name": "photo",
-                    "pronunciation": "",
-                    "definition": "相片，图片",
-                    "explain": "phot-,光",
-                    "example": ""
-                },
-                {
-                    "name": "photon",
-                    "pronunciation": "",
-                    "definition": "光子",
-                    "explain": "phot-,光，-on,子，词源同 ion,electron.",
-                    "example": ""
-                },
-                {
-                    "name": "photograph",
-                    "pronunciation": "",
-                    "definition": "照片，照相",
-                    "explain": "phot-,光，-graph,写，记录。即把光记录下来，引申词义照相，相片。",
-                    "example": ""
-                },
-                {
-                    "name": "photography",
-                    "pronunciation": "",
-                    "definition": "",
-                    "explain": "摄影，摄影术",
-                    "example": ""
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "root": "vis/view",
-            "explain": "well,美丽，幸福，好的结果",
+            "root": "vis",
+            "explain": "visit  vis",
             "words":[
                 {
                     "name": "visit",
@@ -594,10 +671,17 @@
                     "example": ""
                 },
                 {
-                    "name": "revisit",
+                    "name": "vision",
                     "pronunciation": "",
-                    "definition": "重访，重游",
-                    "explain": "re-,再，重新，visit,访问。",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "advise=advice",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
                     "example": ""
                 },
                 {
@@ -615,16 +699,30 @@
                     "example": ""
                 },
                 {
-                    "name": "view",
+                    "name": "evident",
                     "pronunciation": "",
-                    "definition": "看",
+                    "definition": "adj. 明显的, 明白的（vid-，e-=ex-=out；能看出来的",
                     "explain": "",
                     "example": ""
                 },
                 {
-                    "name": "reviewer",
+                    "name": "evidence",
                     "pronunciation": "",
-                    "definition": "评论家",
+                    "definition": "n. 根据, 证据 vt. vi. 证实, 证明",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "provide",
+                    "pronunciation": "",
+                    "definition": "vi. 供给, 提供 vt. 提供; 规定; 准备",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "view",
+                    "pronunciation": "",
+                    "definition": "看",
                     "explain": "",
                     "example": ""
                 },
@@ -647,7 +745,7 @@
         {
             "index": 1,
             "root": "opt",
-            "explain": "well,美丽，幸福，好的结果",
+            "explain": "option opt",
             "words":[
                 {
                     "name": "optic",
@@ -713,6 +811,41 @@
                     "example": ""
                 },
                 {
+                    "name": "spectacle",
+                    "pronunciation": "",
+                    "definition": "眼镜",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "spectator",
+                    "pronunciation": "",
+                    "definition": "观众",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "prospect",
+                    "pronunciation": "",
+                    "definition": "n. 景色, 希望, 展望 v. 探勘, 寻找",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "expect",
+                    "pronunciation": "",
+                    "definition": "vt.期望； 预料； 要求； 认为（某事）会发生 vi.预期； 期待； 怀胎； 怀孕",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "despise",
+                    "pronunciation": "",
+                    "definition": "vt. 轻视",
+                    "explain": "suspicion,怀疑，-ous,形容词后缀",
+                    "example": ""
+                },
+                {
                     "name": "suspect",
                     "pronunciation": "",
                     "definition": "怀疑",
@@ -727,16 +860,16 @@
                     "example": ""
                 },
                 {
-                    "name": "spectacle",
+                    "name": "suspicion",
                     "pronunciation": "",
-                    "definition": "眼镜",
-                    "explain": "",
+                    "definition": "n. 猜疑,怀疑",
+                    "explain": "suspicion,怀疑，-ous,形容词后缀",
                     "example": ""
                 },
                 {
-                    "name": "spectator",
+                    "name": "spy",
                     "pronunciation": "",
-                    "definition": "观众",
+                    "definition": "n. 间谍, 侦探, 侦察 v. 侦探, 找出",
                     "explain": "",
                     "example": ""
                 }
@@ -759,6 +892,97 @@
                     "pronunciation": "",
                     "definition": "显微镜",
                     "explain": "micro-,微小的，-scope,看",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "quis/quir",
+            "explain": "well,美丽，幸福，好的结果",
+            "words":[
+                {
+                    "name": "quest",
+                    "pronunciation": "",
+                    "definition": "探索，疑问",
+                    "explain": "疑问，询问，查问",
+                    "example": ""
+                },
+                {
+                    "name": "question",
+                    "pronunciation": "",
+                    "definition": "问题",
+                    "explain": "quest,探索，疑问",
+                    "example": ""
+                },
+                {
+                    "name": "request",
+                    "pronunciation": "",
+                    "definition": "要求",
+                    "explain": "re-,表强调，-quest,要求，询问",
+                    "example": ""
+                },
+                {
+                    "name": "inquire",
+                    "pronunciation": "",
+                    "definition": "查询，询问",
+                    "explain": "in-,进入，使，-quir,问询，寻求",
+                    "example": ""
+                },
+                {
+                    "name": "acquire",
+                    "pronunciation": "",
+                    "definition": "获得",
+                    "explain": "ac-,去，往，-quir,追求",
+                    "example": ""
+                },
+                {
+                    "name": "enquire",
+                    "pronunciation": "",
+                    "definition": "询问",
+                    "explain": "en-,进入，使，-quir,询问",
+                    "example": ""
+                },
+                {
+                    "name": "require",
+                    "pronunciation": "",
+                    "definition": "要求",
+                    "explain": "re-,表强调，-quir,要求，询问",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "phot",
+            "explain": "well,美丽，幸福，好的结果",
+            "words":[
+                {
+                    "name": "photo",
+                    "pronunciation": "",
+                    "definition": "相片，图片",
+                    "explain": "phot-,光",
+                    "example": ""
+                },
+                {
+                    "name": "photon",
+                    "pronunciation": "",
+                    "definition": "光子",
+                    "explain": "phot-,光，-on,子，词源同 ion,electron.",
+                    "example": ""
+                },
+                {
+                    "name": "photograph",
+                    "pronunciation": "",
+                    "definition": "照片，照相",
+                    "explain": "phot-,光，-graph,写，记录。即把光记录下来，引申词义照相，相片。",
+                    "example": ""
+                },
+                {
+                    "name": "photography",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "摄影，摄影术",
                     "example": ""
                 }
             ]
