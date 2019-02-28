@@ -1,0 +1,177 @@
+{
+    "etymology":[
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "voc 声音",
+                    "explain": "voice 声音",
+                    "configure":[
+                        {
+                            "change": "vowel",
+                            "first":"voice",
+                            "firstColorPosition":[2,4],
+                            "second":"voc",
+                            "secondColorPosition":[100]
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "vocal",
+                            "insertPosition": [2],
+                            "prefix":"",
+                            "postfix":"-al",
+                            "explain": "唱的",
+                            "explainColorPosition":[0],
+                            "definition": "歌唱的；声音的"
+                        },
+                        {
+                            "name": "vocabulary",
+                            "insertPosition": [2],
+                            "prefix":"",
+                            "postfix":"-abulary = able+ary 能....的",
+                            "explain": "词汇表就是能够说的",
+                            "explainColorPosition":[7],
+                            "definition": "词汇；词表"
+                        },
+                        {
+                            "name": "vocation",
+                            "insertPosition": [2],
+                            "prefix":"",
+                            "postfix":"-ation = act+ion",
+                            "explain": "原先指上帝的呼唤，神职，牧师类的工作，现泛指所有职业",
+                            "explainColorPosition":[6,7],
+                            "definition": "职业；天职；天命；神召"
+                        },
+                        {
+                            "name": "advocate",
+                            "insertPosition": [1,4],
+                            "prefix":"ad = at",
+                            "postfix":"-ate",
+                            "explain": "去...那里说",
+                            "explainColorPosition":[6],
+                            "definition": "vt.提倡； 拥护； 鼓吹； 为…辩护 n.（辩护）律师； 提倡者； 支持者 "
+                        },
+                        {
+                            "name": "advocator",
+                            "insertPosition": [1,4],
+                            "prefix":"ad = at",
+                            "postfix":"-ator 表职业",
+                            "explain": "",
+                            "explainColorPosition":[],
+                            "definition": "n.拥护者,提倡者"
+                           
+                        },
+                        {
+                            "name": "equivocal",
+                            "insertPosition": [1,4],
+                            "prefix":"equ = equal 相同的",
+                            "postfix":"-ator 表职业",
+                            "explain": "两边说的意见都一样",
+                            "explainColorPosition":[2],
+                            "definition": "意义不明确的, 模棱两可的"
+                        },
+                        {
+                            "name": "provocation",
+                            "insertPosition": [1,4],
+                            "prefix":"pro = 向前",
+                            "postfix":"-action ",
+                            "explain": "打仗时，总是有人出来叫嚣",
+                            "explainColorPosition":[],
+                            "definition": "激怒, 刺激, 挑拨"
+                        },
+                        {
+                            "name": "convocation",
+                            "insertPosition": [1,4],
+                            "prefix":"con = 共同",
+                            "postfix":"-action ",
+                            "explain": "开会是将所有人聚到一起说",
+                            "explainColorPosition":[11],
+                            "definition": "召集, 会议"
+                        }
+                    ]
+                },
+                {
+                    "root": "vok",
+                    "explain": "说，祈求",
+                    "configure":[
+                        {
+                            "change": "consonate",
+                            "first":"vov",
+                            "firstColorPosition":[2],
+                            "second":"vok",
+                            "secondColorPosition":[2]
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "convoke",
+                            "insertPosition": [2],
+                            "prefix":"con",
+                            "postfix":"",
+                            "explain": "词源构造类似convocation",
+                            "explainColorPosition":[],
+                            "definition": "召集, 会议"
+                        },
+                        {
+                            "name": "evoke",
+                            "insertPosition": [0],
+                            "prefix":"e = e(x)",
+                            "postfix":"",
+                            "explain": "喊出来",
+                            "explainColorPosition":[2],
+                            "definition": "唤起,引起"
+                        },
+                        {
+                            "name": "invoke",
+                            "insertPosition": [1],
+                            "prefix":"in ",
+                            "postfix":"",
+                            "explain": "",
+                            "explainColorPosition":[],
+                            "definition": "唤起,引起"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "roots":[
+                {
+                    "root": "chant",
+                    "explain": "accent 口音",
+                    "configure":[
+                        {
+                            "change": "consonant",
+                            "first":"cent",
+                            "firstColorPosition":[0],
+                            "second":"chant",
+                            "secondColorPosition":[0,1]
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "chant",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "最初指歌颂上帝的功绩",
+                            "explainColorPosition":[3],
+                            "definition": "圣歌；赞美诗唱；诵扬"
+                        },
+                        {
+                            "name": "enchant",
+                            "insertPosition": [],
+                            "prefix":"en = 使...",
+                            "postfix":"",
+                            "explain": "通过唱歌使人迷惑",
+                            "explainColorPosition":[2,3],
+                            "definition": "使迷惑；施魔法"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
