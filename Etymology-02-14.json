@@ -450,7 +450,7 @@
         },
         {
             "index": 1,
-            "root": "lingu",
+            "root": "lingu 舌头",
             "explain": "language 语言，lingue tongue",
             "words":[
                 {
@@ -605,7 +605,7 @@
         {
             "index": 1,
             "root": "aud",
-            "explain": "audi 奥迪",
+            "explain": "Audi 奥迪",
             "words":[
                 {
                     "name": "audible",
@@ -982,7 +982,21 @@
                     "name": "photography",
                     "pronunciation": "",
                     "definition": "",
-                    "explain": "摄影，摄影术",
+                    "explain": "摄影,摄影术",
+                    "example": ""
+                },
+                {
+                    "name": "photocopy",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "影印本,影印",
+                    "example": ""
+                },
+                {
+                    "name": "photochemistry",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "光合作用",
                     "example": ""
                 }
             ]

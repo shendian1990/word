@@ -1,0 +1,146 @@
+,
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "explainInsert":[],
+                            "explainBold":[],
+                            "vowelRoot":[],
+                            "vowelReference":[],
+                            "firstConsonateRoot":[],
+                            "firstConsonateReference":[],
+                            "firstChange":"",
+                            "secondConsonateRoot":[],
+                            "secondConsonateReference":[],
+                            "secondChange":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                           
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        }
+                    ]
+                },
+                {
+                    "root": "",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "explainInsert":[],
+                            "explainBold":[],
+                            "vowelRoot":[],
+                            "vowelReference":[],
+                            "firstConsonateRoot":[],
+                            "firstConsonateReference":[],
+                            "firstChange":"",
+                            "secondConsonateRoot":[],
+                            "secondConsonateReference":[],
+                            "secondChange":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "",
+                            "insertPosition": [],
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "explainBoldPosition":[],
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        }
