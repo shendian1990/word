@@ -1,4 +1,3 @@
-,
         {
             "index": 1,
             "roots":[
@@ -7,90 +6,44 @@
                     "explain": "",
                     "configure":[
                         {
-                            "explainInsert":[],
-                            "explainBold":[],
                             "vowelRoot":[],
-                            "vowelReference":[],
-                            "firstConsonateRoot":[],
-                            "firstConsonateReference":[],
-                            "firstChange":"",
-                            "secondConsonateRoot":[],
-                            "secondConsonateReference":[],
-                            "secondChange":""
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
                         }
                     ],
                     "words":[
                         {
                             "name": "",
-                            "insertPosition": [],
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "explainBoldPosition":[],
+                            "definition": ""
+                        },
+                        {
+                            "name": "voc·abulary",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
                             "definition": ""
                         },
                         {
                             "name": "",
-                            "insertPosition": [],
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "explainBoldPosition":[],
                             "definition": ""
                         },
                         {
                             "name": "",
-                            "insertPosition": [],
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "explainBoldPosition":[],
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "insertPosition": [],
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "explainBoldPosition":[],
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "insertPosition": [],
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "explainBoldPosition":[],
-                            "definition": ""
-                           
-                        },
-                        {
-                            "name": "",
-                            "insertPosition": [],
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "explainBoldPosition":[],
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "insertPosition": [],
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "explainBoldPosition":[],
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "insertPosition": [],
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "explainBoldPosition":[],
                             "definition": ""
                         }
                     ]
@@ -100,44 +53,30 @@
                     "explain": "",
                     "configure":[
                         {
-                            "explainInsert":[],
-                            "explainBold":[],
                             "vowelRoot":[],
-                            "vowelReference":[],
-                            "firstConsonateRoot":[],
-                            "firstConsonateReference":[],
-                            "firstChange":"",
-                            "secondConsonateRoot":[],
-                            "secondConsonateReference":[],
-                            "secondChange":""
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
                         }
                     ],
                     "words":[
                         {
                             "name": "",
-                            "insertPosition": [],
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "explainBoldPosition":[],
                             "definition": ""
                         },
                         {
                             "name": "",
-                            "insertPosition": [],
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "explainBoldPosition":[],
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "insertPosition": [],
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "explainBoldPosition":[],
                             "definition": ""
                         }
                     ]
