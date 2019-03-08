@@ -1,0 +1,239 @@
+{
+            "index": 1,
+            "root": "duc",
+            "explain": "well,美丽，幸福，好的结果",
+            "words":[
+                {
+                    "name": "introduce",
+                    "pronunciation": "",
+                    "definition": "介绍，引进",
+                    "explain": "intra-,在内，-duc,引导，词源同 duct,induce.",
+                    "example": ""
+                },
+                {
+                    "name": "produce",
+                    "pronunciation": "",
+                    "definition": "生产，制造",
+                    "explain": "pro-,向前，-duc,拉，引导，词源同 conduce,conduct.引申词义生产，制造。",
+                    "example": ""
+                },
+                {
+                    "name": "reduce",
+                    "pronunciation": "",
+                    "definition": "减少，缩小，简化",
+                    "explain": "re-,向后，往回，-duc,拉，词源同 deduce,deduct.即拉回，引申词义减少，缩小。",
+                    "example": ""
+                },
+                {
+                    "name": "deduce",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "deduct",
+                    "pronunciation": "",
+                    "definition": "演绎，推论",
+                    "explain": "de-,向下，-duc,拉，引导，词源同 induce,conduct.即向下引导，演绎，推论。",
+                    "example": ""
+                },
+                {
+                    "name": "deductive",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "induce",
+                    "pronunciation": "",
+                    "definition": "引导，诱使",
+                    "explain": "in-,进入，使，-duc,引导，引领，词源同 conduct,deduct.引申词义引导，引进，诱使。",
+                    "example": ""
+                },
+                {
+                    "name": "induct",
+                    "pronunciation": "",
+                    "definition": "就职，入伍",
+                    "explain": "来自 induce,引导，诱使。引申词义引进，就职，入伍。",
+                    "example": ""
+                },
+                {
+                    "name": "seduce",
+                    "pronunciation": "",
+                    "definition": "诈骗，唆使，诱奸",
+                    "explain": "se-,分开，-duc,拉，引导，词源同 traduce,conduct.即引偏，使偏离，引申诸相关词义。",
+                    "example": ""
+                },
+                {
+                    "name": "product",
+                    "pronunciation": "",
+                    "definition": "生产，产品，制品",
+                    "explain": "pro-,向前，-duct,拉，引导，词源同 conduce,conduct.引申词义生产，产品，制品。",
+                    "example": ""
+                },
+                {
+                    "name": "abduct",
+                    "pronunciation": "",
+                    "definition": "诱拐",
+                    "explain": "ab-,离开，-duct,拉，词源同 conduct,引导。即拉走，偏离，引申词义诱拐。",
+                    "example": ""
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 {
+            "index": 1,
+            "root": "flex/flect",
+            "explain": "well,美丽，幸福，好的结果",
+            "words":[
+                {
+                    "name": "reflect",
+                    "pronunciation": "",
+                    "definition": "反映，反射，沉思",
+                    "explain": "re-,向后，往回，-flect,弯，转，词源同 flexible,inflect.即转回来，引申诸相关词义",
+                    "example": ""
+                },
+                {
+                    "name": "reflex",
+                    "pronunciation": "",
+                    "definition": "反映，反射，反射作用，本能反应",
+                    "explain": "re-,向后，往回，-flex,弯，转，词源同 flexible,reflect.引申词义诸相关词义。",
+                    "example": ""
+                },
+                {
+                    "name": "deflex",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "deflect",
+                    "pronunciation": "",
+                    "definition": "使倾斜",
+                    "explain": "de-,向下，-flect,弯曲，词源同 flexible,inflect.",
+                    "example": ""
+                },
+                {
+                    "name": "inflex",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "inflect",
+                    "pronunciation": "",
+                    "definition": "屈折",
+                    "explain": "in-,进入，使，-flect,弯，转，词源同 deflect,reflect.用于语法屈折，使词尾屈折变化。",
+                    "example": ""
+                },
+                {
+                    "name": "reflect",
+                    "pronunciation": "",
+                    "definition": "反映，反射，沉思",
+                    "explain": "re-,向后，往回，-flect,弯，转，词源同 flexible,inflect.即转回来，引申诸相关词义。",
+                    "example": ""
+                },
+                {
+                    "name": "flexible",
+                    "pronunciation": "",
+                    "definition": "能伸缩的",
+                    "explain": "弯，转",
+                    "example": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "root": "solv",
+            "explain": "well,美丽，幸福，好的结果",
+            "words":[
+                {
+                    "name": "absolve",
+                    "pronunciation": "",
+                    "definition": "宣告无罪",
+                    "explain": "ab-,离开，solve,溶解，解开，解决。用于法律用语指宣告无罪，无罪释放。",
+                    "example": ""
+                },
+                {
+                    "name": "dissolve",
+                    "pronunciation": "",
+                    "definition": "溶解",
+                    "explain": "dis-,分开，散开，-solv,松开，词源同 solve.即松开，引申词义溶解。",
+                    "example": ""
+                },
+                {
+                    "name": "resolve",
+                    "pronunciation": "",
+                    "definition": " re-,向后，往回，solvere,松开，词源同 solve,loose. 引申词义解决，决议，决心等。",
+                    "explain": "解决，决议，决心",
+                    "example": ""
+                },
+                {
+                    "name": "solve",
+                    "pronunciation": "",
+                    "definition": "溶解，解决",
+                    "explain": "松开，解开，分开，溶解，来自 se-,分开，各自，luo,松开，失去，词源 同 lose,loose,analyze.引申词义解决，解答。",
+                    "example": ""
+                },
+                {
+                    "name": "solution",
+                    "pronunciation": "",
+                    "definition": "溶解，解决方法",
+                    "explain": "来自 solve,溶解，解决，-ution,名词后缀。",
+                    "example": ""
+                }
+            ]
+        },
+
+
+         {
+            "index": 1,
+            "root": "sol",
+            "explain": "well,美丽，幸福，好的结果",
+            "words":[
+                {
+                    "name": "solid",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                },
+                {
+                    "name": "solo",
+                    "pronunciation": "",
+                    "definition": "独奏的，独唱的",
+                    "explain": "独奏的，独唱的，来自拉丁语 solus,单独的，词源同 sole.",
+                    "example": ""
+                },
+                {
+                    "name": "solemn",
+                    "pronunciation": "",
+                    "definition": "仪式的，庄严的，郑重的，严肃的",
+                    "explain": "来自 sollus,整个的，完整的，词源同 solid,-enn,年，词源同 annual,biennial.引申词义 庄严的，郑重的，严肃的等。",
+                    "example": ""
+                },
+                {
+                    "name": "sonsolidate",
+                    "pronunciation": "",
+                    "definition": "",
+                    "explain": "",
+                    "example": ""
+                }
+            ]
+        },

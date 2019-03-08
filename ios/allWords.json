@@ -847,6 +847,13 @@
                     ],
                     "words":[
                         {
+                            "name": "vis·itor",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
                             "name": "vis·ible",
                             "prefix":"",
                             "postfix":"",
@@ -872,12 +879,370 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "视觉的,画面"
+                        },
+                        {
+                            "name": "ad·vise=ad·vice",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "劝告,建议,通知"
+                        },
+                        {
+                            "name": "revise",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "一而再,再而三的看",
+                            "definition": "校订, 修正, 再校稿"
+                        },
+                        {
+                            "name": "tele·vis·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "远方的画面",
+                            "definition": "电视"
                         }
                     ]
                 },
                 {
-                    "root": "",
+                    "root": "vid 看",
+                    "explain": "vis 看",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "e·vid·ence",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "往外展露,显而易见",
+                            "definition": "证据,明显的"
+                        },
+                        {
+                            "name": "e·vid·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "明显的, 明白的"
+                        },
+                        {
+                            "name": "pro·vide",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "供给,提供,准备"
+                        }
+                    ]
+                },
+                {
+                    "root": "view 看",
+                    "explain": "vise 看",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "re·view",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "反复看",
+                            "definition": "复查，回顾，写评论"
+                        },
+                        {
+                            "name": "inter·view",
+                            "prefix":"inter-,在内，在中间，相互",
+                            "postfix":"",
+                            "explain": "即相互看，引申词义面试，面谈等",
+                            "definition": "面试，会谈"
+                        },
+                        {
+                            "name": "pro·vide",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "opt",
+                    "explain": "option 选择(人们总是根据自己所看到的情况做出选择)",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "opt·ion·al",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "可选的"
+                        },
+                        {
+                            "name": "ad·opt",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "采纳"
+                        },
+                        {
+                            "name": "opt·ic",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "眼的"
+                        },
+                        {
+                            "name": "opt·imist",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "来自 opt·imum,最优，最佳，-ist,人。比喻用法",
+                            "definition": "乐观的人"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "spect",
+                    "explain": "respect 尊敬, 敬重. re-反复,一直. 对尊敬的人,会一直看他,察言观色",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "in·spect",
+                            "prefix":"in-,进入",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "检查，巡视"
+                        },
+                        {
+                            "name": "pro·spect",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "希望:小孩子一直朝前望着窗外,等待远方的爸爸带来的礼物",
+                            "definition": "景色, 希望 v. 寻找"
+                        },
+                        {
+                            "name": "ex·pect",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "期望； 预料"
+                        },
+                        {
+                            "name": "sus·pect",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "把人看低",
+                            "definition": "怀疑"
+                        },
+                        {
+                            "name": "perspective",
+                            "insertPosition": [2,7],
+                            "prefix":"per- 完全",
+                            "postfix":"",
+                            "explain": "透视:能让人感受出不同物体间距离的图像(如近大远小规则),能让人一看就了解完全情况",
+                            "explainBoldPosition":[],
+                            "definition": "远景, 透视"
+                        },
+                        {
+                            "name": "spect·acle",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "眼镜"
+                        },
+                        {
+                            "name": "spect·ator",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "观众"
+                        }
+                    ]
+                },
+                {
+                    "root": "spic/spis 看",
+                    "explain": "spect 看",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "su·spic·ious",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "怀疑的，可疑的"
+                        },
+                        {
+                            "name": "de·spise",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "phot 光",
+                    "explain": "photo 图像",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "phot·on",
+                            "prefix":"",
+                            "postfix":"-on",
+                            "explain": "",
+                            "definition": "光子"
+                        },
+                        {
+                            "name": "photo·graph",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "写下光影的变换",
+                            "definition": "照片，照相"
+                        },
+                        {
+                            "name": "photo·copy",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "影印本 影印"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "man 手",
+                    "explain": "man·age 管理,经营 最初指“骑马时用手来控制马匹”, 后来引申为'控制,经营",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "man·ager",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "管理的人"
+                        },
+                        {
+                            "name": "man·ual",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "manu·fact·ure",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "fact(生产,制造)",
+                            "definition": "生产， 制造"
+                        },
+                        {
+                            "name": "manu·script",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "script(写),用手写的东西",
+                            "definition": "手稿, 原稿"
+                        }
+                    ]
+                },
+                {
+                    "root": "mand/mend",
                     "explain": "",
                     "configure":[
                         {
@@ -894,14 +1259,678 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "com·mand·ant",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "维持; 维修, 保养"
+                        },
+                        {
+                            "name": "de·mand",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "要求; 需求"
+                        },
+                        {
+                            "name": "com·mend",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "推荐，嘉奖"
+                        },
+                        {
+                            "name": "re·com·mend",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "建议, 推荐"
+                        }
+                    ]
+                },
+                {
+                    "root": "main",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "maintain",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "维持; 维修, 保养"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "act",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "act·or",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
+                            "name": "act·ress",
+                            "prefix":"",
+                            "postfix":"-ess 表阴性格后缀",
+                            "explain": "",
+                            "definition": "女演员"
+                        },
+                        {
+                            "name": "act·ion",
+                            "prefix":"",
+                            "postfix":"-ion 构成名词，表行为等",
+                            "explain": "",
+                            "definition": "行为，行动"
+                        },
+                        {
+                            "name": "act·ive",
+                            "prefix":"",
+                            "postfix":"-ive 构成形容词",
+                            "explain": "",
+                            "definition": "积极的"
+                        },
+                        {
+                            "name": "in·act·ive",
+                            "prefix":"in-,不，非",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "不积极的"
+                        },
+                        {
+                            "name": "radio·act·ive",
+                            "prefix":"radio-,辐射的",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "辐射的"
+                        },
+                        {
+                            "name": "actual",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "counter·act",
+                            "prefix":"counter-,同 contra-,相对，相反",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "抵制"
+                        },
+                        {
+                            "name": "en·act",
+                            "prefix":"en-,进入，使",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "使实施"
+                        },
+                        {
+                            "name": "ex·act",
+                            "prefix":"in-,不，非",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "精确的"
+                        },
+                        {
+                            "name": "inter·act",
+                            "prefix":"inter-,在内，在中间，相互",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "相互作用"
+                        },
+                        {
+                            "name": "re·act",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "反应，反抗"
+                        }
+                    ]
+                },
+                {
+                    "root": "ag",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "ag·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "代理"
+                        },
+                        {
+                            "name": "ag·ency",
+                            "prefix":"",
+                            "postfix":"-cy 抽象名词后缀",
+                            "explain": "",
+                            "definition": "机构，代理"
+                        },
+                        {
+                            "name": "ag·itate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "此处用于指怂恿人做坏事，煽动",
+                            "definition": "煽动"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "fact",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "fact·ory",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "工厂"
+                        },
+                        {
+                            "name": "bene·fact·or",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "male·fact·or",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "作恶者"
+                        }
+                    ]
+                },
+                {
+                    "root": "fect/fict",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "ef·fect",
+                            "prefix":"ef-,向外",
+                            "postfix":"",
+                            "explain": "做出来的效果",
+                            "definition": "效果"
+                        },
+                        {
+                            "name": "in·fect",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "做进去的，传染，感染，影响",
+                            "definition": "传染，影响"
+                        },
+                        {
+                            "name": "in·fect·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "af·fect",
+                            "prefix":"af-,去，往",
+                            "postfix":"",
+                            "explain": "该词衍生出两个截然相反的词义:1.做出来的样子，假装， 2.真心实意的做，打动，影响。",
+                            "definition": "感染，打动，假装"
+                        },
+                        {
+                            "name": "per·fect",
+                            "prefix":"per-,完全的",
+                            "postfix":"",
+                            "explain": "即完全做好的，引申词义完美的。",
+                            "definition": "完美的"
+                        },
+                        {
+                            "name": "de·fect",
+                            "prefix":"de-,不，非",
+                            "postfix":"",
+                            "explain": "没做好",
+                            "definition": "缺陷"
+                        },
+                        {
+                            "name": "con·fect",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "fict·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "捏造，制造，形成，用来指小说",
+                            "definition": "小说"
+                        }
+                    ]
+                },
+                {
+                    "root": "fic/fac",
+                    "explain": "fact",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "of·fice",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "办公室"
+                        },
+                        {
+                            "name": "of·fic·ial",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "来自 office,办公室。引申词义官方的，正式的",
+                            "definition": "官方的，正式的"
+                        },
+                        {
+                            "name": "de·fic·it",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "即没做好，出现赤字",
+                            "definition": "赤字"
+                        },
+                        {
+                            "name": "de·fic·iency",
+                            "prefix":"de-,不，非，使相反",
+                            "postfix":"",
+                            "explain": "没做好，缺陷",
+                            "definition": "缺陷"
+                        },
+                        {
+                            "name": "pro·fic·ient",
+                            "prefix":"pro-,向前",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "熟练的"
+                        },
+                        {
+                            "name": "pro·fic·iency",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "suf·fice",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "引申词义做到足够，使足够，足以",
+                            "definition": "使足够，足以"
+                        },
+                        {
+                            "name": "suf·fici·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "足够的，充分的"
+                        },
+                        {
+                            "name": "of·fic·ial",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "来自 office,办公室。引申词义官方的，正式的",
+                            "definition": "官方的，正式的"
+                        },
+                        {
+                            "name": "fac·ility",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "即促进事物简化的设施或工具，后词义通用化",
+                            "definition": "设施"
+                        },
+                        {
+                            "name": "fac·ilitate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "使简单，简化，促进"
+                        }
+                    ]
+                },
+                {
+                    "root": "fit",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "bene·fit",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "原指做好事，善举，后也指个人利益",
+                            "definition": "益处"
+                        },
+                        {
                             "name": "",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                },
+                {
+                    "root": "fig",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "fig·ure",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "形象，身材"
+                        },
+                        {
+                            "name": "dis·fig·ure",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "毁容"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "cid",
+                    "explain": "de·cide de-,向下，当断不断,必受其乱.引申词义决定",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "sui·cide",
+                            "prefix":"sui,自己的",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "自杀"
+                        },
+                        {
+                            "name": "herbi·cide",
+                            "prefix":"herb-,草",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "除草剂"
+                        }
+                    ]
+                },
+                {
+                    "root": "cis",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "de·cis·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "来自 decide,决定",
+                            "definition": ""
+                        },
+                        {
+                            "name": "con·cise",
+                            "prefix":"con-,表强调",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "简洁的"
+                        },
+                        {
+                            "name": "ex·cise",
+                            "prefix":"ex-,向外",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "切除，删除"
+                        },
+                        {
+                            "name": "pre·cise",
+                            "prefix":"pre-,预先",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "精确的"
+                        },
+                        {
+                            "name": "in·cis·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "切口"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "tom 切",
+                    "explain": "atom a-,不 因古代认为原子是最小的不可切分的单位而得名",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "a·tom·ic",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "原子的"
+                        },
+                        {
+                            "name": "ana·tomy",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "解剖"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "scrib 写",
+                    "explain": "de·scribe de-,向下, 向下写:描述",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "sub·scribe",
+                            "prefix":"sub-,在下",
+                            "postfix":"",
+                            "explain": "即在合同下面签字，引申诸相关词义",
+                            "definition": "定阅，定购，认购"
+                        },
+                        {
+                            "name": "pre·scribe",
+                            "prefix":"pre-,在前，早于",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "规定，命令，开药"
+                        }
+                    ]
+                },
+                {
+                    "root": "script",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "sub·script",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -915,8 +1944,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "graph",
+                    "explain": "photo·graph 即把光记录下来，引申词义照相，相片",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -932,38 +1961,36 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "bio·graphy",
+                            "prefix":"bio-,生命",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "传记"
+                        },
+                        {
+                            "name": "auto·graph",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "mono·graph",
+                            "prefix":"mono-,单个的",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "definition": "专著，专论"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "pict",
+                    "explain": "pict·ure",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -979,18 +2006,11 @@
                     ],
                     "words":[
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "de·pict",
+                            "prefix":"de-,向下",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "definition": "描绘"
                         }
                     ]
                 }
@@ -1000,8 +2020,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "pel 推进",
+                    "explain": "pull",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1017,37 +2037,44 @@
                     ],
                     "words":[
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "im·pel",
+                            "prefix":"im-,进入",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "促使"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "com·pel",
+                            "prefix":"com-,表强调",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "强迫"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "ex·pel",
+                            "prefix":"ex-,向外",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "驱逐"
                         },
                         {
-                            "name": "",
+                            "name": "pro·pel",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "推进，推动"
+                        },
+                        {
+                            "name": "re·pel",
+                            "prefix":"re-,向后，往回",
+                            "postfix":"",
+                            "explain": "击退，驱逐",
+                            "definition": "击退，驱逐"
                         }
                     ]
                 },
                 {
-                    "root": "",
+                    "root": "peal/pul",
                     "explain": "",
                     "configure":[
                         {
@@ -1064,14 +2091,14 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "ap·peal",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "pul·se",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -1080,13 +2107,13 @@
                     ]
                 }
             ]
-        }
+        },
         {
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "tract",
+                    "explain": "at·tract at-,向，往:吸引",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1102,28 +2129,35 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "tract·or",
                             "prefix":"",
-                            "postfix":"",
+                            "postfix":"-or,表物",
                             "explain": "",
-                            "definition": ""
+                            "definition": "牵引机,拖拉机"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "abs·tract",
+                            "prefix":"abs-,离开",
                             "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "即拉开",
+                            "definition": "摘要，抽象的"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "ex·tract",
+                            "prefix":"ex-,向外",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "摘录"
                         },
                         {
-                            "name": "",
+                            "name": "dis·tract",
+                            "prefix":"dis-,分开，散开",
+                            "postfix":"",
+                            "explain": "引申词义分心，精神混乱",
+                            "definition": "分心"
+                        },
+                        {
+                            "name": "con·tract",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -1132,8 +2166,8 @@
                     ]
                 },
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "trac",
+                    "explain": "tract",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1149,76 +2183,24 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "trace",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "拉，拉出",
+                            "definition": "追踪，追溯，描绘"
                         },
                         {
-                            "name": "",
+                            "name": "re·trace",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "re-,向后，往回",
+                            "definition": "折回，返回，追溯"
                         }
                     ]
                 },
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "drag",
+                    "explain": "tract",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1234,29 +2216,22 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "drag·on",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "拉，拉出",
+                            "definition": "追踪，追溯，描绘"
                         }
                     ]
                 }
             ]
-        }
+        },
         {
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "ject",
+                    "explain": "jet",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1272,38 +2247,66 @@
                     ],
                     "words":[
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "pro·ject",
+                            "prefix":"pro-,向前",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "投射，投影，规划，方案，工程"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "eject",
+                            "prefix":"e-,向外",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "驱逐"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "re·ject",
+                            "prefix":"re-,向后，往回",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "拒绝"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "in·ject",
+                            "prefix":"in-,进入",
                             "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "即扔进去",
+                            "definition": "注射"
+                        },
+                        {
+                            "name": "ab·ject",
+                            "prefix":"ab-,离开",
+                            "postfix":"",
+                            "explain": "被扔掉的",
+                            "definition": "悲惨的"
+                        },
+                        {
+                            "name": "ob·ject",
+                            "prefix":"ob-,向前，朝向，相对，对着的",
+                            "postfix":"",
+                            "explain": "放置在前面的目标 或物体。也用于指对着扔的，引申词义反对",
+                            "definition": "目标，物体，反对"
+                        },
+                        {
+                            "name": "sub·ject",
+                            "prefix":"sub-,在下",
+                            "postfix":"",
+                            "explain": "扔在下面，引申词义被制服， 被控制，国民，臣民。后引申词义扔在下面，构成基础，主题，题目等",
+                            "definition": "主题，题目，学科，科目，从属于，受支配于"
+                        },
+                        {
+                            "name": "tra·ject·ory",
+                            "prefix":"tra-,转移，穿过",
+                            "postfix":"",
+                            "explain": "即扔进去",
+                            "definition": "轨迹，踪迹，弹道"
                         }
                     ]
                 },
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "press",
+                    "explain": "press·ure",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1319,29 +2322,71 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "com·press",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "压缩"
+                        },
+                        {
+                            "name": "im·press",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "im·press·ion",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "印象，影响"
+                        },
+                        {
+                            "name": "de·press",
+                            "prefix":"de-,向下",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "使抑郁，沮丧"
+                        },
+                        {
+                            "name": "op·press",
+                            "prefix":"op- 表强调",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "压制，压迫"
+                        },
+                        {
+                            "name": "ex·press",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "ex-,向外，press,压，推",
+                            "definition": "表达"
+                        },
+                        {
+                            "name": "sup·press",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "sup-,在下，向下",
+                            "definition": "镇压，压制，抑制"
+                        },
+                        {
+                            "name": "re·press",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "克制，压制，镇压"
                         }
                     ]
                 }
             ]
-        }
+        },
         {
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "pact",
+                    "explain": "impact 冲击，影响",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1357,1133 +2402,14 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "pact",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "协议，条约"
                         },
                         {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
+                            "name": "com·pact",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -2530,8 +2456,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "miss 送出，发射",
+                    "explain": "miss·ile 导弹，发射物",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2547,25 +2473,124 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "miss·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "送出的人",
+                            "definition": "使团,使命"
+                        },
+                        {
+                            "name": "com·miss·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "使命"
+                        },
+                        {
+                            "name": "miss·ionary",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "有使命的人",
+                            "definition": "传教士"
+                        },
+                        {
+                            "name": "dis·miss",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "摒弃"
+                        }
+                    ]
+                },
+                {
+                    "root": "mit",
+                    "explain": "miss",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "e·mit",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "sub·mit",
+                            "prefix":"sub-,在下",
+                            "postfix":"",
+                            "explain": "放在下面的，引申比喻义屈服， 投降，及引申义提交，递呈供上级决定等",
+                            "definition": "屈服，投降，提交，递呈"
+                        },
+                        {
+                            "name": "ad·mit",
+                            "prefix":"ad-,去，往",
+                            "postfix":"",
+                            "explain": "原指准许进出",
+                            "definition": "同意"
+                        },
+                        {
+                            "name": "per·mit",
+                            "prefix":"per-,通过",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "许可"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "cept 拿，握",
+                    "explain": "ac·cept 接受 此处由抓住代指领悟，接受",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "ex·cept",
+                            "prefix":"ex-,向外",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "除了"
+                        },
+                        {
+                            "name": "in·cept",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "inter·cept",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "阻截，拦截"
                         },
                         {
                             "name": "",
@@ -2577,7 +2602,7 @@
                     ]
                 },
                 {
-                    "root": "",
+                    "root": "capt",
                     "explain": "",
                     "configure":[
                         {
@@ -2594,14 +2619,198 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "capt·ure",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "抓住"
+                        },
+                        {
+                            "name": "capt·ive",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "capt·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "re·ceipt",
+                            "prefix":"re-,向后，往回",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "收据，收条"
+                        }
+                    ]
+                },
+                {
+                    "root": "cap/cip",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "cap·able",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "cap·acity",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "anti·cip·ate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "预期"
+                        },
+                        {
+                            "name": "parti·cip·ate",
+                            "prefix":"part,部分",
+                            "postfix":"",
+                            "explain": "承担一部分，成为其中的一部分",
+                            "definition": "参加，参与"
+                        }
+                    ]
+                },
+                {
+                    "root": "ceiv",
+                    "explain": "cap",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "re·ceive",
+                            "prefix":"re-,向后，往回",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "接收，收到"
+                        },
+                        {
+                            "name": "con·ceive",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "构想"
+                        },
+                        {
+                            "name": "de·ceive",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "hibit 持有，握住",
+                    "explain": "habit have it",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "in·habit",
+                            "prefix":"in-,进入，使",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "居住，栖息"
+                        },
+                        {
+                            "name": "in·habit·ant",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "居民"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "prehens/prehend",
+                    "explain": "habit have it",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "pre·hens·ive",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "居住，栖息"
+                        },
+                        {
+                            "name": "com·prehens·ive",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "com·prehend",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -2615,8 +2824,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "fer 拿，带",
+                    "explain": "of·fer 提出，给予 of-,向前",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2632,28 +2841,115 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "re·fer",
+                            "prefix":"re-,向后，往回",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "提到，查阅，参考"
+                        },
+                        {
+                            "name": "pre·fer",
+                            "prefix":"pre-,在前，早于",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "优先，偏好"
+                        },
+                        {
+                            "name": "dif·fer",
+                            "prefix":"dis-,分开",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "不同"
+                        },
+                        {
+                            "name": "dif·fer·entiate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "辨别"
+                        },
+                        {
+                            "name": "in·fer",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "suf·fer",
+                            "prefix":"suf-,在下",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "受苦，忍受，遭受"
+                        },
+                        {
+                            "name": "inter·fer",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "干扰，干涉"
+                        },
+                        {
+                            "name": "trans·fer",
+                            "prefix":"trans-,转移，转变",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "转移，转与，转让"
+                        },
+                        {
+                            "name": "dif·fer·entiate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "辨别"
+                        },
+                        {
+                            "name": "con·fer",
+                            "prefix":"con-,表强调",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "商谈，协商，授予，颁发"
+                        },
+                        {
+                            "name": "fer·ry",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "渡船"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "don",
+                    "explain": "don·ate 捐赠，给予",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "don·ation",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
+                            "name": "par·don",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -2662,7 +2958,335 @@
                     ]
                 },
                 {
-                    "root": "",
+                    "root": "dow",
+                    "explain": "don",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "en·dow",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "捐赠，资助"
+                        }
+                    ]
+                },
+                {
+                    "root": "dit",
+                    "explain": "don",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "e·dit",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "trib",
+                    "explain": "tribe 部落，群 来自 tri-,三，-be,存在",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "trib·al",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "at·trib·ute",
+                            "prefix":"at-,向，往",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "归因于"
+                        },
+                        {
+                            "name": "con·trib·ute",
+                            "prefix":"con-,表强调",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "贡献"
+                        },
+                        {
+                            "name": "dis·trib·ute",
+                            "prefix":"dis-,分开，散开",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "ped",
+                    "explain": "foot",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "ped·al",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "自行车踏板",
+                            "definition": ""
+                        },
+                        {
+                            "name": "bi·ped",
+                            "prefix":"bi-,二",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "两足动物"
+                        },
+                        {
+                            "name": "bi·ped",
+                            "prefix":"bi-,二",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "两足动物"
+                        },
+                        {
+                            "name": "ex·ped·ition",
+                            "prefix":"ex-,向外",
+                            "postfix":"",
+                            "explain": "引申词义限制脚的行动",
+                            "definition": "远征"
+                        },
+                        {
+                            "name": "centi·pede",
+                            "prefix":"cent-,百，百分之一",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "蜘蛛"
+                        },
+                        {
+                            "name": "ped·estrian",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "行人,nba 步行者"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "car 跑",
+                    "explain": "car 车",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "carry",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "携带"
+                        },
+                        {
+                            "name": "car·go",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "货物"
+                        },
+                        {
+                            "name": "cart",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "小推车"
+                        },
+                        {
+                            "name": "car·go",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "货物"
+                        },
+                        {
+                            "name": "char·ge",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "向前冲",
+                            "definition": ""
+                        },
+                        {
+                            "name": "carr·iage",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "车厢"
+                        },
+                        {
+                            "name": "car·eer",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "原指路程，驰骋，后用于职业",
+                            "definition": "职业"
+                        }
+                    ]
+                },
+                {
+                    "root": "curr 跑",
+                    "explain": "car curry 库里，nba跑得快",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "curr·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "con·curr·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "curr·iculum",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "cess 走",
+                    "explain": "ac·cess 进入,接近",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "sess·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "一场，一节，一段时间，开庭，开会"
+                        },
+                        {
+                            "name": "obsess",
+                            "prefix":"ob-",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "着魔，痴迷，着迷"
+                        },
+                        {
+                            "name": "pos·sess",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "拥有，所有，占据，着魔"
+                        }
+                    ]
+                },
+                {
+                    "root": "ced",
                     "explain": "",
                     "configure":[
                         {
@@ -2679,14 +3303,479 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "pro·ceed",
+                            "prefix":"pro-,向前",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "行进，前进，收益"
+                        },
+                        {
+                            "name": "pre·cede",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "先走，先于"
+                        },
+                        {
+                            "name": "re·cede",
+                            "prefix":"re-,向后",
+                            "postfix":"",
+                            "explain": "后退，远离",
+                            "definition": "先走，先于"
+                        },
+                        {
+                            "name": "con·cede",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "让步，承认"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "gress 走",
+                    "explain": "pro·gress 前进，进步",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "ag·gress·ive",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
+                            "name": "in·gress",
+                            "prefix":"in-,进入，使",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "入侵，入境"
+                        },
+                        {
+                            "name": "re·gress",
+                            "prefix":"re-,向后，往回",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "倒退，回归"
+                        },
+                        {
+                            "name": "con·gress",
+                            "prefix":"con-,表强调",
+                            "postfix":"",
+                            "explain": "原义指一群人走到一起",
+                            "definition": "代表大会"
+                        }
+                    ]
+                },
+                {
+                    "root": "grad",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "grade",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "等级，年级"
+                        },
+                        {
+                            "name": "de·grade",
+                            "prefix":"de-,向下",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "降级"
+                        },
+                        {
+                            "name": "up·grade",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "grad·ual",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "grad·uate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "st",
+                    "explain": "stable 稳定的",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "st·and",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "st·age",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "st·ate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "状态，状况，情况，陈述，说明，规定"
+                        },
+                        {
+                            "name": "st·ation",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "st·atue",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "雕像，塑像"
+                        },
+                        {
+                            "name": "st·are",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "sy·st·em",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "系统，体系，制度"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "sit/sid",
+                    "explain": "sit 坐",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "seat",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "座位，座椅"
+                        },
+                        {
+                            "name": "pre·sid·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "坐在前面",
+                            "definition": "主席，总统，总裁"
+                        },
+                        {
+                            "name": "re·side",
+                            "prefix":"re-,",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "居住，定居"
+                        },
+                        {
+                            "name": "settle",
+                            "prefix":"re-,",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "安定"
+                        },
+                        {
+                            "name": "sub·sidy",
+                            "prefix":"sub-,在下",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "帮助，补贴，津贴，资助费"
+                        },
+                        {
+                            "name": "para·site",
+                            "prefix":"para-,在旁，在周围",
+                            "postfix":"",
+                            "explain": "坐在别人旁边吃饭的，吃剩饭的",
+                            "definition": "寄生虫"
+                        },
+                        {
+                            "name": "sit·uation",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "situate,坐落于，位于，-ion,名词后缀。引申词义环境，情况，状况，形势等",
+                            "definition": "环境，情况，状况，形势"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "phys",
+                    "explain": "phys·ical 身体的物理的 ",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "phys·ics",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "自然，物理，自然科学"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "psych",
+                    "explain": "psych·ology 心理学",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "psych·iatrist",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "精神病医生"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "path",
+                    "explain": "sym·pathy 同情，同感 sym-,一起，一致",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "neur·pathy",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "soci·path·ic",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "anti·path·etic",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "path·etic",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "同感的，有人的感情的"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "mind",
+                    "explain": "",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "re·mind",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "提醒"
+                        }
+                    ]
+                },
+                {
+                    "root": "ment 思想，思考",
+                    "explain": "mind",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "ment·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "提到，提及"
+                        },
+                        {
+                            "name": "ment·al",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "精神的，心理的，思考的"
+                        },
+                        {
+                            "name": "com·ment",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "ment·or",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        },
+                        {
+                            "name": "ment·or",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -2700,8 +3789,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "bene 好",
+                    "explain": "benefit 益处",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2717,65 +3806,11 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "bene·dict·ion",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "definition": "祝福"
                         }
                     ]
                 }
@@ -2785,8 +3820,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "am",
+                    "explain": "am·ateur 业余爱好者",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2802,65 +3837,25 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "am·iable",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "友好的"
                         },
                         {
-                            "name": "",
+                            "name": "am·our",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "风流事"
                         },
                         {
-                            "name": "",
+                            "name": "en·am·or",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "definition": "迷恋"
                         }
                     ]
                 }
@@ -2870,8 +3865,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "plac 满意，安抚",
+                    "explain": "please 请， 使满意",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2887,65 +3882,18 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "placid",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "平静的"
                         },
                         {
-                            "name": "",
+                            "name": "plac·able",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "definition": "可安抚的， 易抚慰的"
                         }
                     ]
                 }
@@ -2955,7 +3903,40 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
+                    "root": "grat",
+                    "explain": "grateful 感谢的",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "con·grat·ulate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "道贺"
+                        },
+                        {
+                            "name": "grat·ulate",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": ""
+                        }
+                    ]
+                },
+                {
+                    "root": "grace",
                     "explain": "",
                     "configure":[
                         {
@@ -2972,21 +3953,7 @@
                     ],
                     "words":[
                         {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
+                            "name": "gracful",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
@@ -3002,7 +3969,7 @@
                     ]
                 },
                 {
-                    "root": "",
+                    "root": "gree",
                     "explain": "",
                     "configure":[
                         {
@@ -3019,18 +3986,25 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "a·gree",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "同意"
+                        },
+                        {
+                            "name": "a·gree·able",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
                             "definition": ""
                         },
                         {
-                            "name": "",
-                            "prefix":"",
+                            "name": "dis·agree",
+                            "prefix":"dis-,不， 非",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
+                            "definition": "不同意"
                         }
                     ]
                 }
@@ -3040,8 +4014,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "",
-                    "explain": "",
+                    "root": "phil 爱， 爱好",
+                    "explain": "philo·sophy -soph,智慧 哲学 ",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3057,575 +4031,11 @@
                     ],
                     "words":[
                         {
-                            "name": "",
+                            "name": "philo·logy",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                }
-            ]
-        }
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        }
-                    ]
-                },
-                {
-                    "root": "",
-                    "explain": "",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "-log,说话",
+                            "definition": "语文学"
                         }
                     ]
                 }
