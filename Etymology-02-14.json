@@ -506,7 +506,7 @@
                     "name": "revolution",
                     "pronunciation": "",
                     "definition": "革命，大变革",
-                    "explain": "来自 revolve,旋转，-ute,过去分词格，-ion,名词后缀。引申词义革命，大变革。",
+                    "explain": "来自 revolve,旋转。引申词义革命，大变革。",
                     "example": ""
                 },
                 {
@@ -959,9 +959,6 @@
                 }
             ]
         },
-       
-       
-         
         {
             "index": 1,
             "root": "mem",
