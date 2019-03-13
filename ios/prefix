@@ -15,7 +15,7 @@ de-
 6 de- 表完全,表加强
 
 dis- 
-1 dis- 分开,散开,离开
+1 dis- 分开,散开
 3 dis- 不,表否定
 
 ex- 
@@ -57,15 +57,12 @@ sub-
 super- 
 2 super- 超过,超级
 
-syn- 一起,共同,相同
-sym- 一起,共同,相同
+sym 一起,共同,相同
 
 trans- 
-1 trans- 穿过,通过
-2 trans- 转移,装变
-3 trans- 在上,超过
+2 trans- 转移
 
-inter intra extre deter ulter ultra ter-比较级
+inter ter-比较级
 
 
 
@@ -86,77 +83,35 @@ ana
 向上 向后
 
 ante- 
-ante- 在前,提前
+ante- 在前,提前 词源同once
 
 anti-  
 1 anti- 相对,相反
 2 anti- 在前,提前
 
-apo- 
-apo- 离开
-
-be
-表状态
-
-bene- 
-bene- 美好
-
 bi- 
 bi- 两
 
-by- 
-旁边 附近 周围
-
-cata
-向下
-
 di-  
-di-  二,双
+di- 二,双 词源同two
 
 dia-  
 dia- 穿过,通过
 
-dys- 
-dys- 坏,差
-
 epi- 
-epi- 在上,在后
+epi- 在上
 
 equ- 
 equ- 相等,等同
 
-for- 
-for- 离开,远离,相对,相反
-
-fore- 
-fore- 在前,提前
-
-hemi semi
+hemi=semi 半,词源同same 相同的(切成两半,则每一半都相同)
 半
 
-hyper- 
-hyper- 在上,超过,过度
-
 hypo- 
-hypo- 在下,低于,少于
-
-mal- 
-mal- 坏,差
-
-mis- 
-mis- 坏,错
-
-multi- 
-multi- 多
+hypo- 在下,少于
 
 para- 
 1 para- 在旁,旁边
-2 para- 从属,辅助
-3 para- 在上,超过
-4 para- 相对,相反
-
-se-  
-se- 分开,分离
 
 uni- 
-uni- 一
+uni- 一 词源同one

@@ -353,7 +353,7 @@
                         },
                         {
                             "name": "sym·phony",
-                            "prefix":"sym- 一起",
+                            "prefix":"sym- 一起,共同,相同",
                             "postfix":"",
                             "explain": "很多乐器一起演奏发出的声音",
                             "definition": "交响乐"
@@ -664,7 +664,7 @@
                     "words":[
                         {
                             "name": "dia·log·ue",
-                            "prefix":"dia = di",
+                            "prefix":"dia=di 二,双 词源同two",
                             "postfix":"",
                             "explain": "两个人说的话:对话",
                             "definition": "对话"
@@ -970,7 +970,7 @@
                         },
                         {
                             "name": "inter·view",
-                            "prefix":"inter-,在内，在中间，相互",
+                            "prefix":"inter=in+ter(比较级) 在内,在中间,相互",
                             "postfix":"",
                             "explain": "即相互看，面试，面谈等",
                             "definition": "面试，会谈"
@@ -1465,7 +1465,7 @@
                         },
                         {
                             "name": "inter·act",
-                            "prefix":"inter-,在内，在中间，相互",
+                            "prefix":"inter=in+ter(比较级) 在内,在中间,相互",
                             "postfix":"",
                             "explain": "",
                             "definition": "相互作用"
@@ -2859,7 +2859,7 @@
                         },
                         {
                             "name": "trans·mit",
-                            "prefix":"trans-,转移",
+                            "prefix":"trans- 转移",
                             "postfix":"",
                             "explain": "",
                             "definition": "传送，发放，播送"
@@ -3277,7 +3277,7 @@
                         },
                         {
                             "name": "trans·fer",
-                            "prefix":"trans-,转移，转变",
+                            "prefix":"trans- 转移",
                             "postfix":"",
                             "explain": "",
                             "definition": "转移，转与，转让"
@@ -3797,7 +3797,7 @@
                         },
                         {
                             "name": "bi·ped",
-                            "prefix":"bi-,二",
+                            "prefix":"bi- 两",
                             "postfix":"",
                             "explain": "",
                             "definition": "两足动物"
@@ -4333,7 +4333,7 @@
                     "words":[
                         {
                             "name": "hemi·sphere",
-                            "prefix":"hemi-,半，词源同 semi-",
+                            "prefix":"hemi=semi 半,词源同same 相同的(切成两半,则每一半都相同)",
                             "postfix":"",
                             "explain": "",
                             "definition": "半球"
@@ -4472,7 +4472,7 @@
                         },
                         {
                             "name": "para·site",
-                            "prefix":"para-,在旁，在周围",
+                            "prefix":"para- 在旁,旁边",
                             "postfix":"",
                             "explain": "坐在别人旁边吃饭的，吃剩饭的",
                             "definition": "寄生虫"
@@ -4808,7 +4808,7 @@
                         },
                         {
                             "name": "dia·gn·ose",
-                            "prefix":"dia-,穿过， 整个的",
+                            "prefix":"dia- 穿过,通过",
                             "postfix":"",
                             "explain": "",
                             "definition": "诊断"
@@ -5103,7 +5103,7 @@
                         },
                         {
                             "name": "hypo·crit·ical",
-                            "prefix":"",
+                            "prefix":"hypo- 在下,少于",
                             "postfix":"",
                             "explain": "表面友好,私底下爱评论人",
                             "definition": " 虚伪的；伪善的"
@@ -5646,7 +5646,7 @@
                     "words":[
                         {
                             "name": "hypo·derm",
-                            "prefix":"",
+                            "prefix":"hypo- 在下,少于",
                             "postfix":"",
                             "explain": "",
                             "definition": "皮下组织"
@@ -5660,7 +5660,7 @@
                         },
                         {
                             "name": "epi·derm",
-                            "prefix":"epi-,在上， 在中",
+                            "prefix":"epi- 在上",
                             "postfix":"",
                             "explain": "",
                             "definition": "表皮"
@@ -5903,7 +5903,7 @@
                         },
                         {
                             "name": "un·anim·ous",
-                            "prefix":"un-,一，词源同",
+                            "prefix":"un=uni 一 词源同one",
                             "postfix":"-ous 充满…的,形容词后缀",
                             "explain": "",
                             "definition": "一致的"
@@ -5941,7 +5941,7 @@
                         },
                         {
                             "name": "anti·bio·tic",
-                            "prefix":"anti-,相对",
+                            "prefix":"anti- 相对,相反",
                             "postfix":"",
                             "explain": "",
                             "definition": "抗生素"
@@ -6007,7 +6007,7 @@
                         },
                         {
                             "name": "anti·gen",
-                            "prefix":"anti-,相对",
+                            "prefix":"anti- 相对,相反",
                             "postfix":"",
                             "explain": "",
                             "definition": "抗原"
@@ -6799,7 +6799,7 @@
                     ]
                 },
                 {
-                    "root": "rect 直， 正确",
+                    "root": "rect 直， 正确,使正确,引导",
                     "explain": "right 正确",
                     "configure":[
                         {
@@ -6824,10 +6824,10 @@
                         },
                         {
                             "name": "di·rect",
-                            "prefix":"di-,分开",
+                            "prefix":"di=dis 分开,散开,离开",
                             "postfix":"",
                             "explain": "",
-                            "definition": "直接， 管理"
+                            "definition": "直接的；直系的管理；指挥"
                         },
                         {
                             "name": "di·rect·ory",
@@ -6973,7 +6973,7 @@
                     "words":[
                         {
                             "name": "ante·bell·um",
-                            "prefix":"ante-,在前",
+                            "prefix":"ante- 在前,提前 词源同once",
                             "postfix":"",
                             "explain": "",
                             "definition": "战前"
@@ -7720,7 +7720,7 @@
                     "words":[
                         {
                             "name": "uni·form 形式",
-                            "prefix":"uni-,一，词源同 unit",
+                            "prefix":"uni- 一 词源同one",
                             "postfix":"",
                             "explain": "",
                             "definition": "制服"
@@ -7734,7 +7734,7 @@
                         },
                         {
                             "name": "trans·form",
-                            "prefix":"trans-,转移，转变",
+                            "prefix":"trans- 转移",
                             "postfix":"",
                             "explain": "",
                             "definition": "变形，转变"
