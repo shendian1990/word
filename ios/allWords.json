@@ -3981,7 +3981,7 @@
                         },
                         {
                             "name": "pre·cede",
-                            "prefix":"",
+                            "prefix":"pre 在前,提前",
                             "postfix":"",
                             "explain": "",
                             "definition": "先走，先于"
@@ -3990,15 +3990,15 @@
                             "name": "re·cede",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "后退，远离",
-                            "definition": "先走，先于"
+                            "explain": "往回走",
+                            "definition": "后退；减弱"
                         },
                         {
                             "name": "con·cede",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "让步，承认"
+                            "definition": "让步；承认"
                         }
                     ]
                 }
@@ -4036,21 +4036,21 @@
                             "prefix":"in- 进入,往里",
                             "postfix":"",
                             "explain": "",
-                            "definition": "入侵，入境"
+                            "definition": "入侵；入境"
                         },
                         {
                             "name": "re·gress",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "",
-                            "definition": "倒退，回归"
+                            "definition": "倒退；回归"
                         },
                         {
                             "name": "con·gress",
                             "prefix":"con- 一起",
                             "postfix":"",
-                            "explain": "原义指一群人走到一起",
-                            "definition": "代表大会"
+                            "explain": "一群人走到一起",
+                            "definition": "国会；代表大会"
                         }
                     ]
                 }
@@ -4087,43 +4087,43 @@
                             "name": "wind·ow",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "窗户(让风通过的，走的)",
                             "definition": "窗户"
                         },
                         {
                             "name": "ad·vert",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "来临"
+                            "explain": "朝...走,注意到",
+                            "definition": "注意；谈到；来临"
                         },
                         {
                             "name": "ad·vert·ize",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"-ize 使",
-                            "explain": "吸引人们注意力",
+                            "explain": "吸引人们注意力,让人朝着某个地方走",
                             "definition": "广告"
                         },
                         {
                             "name": "pre·vert",
-                            "prefix":"",
+                            "prefix":"pre 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "预防，防止；阻止"
+                            "explain": "提前走，提前离开",
+                            "definition": "预防；防止；阻止"
                         },
                         {
                             "name": "re·vert",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "",
-                            "definition": "回转，回复，恢复"
+                            "definition": "回转；回复；恢复"
                         },
                         {
                             "name": "re·verse",
-                            "prefix":"",
+                            "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "",
-                            "definition": "颠倒，反转，翻转，反向的，相反的"
+                            "definition": "颠倒；反转"
                         }
                     ]
                 }
@@ -4159,8 +4159,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "turb 转，搅拌",
-                    "explain": "dis·turb dis- 分开,散开 引申词义扰乱",
+                    "root": "turb 转,绕,搅拌",
+                    "explain": "dis·turb dis-分开,散开 搅拌开，扰乱",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4211,14 +4211,14 @@
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "",
-                            "definition": "旋转，转动，环绕"
+                            "definition": "旋转；转动；环绕"
                         },
                         {
                             "name": "re·volu·tion",
-                            "prefix":"",
+                            "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "来自 revolve,旋转 引申词义革命，大变革",
-                            "definition": "革命，大变革"
+                            "explain": "往回转 革命(30年河东,30年河西)",
+                            "definition": "革命；大变革"
                         }
                     ]
                 }
@@ -4228,8 +4228,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "circ 转，圈，环",
-                    "explain": "circ·le 循环，周期；圆；圈子",
+                    "root": "circ 转,圈,环",
+                    "explain": "circ·le 循环；周期；圆",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4249,19 +4249,19 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "小圈；戒指，饰环"
+                            "definition": "小圈；戒指；饰环"
                         },
                         {
                             "name": "circ·um·spect",
-                            "prefix":"circ-,圈，周围",
+                            "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "向四周看",
                             "definition": "小心谨慎的"
                         },
                         {
                             "name": "circ·uit",
                             "prefix":"",
-                            "postfix":"-it,走，词源同 ion,exit",
+                            "postfix":"-it 走 词源同ex·it 往外走,出口",
                             "explain": "",
                             "definition": "电路"
                         },
@@ -4270,13 +4270,13 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "循环的，流通的"
+                            "definition": "循环的；流通的"
                         },
                         {
                             "name": "circ·us",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "转，围，圈",
+                            "explain": "马戏团(圆形帐篷)",
                             "definition": "马戏团"
                         }
                     ]
@@ -4318,8 +4318,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "st",
-                    "explain": "stable 稳定的",
+                    "root": "st 站,立",
+                    "explain": "st·able 稳定的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4352,36 +4352,36 @@
                             "name": "st·ate",
                             "prefix":"",
                             "postfix":"-ate 形容词,动词和名词后缀",
-                            "explain": "",
-                            "definition": "状态，状况，情况，陈述，说明，规定"
+                            "explain": "'立'与话语,状态有关 左传：太上有立德，其次有立功，其次有立言",
+                            "definition": "国家，州；状态，状况；陈述，说明"
                         },
                         {
                             "name": "st·ation",
                             "prefix":"",
                             "postfix":"-ation = act+ion 名词后缀",
-                            "explain": "",
-                            "definition": "车站；驻地；地位；身分"
+                            "explain": "车站(站的不动的地方)",
+                            "definition": "车站；驻地"
                         },
                         {
                             "name": "st·atue",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "雕像，塑像"
+                            "definition": "雕像；塑像"
                         },
                         {
                             "name": "st·are",
                             "prefix":"",
                             "postfix":"",
                             "explain": "站着不动的看",
-                            "definition": "凝视，盯着看"
+                            "definition": "凝视；盯着看"
                         },
                         {
                             "name": "sy·st·em",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "站到一起",
-                            "definition": "系统，体系，制度"
+                            "explain": "系统(站到一起,整体)",
+                            "definition": "系统；体系；制度"
                         }
                     ]
                 }
@@ -4412,14 +4412,14 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "座位，座椅"
+                            "definition": "座位；座椅"
                         },
                         {
                             "name": "pre·sid·ent",
                             "prefix":"",
                             "postfix":"-ent 形容词后缀",
                             "explain": "坐在前面",
-                            "definition": "主席，总统，总裁"
+                            "definition": "主席；总统；总裁"
                         },
                         {
                             "name": "re·side",
@@ -4440,7 +4440,7 @@
                             "prefix":"sub- 向下,在下面",
                             "postfix":"",
                             "explain": "",
-                            "definition": "帮助，补贴，津贴，资助费"
+                            "definition": "帮助；补贴；津贴；资助费"
                         },
                         {
                             "name": "para·site",
@@ -4453,8 +4453,8 @@
                             "name": "sit·uation",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "situate,坐落于，位于，-ion,名词后缀。引申词义环境，情况，状况，形势等",
-                            "definition": "环境，情况，状况，形势"
+                            "explain": "situate,坐落于，引申词义环境，情况，状况，形势等",
+                            "definition": "环境；情况；状况；形势"
                         }
                     ]
                 }
@@ -4465,7 +4465,7 @@
             "roots":[
                 {
                     "root": "cap 头",
-                    "explain": "chief 首领；酋长:咱们的头头",
+                    "explain": "chief 头头；首领；酋长",
                     "configure":[
                         {
                             "vowelRoot":[1],
@@ -4484,15 +4484,15 @@
                             "name": "cape",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "海角，岬；披肩"
+                            "explain": "海角(陆地向大海延伸的一个头)",
+                            "definition": "海角；披肩"
                         },
                         {
                             "name": "cap·ital",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "首都， 资本"
+                            "definition": "首都；资本"
                         },
                         {
                             "name": "capt·ain",
@@ -4509,7 +4509,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "mind 思想 头脑",
+                    "root": "mind 思想,头脑",
                     "explain": "",
                     "configure":[
                         {
@@ -4535,7 +4535,7 @@
                     ]
                 },
                 {
-                    "root": "ment 思想，思考",
+                    "root": "ment 思想,思考",
                     "explain": "mind",
                     "configure":[
                         {
@@ -4556,14 +4556,14 @@
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
                             "explain": "",
-                            "definition": "提到，提及"
+                            "definition": "提到；提及"
                         },
                         {
                             "name": "ment·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
                             "explain": "",
-                            "definition": "精神的，心理的，思考的"
+                            "definition": "精神的；心理的；思考的"
                         },
                         {
                             "name": "com·ment",
@@ -4577,7 +4577,7 @@
                             "prefix":"",
                             "postfix":"-or 表人,物",
                             "explain": "指导学习和思考的人",
-                            "definition": "指导者，良师益友"
+                            "definition": "指导者；良师益友"
                         }
                     ]
                 }
@@ -4587,8 +4587,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "sens 感觉， 知觉",
-                    "explain": "sense 感官， 感觉， 意义",
+                    "root": "sens 感觉,知觉",
+                    "explain": "sense 感官；感觉；意义",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4615,7 +4615,7 @@
                             "prefix":"",
                             "postfix":"-ible=able 表能力,适应力等",
                             "explain": "",
-                            "definition": "能感知的，敏感的 意识到的"
+                            "definition": "能感知的；敏感的"
                         }
                     ]
                 },
@@ -4645,17 +4645,17 @@
                         },
                         {
                             "name": "re·sent",
-                            "prefix":"",
+                            "prefix":"re- 表重复,表加强",
                             "postfix":"",
-                            "explain": "越想越气,强烈的感觉，后引申词义气愤",
+                            "explain": "气愤(一直在心里的感觉，越想越气)",
                             "definition": "怨恨；愤恨；厌恶"
                         },
                         {
                             "name": "sent·iment",
                             "prefix":"",
-                            "postfix":"-iment 表行为，状态，性质 词源同mind",
+                            "postfix":"-iment 表行为,状态,性质 词源同mind",
                             "explain": "",
-                            "definition": "情感， 伤感， 哀伤"
+                            "definition": "情感；伤感；哀伤"
                         }
                     ]
                 }
@@ -4665,8 +4665,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "mem",
-                    "explain": "mem·ory ",
+                    "root": "mem 记忆",
+                    "explain": "mem·ory 记忆",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4699,8 +4699,8 @@
                             "name": "re·mem·ber",
                             "prefix":"re- 再次,重新",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "记忆， 想起， 纪念"
+                            "explain": "再次记起",
+                            "definition": "记忆；想起；纪念"
                         }
                     ]
                 }
@@ -4710,7 +4710,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "sci 知道，了解",
+                    "root": "sci 知识,了解",
                     "explain": "",
                     "configure":[
                         {
@@ -4731,7 +4731,7 @@
                             "prefix":"",
                             "postfix":"-ence 名词后缀",
                             "explain": "",
-                            "definition": "科学；技术；学科；理科"
+                            "definition": "科学；技术"
                         },
                         {
                             "name": "con·sci·ence",
@@ -4773,21 +4773,21 @@
                     "words":[
                         {
                             "name": "i·gn·ore",
-                            "prefix":"ig-,不， 非",
+                            "prefix":"i(n)=un 不,无,表否定",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "忽视， 无知"
+                            "explain": "不知道",
+                            "definition": "忽视；无知"
                         },
                         {
                             "name": "dia·gn·ose",
-                            "prefix":"dia- 穿过,通过",
+                            "prefix":"dia- 穿过,(完全)通过,完全",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "完全了解",
                             "definition": "诊断"
                         },
                         {
                             "name": "a·gn·ostic",
-                            "prefix":"a-,非， 没有",
+                            "prefix":"a(n)=un 不,无,表否定",
                             "postfix":"",
                             "explain": "",
                             "definition": "不可知论者"
@@ -4816,14 +4816,14 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "诡辩的， 强词夺理的"
+                            "definition": "诡辩的；强词夺理的"
                         },
                         {
                             "name": "soph·omore",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "变得稍微聪明一点",
-                            "definition": ""
+                            "explain": "二年级生比一年级变得稍微聪明一点",
+                            "definition": "大学二年级生"
                         }
                     ]
                 }
@@ -4853,12 +4853,12 @@
                             "name": "counter",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "柜台:算账的地方,由于柜台是顾客与老板相对而站的地方引申为对立面",
-                            "definition": "柜台；对立面,对着干；反驳"
+                            "explain": "柜台(算账的地方)由于柜台是顾客与老板相对而站的地方引申为对立面",
+                            "definition": "柜台；对立面；反驳"
                         },
                         {
                             "name": "ac·count",
-                            "prefix":"ac-,去， 往",
+                            "prefix":"ad- 朝,去,向 词源同at",
                             "postfix":"",
                             "explain": "计算余额",
                             "definition": "账户；解释；账目"
@@ -4905,35 +4905,35 @@
                             "name": "dis·pute",
                             "prefix":"dis- 分开,散开",
                             "postfix":"",
-                            "explain": "不同的思考",
+                            "explain": "想法不同",
                             "definition": "辩论；怀疑"
                         },
                         {
                             "name": "re·pute",
-                            "prefix":"",
+                            "prefix":"re- 再次,重新",
                             "postfix":"",
                             "explain": "名望(根据做的事情)重新考虑人的名声",
                             "definition": "名誉；声望"
                         },
                         {
                             "name": "re·put·ation",
-                            "prefix":"",
+                            "prefix":"re- 再次,重新",
                             "postfix":"-ation = act+ion 名词后缀",
                             "explain": "",
-                            "definition": "名声，名誉；声望"
+                            "definition": "名声；名誉；声望"
                         },
                         {
                             "name": "de·pute",
                             "prefix":"de- 向下",
                             "postfix":"",
                             "explain": "经过仔细思考的授权",
-                            "definition": "授权， 代理"
+                            "definition": "授权；代理"
                         },
                         {
                             "name": "de·puty",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "来自 depute,授权， 使担任副职， 代表",
+                            "explain": "副职(代理人)",
                             "definition": "副职"
                         }
                     ]
@@ -4965,14 +4965,14 @@
                             "prefix":"pre- 在前,提前",
                             "postfix":"",
                             "explain": "",
-                            "definition": "预先判断， 成见"
+                            "definition": "预先判断；成见"
                         },
                         {
                             "name": "pre·jud·ice",
                             "prefix":"",
                             "postfix":"-ice 名词后缀",
                             "explain": "",
-                            "definition": "偏见， 偏心， 成见"
+                            "definition": "偏见；成见"
                         },
                         {
                             "name": "jud·icial",
@@ -4985,8 +4985,8 @@
                             "name": "jud·icious",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "有判断力的， 明智的",
-                            "definition": "明智的， 有判断力的"
+                            "explain": "有判断力的",
+                            "definition": "明智的；有判断力的"
                         }
                     ]
                 },
@@ -5012,7 +5012,7 @@
                             "prefix":"",
                             "postfix":"-ify 使.... 词源同fact:使,做",
                             "explain": "使合法",
-                            "definition": "证明合法， 证明有理， 辩护"
+                            "definition": "证明合法；证明有理；辩护"
                         },
                         {
                             "name": "ad·just",
@@ -5026,7 +5026,7 @@
                             "prefix":"",
                             "postfix":"-ice 名词后缀",
                             "explain": "",
-                            "definition": "公平， 正义"
+                            "definition": "公平；正义"
                         }
                     ]
                 }
@@ -5063,7 +5063,7 @@
                             "name": "crit·icism",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "其达到标准， 批评使其改正",
+                            "explain": "其达到标准；批评使其改正",
                             "definition": "批评"
                         },
                         {
@@ -5071,7 +5071,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "评论文章，评论"
+                            "definition": "评论文章；评论"
                         },
                         {
                             "name": "hypo·crit·ical",
@@ -5106,7 +5106,7 @@
                     "words":[
                         {
                             "name": "ac·cord",
-                            "prefix":"ac-,去， 往",
+                            "prefix":"ac=ad 朝,去,向 词源同 at",
                             "postfix":"",
                             "explain": "内心达成一致",
                             "definition": "条约"
@@ -5116,14 +5116,14 @@
                             "prefix":"con- 一起",
                             "postfix":"",
                             "explain": "",
-                            "definition": "和谐， 一致"
+                            "definition": "和谐；一致"
                         },
                         {
                             "name": "re·cord",
                             "prefix":"re- 再次,重新",
                             "postfix":"",
                             "explain": "",
-                            "definition": "记录， 记载， 录音， 录制"
+                            "definition": "记录；录音"
                         }
                     ]
                 },
@@ -5149,21 +5149,21 @@
                             "prefix":"",
                             "postfix":"-it, 过去分词",
                             "explain": "",
-                            "definition": "信任信誉，信用"
+                            "definition": "信任信誉；信用"
                         },
                         {
                             "name": "in·cred·ible",
                             "prefix":"",
                             "postfix":"-ible=able 表能力,适应力等",
                             "explain": "",
-                            "definition": "难以置信的，惊人的"
+                            "definition": "难以置信的；惊人的"
                         },
                         {
                             "name": "cred·ible",
                             "prefix":"",
                             "postfix":"-ible=able 表能力,适应力等",
                             "explain": "",
-                            "definition": "可靠的，可信的"
+                            "definition": "可靠的；可信的"
                         }
                     ]
                 },
@@ -5328,7 +5328,7 @@
             "roots":[
                 {
                     "root": "plac 满意，安抚",
-                    "explain": "please 请， 使满意",
+                    "explain": "please 请,使满意",
                     "configure":[
                         {
                             "vowelRoot":[2],
@@ -5355,7 +5355,7 @@
                             "prefix":"",
                             "postfix":"-able 表能力,适应力等",
                             "explain": "",
-                            "definition": "可安抚的， 易抚慰的"
+                            "definition": "可安抚的；易抚慰的"
                         }
                     ]
                 }
@@ -5419,7 +5419,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "优美的，优雅的"
+                            "definition": "优美的；优雅的"
                         }
                     ]
                 },
@@ -5489,7 +5489,7 @@
                             "name": "philo·logy",
                             "prefix":"",
                             "postfix":"-logy 学说",
-                            "explain": "-log,说话",
+                            "explain": "",
                             "definition": "语文学"
                         }
                     ]
@@ -5520,7 +5520,7 @@
                             "name": "psych·iatrist",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "-ia 病；trist=treat+ist 治疗者",
                             "definition": "精神病医生"
                         }
                     ]
@@ -5532,7 +5532,7 @@
             "roots":[
                 {
                     "root": "phys 自然,物理",
-                    "explain": "phys·ical 身体的物理的 ",
+                    "explain": "phys·ical 身体的；物理的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -5552,7 +5552,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "自然，物理"
+                            "definition": "自然；物理"
                         }
                     ]
                 }
@@ -5563,7 +5563,7 @@
             "roots":[
                 {
                     "root": "corp 身体",
-                    "explain": "corp·oration 公司 人们凝聚成一体",
+                    "explain": "corp·oration 公司(凝聚成一体)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -5590,7 +5590,7 @@
                             "prefix":"in- 进入,往里",
                             "postfix":"",
                             "explain": "",
-                            "definition": "合并包含，吸收"
+                            "definition": "合并包含；吸收"
                         }
                     ]
                 }
@@ -5628,7 +5628,7 @@
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
                             "explain": "",
-                            "definition": " 真皮的；皮肤的"
+                            "definition": "真皮的；皮肤的"
                         },
                         {
                             "name": "epi·derm",
@@ -5673,7 +5673,7 @@
                             "prefix":"ex- 向外",
                             "postfix":"",
                             "explain": "断气",
-                            "definition": "死亡 期满；终止"
+                            "definition": "死亡；期满；终止"
                         },
                         {
                             "name": "a·spire",
@@ -5694,14 +5694,14 @@
                             "prefix":"in- 进入,往里",
                             "postfix":"",
                             "explain": "",
-                            "definition": "启发， 鼓舞"
+                            "definition": "启发；鼓舞"
                         },
                         {
                             "name": "per·spire",
                             "prefix":"per- 穿过,通过",
                             "postfix":"",
                             "explain": "",
-                            "definition": "流汗， 出汗"
+                            "definition": "流汗；出汗"
                         },
                         {
                             "name": "re·spire",
@@ -5772,7 +5772,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "活力，生气；生命力，生动性"
+                            "definition": "活力；生命力；生动性"
                         },
                         {
                             "name": "vit·amin",
@@ -5819,11 +5819,11 @@
                             "prefix":"",
                             "postfix":"-ify 使.... 词源同fact:使,做",
                             "explain": "",
-                            "definition": "使再生，使复活"
+                            "definition": "使再生；使复活"
                         },
                         {
                             "name": "sur·vive",
-                            "prefix":"sur-,在上，超过",
+                            "prefix":"sur=super 在上,超过",
                             "postfix":"",
                             "explain": "",
                             "definition": "幸存；生还"
@@ -5871,7 +5871,7 @@
                             "prefix":"",
                             "postfix":"-ation = act+ion 名词后缀",
                             "explain": "",
-                            "definition": "活泼,动画"
+                            "definition": "活泼；动画"
                         },
                         {
                             "name": "un·anim·ous",
@@ -5988,7 +5988,7 @@
                             "name": "oxy·gen",
                             "prefix":"ox = acid ",
                             "postfix":"",
-                            "explain": "生成的尖锐刺鼻气体， 后用于指氧气",
+                            "explain": "氧气：尖锐刺鼻气体",
                             "definition": "氧气"
                         },
                         {
@@ -6003,14 +6003,14 @@
                             "prefix":"de- 向下",
                             "postfix":"",
                             "explain": "",
-                            "definition": "堕落， 恶化"
+                            "definition": "堕落；恶化"
                         },
                         {
                             "name": "gene·ral",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "同种类的， 通用的。 引申词义将军",
-                            "definition": "一般的， 通用的， 将军"
+                            "explain": "同种类的；通用的；引申词义将军",
+                            "definition": "一般的；通用的；将军"
                         }
                     ]
                 },
@@ -6035,7 +6035,7 @@
                             "name": "kind·ful",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "对同种类和善",
+                            "explain": "对同种类(和善)",
                             "definition": "和善的"
                         }
                     ]
@@ -6046,8 +6046,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "radi 根 辐射(像根一样向四周延申),半径",
-                    "explain": "root 根 根源",
+                    "root": "radi 根,辐射(像根一样向四周延申),半径",
+                    "explain": "root 根；根源",
                     "configure":[
                         {
                             "vowelRoot":[1],
@@ -6074,7 +6074,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "放射线， 辐射"
+                            "definition": "放射线；辐射"
                         },
                         {
                             "name": "radius",
@@ -6088,7 +6088,7 @@
                             "prefix":"",
                             "postfix":"-or 表人,物",
                             "explain": "",
-                            "definition": "暖气片， 散热器"
+                            "definition": "暖气片；散热器"
                         }
                     ]
                 }
@@ -6098,8 +6098,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "prim 第一的， 最初的， 首要的",
-                    "explain": "prim·ary prime,第一的， 最初的， 首要的， -ary,形容词后缀",
+                    "root": "prim 第一；最初的；首要的",
+                    "explain": "prim·ary 主要的；初级的；基本的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6129,7 +6129,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "fin 终结， 边界",
+                    "root": "fin 终结,边界",
                     "explain": "fin·al 最后的",
                     "configure":[
                         {
@@ -6150,21 +6150,21 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "无限的，无穷的"
+                            "definition": "无限的；无穷的"
                         },
                         {
                             "name": "de·fine",
                             "prefix":"de- 表完全,表加强",
                             "postfix":"",
                             "explain": "",
-                            "definition": "界定,定义；使明确"
+                            "definition": "界定；定义；使明确"
                         },
                         {
                             "name": "de·fin·ite",
                             "prefix":"de- 表完全,表加强",
                             "postfix":"",
                             "explain": "",
-                            "definition": "明确的,一定的"
+                            "definition": "明确的；一定的"
                         },
                         {
                             "name": "con·fine",
@@ -6182,7 +6182,7 @@
             "roots":[
                 {
                     "root": "mort 死亡的 ",
-                    "explain": "mort·al 终有一死的 凡人的 终有一死的，后该词用于指凡人",
+                    "explain": "mort·al 凡人(终有一死的)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6202,20 +6202,20 @@
                             "prefix":"",
                             "postfix":"-ity 名词后缀",
                             "explain": "",
-                            "definition": "死亡数，死亡率"
+                            "definition": "死亡数；死亡率"
                         },
                         {
                             "name": "im·mort·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
                             "explain": "",
-                            "definition": "不死的，神仙"
+                            "definition": "不死的；神仙"
                         },
                         {
                             "name": "mort·gage",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "直到死亡也会履行的承诺。用于指古代的抵押资产以换取借款的 经济行为",
+                            "explain": "直到死亡也会履行的承诺。用于指古代的抵押资产以换取借款的经济行为",
                             "definition": "按揭"
                         },
                         {
@@ -6234,7 +6234,7 @@
             "roots":[
                 {
                     "root": "anthrop 人类",
-                    "explain": "anthrop·ology  人类学",
+                    "explain": "anthrop·ology 人类学",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6254,12 +6254,12 @@
                             "prefix":"",
                             "postfix":"-ist 从事…工作的人",
                             "explain": "",
-                            "definition": " 人类学家"
+                            "definition": "人类学家"
                         },
                         {
                             "name": "anthrop·oid",
                             "prefix":"",
-                            "postfix":"",
+                            "postfix":"-oid 像,类似",
                             "explain": "",
                             "definition": "类人猿的"
                         }
@@ -6271,7 +6271,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "popul 人， 民众",
+                    "root": "popul 人,民众",
                     "explain": "popul·ar 流行的 -ar,形容词后缀",
                     "configure":[
                         {
@@ -6299,7 +6299,7 @@
                             "prefix":"",
                             "postfix":"-ate 形容词,动词和名词后缀",
                             "explain": "",
-                            "definition": "构成人口， 居住， 迁移"
+                            "definition": "构成人口；居住；迁移"
                         }
                     ]
                 }
@@ -6309,8 +6309,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "cult 耕作。 引申词义文化， 即耕耘， 培养",
-                    "explain": "cult·ure 种植， 栽培， 文明， 文化",
+                    "root": "cult 耕耘,培养,文化",
+                    "explain": "cult·ure 栽培；文明(培育人类)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6367,8 +6367,8 @@
                             "name": "patr·iot",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "同一个父亲的， 同一个祖先的， 后用以指同胞， 爱国者",
-                            "definition": "同胞， 爱国者"
+                            "explain": "同一个父亲的；同一个祖先的",
+                            "definition": "同胞；爱国者"
                         },
                         {
                             "name": "com·patr·iot",
@@ -6406,7 +6406,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "子宫， 母体，矩阵， 社会环境"
+                            "definition": "子宫；母体；矩阵"
                         }
                     ]
                 }
@@ -6437,7 +6437,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": " 为…命名"
+                            "definition": "为…命名"
                         },
                         {
                             "name": "an·onym·ous",
@@ -6475,21 +6475,21 @@
                             "prefix":"",
                             "postfix":"-ty,名词后缀",
                             "explain": "个人或私人所有的财产或财物",
-                            "definition": "财产， 房产， 不动产"
+                            "definition": "财产；房产；不动产"
                         },
                         {
                             "name": "ap·prop·riate",
                             "prefix":"ap-,向， 往",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "合适的"
+                            "explain": "适合自己的",
+                            "definition": "恰当的；合适的"
                         },
                         {
                             "name": "prop·er",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "个人的， 正确的， 恰当的， 合适的"
+                            "explain": "恰当：符合自己的",
+                            "definition": "本身的；特有的；恰当的"
                         }
                     ]
                 }
@@ -6500,7 +6500,7 @@
             "roots":[
                 {
                     "root": "greg 集合，合围",
-                    "explain": "ag·greg·ate 集合；聚集 ag-,向， 往 ",
+                    "explain": "ag·greg·ate 集合,聚集 ag=ad 向,往 ",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6520,7 +6520,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "合群的。"
+                            "definition": "合群的"
                         },
                         {
                             "name": "con·greg·ate",
@@ -6576,7 +6576,7 @@
             "roots":[
                 {
                     "root": "civi 市民",
-                    "explain": "civi·l 城市的， 公民的；民间的 有礼貌的",
+                    "explain": "civi·l 城市的；有礼貌的；公民的；民间的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6620,7 +6620,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "polic 城邦， 市民",
+                    "root": "polic 城市,市民",
                     "explain": "police 警察",
                     "configure":[
                         {
@@ -6648,7 +6648,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "政策， 主张"
+                            "definition": "政策；主张"
                         }
                     ]
                 }
@@ -6659,7 +6659,7 @@
             "roots":[
                 {
                     "root": "dom 家,统治",
-                    "explain": "king·dom  王国；界",
+                    "explain": "king·dom 王国,界",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6679,7 +6679,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": " 圆屋顶 穹顶"
+                            "definition": "圆屋顶；穹顶"
                         },
                         {
                             "name": "dome·stic",
@@ -6693,14 +6693,14 @@
                             "prefix":"pre- 在前,提前",
                             "postfix":"-ate 形容词,动词和名词后缀",
                             "explain": "",
-                            "definition": "占优势， 主导"
+                            "definition": "占优势；主导"
                         },
                         {
                             "name": "domin·ate",
                             "prefix":"",
                             "postfix":"-ate 形容词,动词和名词后缀",
                             "explain": "",
-                            "definition": "控制， 支配"
+                            "definition": "控制；支配"
                         }
                     ]
                 }
@@ -6731,35 +6731,35 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "政治制度， 政体"
+                            "definition": "政治制度；政体"
                         },
                         {
                             "name": "reg·ion",
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
-                            "explain": "",
-                            "definition": "地方， 区域"
+                            "explain": "统治的地方",
+                            "definition": "地方；区域"
                         },
                         {
                             "name": "reg·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
                             "explain": "",
-                            "definition": "王室的， 豪华的"
+                            "definition": "王室的；豪华的"
                         },
                         {
                             "name": "reg·ular",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "规则的， 惯常的"
+                            "definition": "规则的；惯常的"
                         },
                         {
                             "name": "reg·ulate",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "管理， 控制， 调节"
+                            "definition": "管理；控制；调节"
                         },
                         {
                             "name": "reg·ulation",
@@ -6771,8 +6771,8 @@
                     ]
                 },
                 {
-                    "root": "rect 直， 正确,使正确,引导",
-                    "explain": "right 正确",
+                    "root": "rect 直,正确",
+                    "explain": "right 直的,正直的,正确",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6798,28 +6798,28 @@
                             "name": "di·rect",
                             "prefix":"di=dis 分开,散开,离开",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "直接的；直系的管理；指挥"
+                            "explain": "指导：使...变正确",
+                            "definition": "直接的；直系的管理；指导"
                         },
                         {
                             "name": "di·rect·ory",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "引导 引申词义电话号码薄",
+                            "explain": "电话号码薄：指导(打电话的本子)",
                             "definition": "电话号码薄"
                         },
                         {
                             "name": "rect·ify",
                             "prefix":"",
                             "postfix":"-ify 使.... 词源同fact:使,做",
-                            "explain": "",
-                            "definition": "纠正， 矫正"
+                            "explain": "使变直",
+                            "definition": "纠正；矫正"
                         },
                         {
                             "name": "rect·angle",
                             "prefix":"",
-                            "postfix":"angle,角",
-                            "explain": "",
+                            "postfix":"",
+                            "explain": "angle 角；角度",
                             "definition": "直角"
                         }
                     ]
@@ -6868,8 +6868,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "serv 保护， 看护，服务",
-                    "explain": "serv·ice 服务， 服役 -ice,名词后缀",
+                    "root": "serv 观察,看护",
+                    "explain": "serv·ice 服务,服役 -ice,名词后缀",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6888,15 +6888,15 @@
                             "name": "de·serve",
                             "prefix":"de- 表完全,表加强",
                             "postfix":"",
-                            "explain": "服务所应得的报酬， 后词义通用化",
+                            "explain": "看护所应得的报酬",
                             "definition": "应得"
                         },
                         {
                             "name": "pre·serve",
                             "prefix":"pre- 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "保护， 维护， 保存"
+                            "explain": "在前面看护",
+                            "definition": "保护；维护；保存"
                         },
                         {
                             "name": "con·serve",
@@ -6906,18 +6906,11 @@
                             "definition": "保护"
                         },
                         {
-                            "name": "pre·serve",
-                            "prefix":"pre- 在前,提前",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": "保护， 维护， 保存"
-                        },
-                        {
                             "name": "ob·serve",
                             "prefix":"ob- 向前,朝向",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "观察， 注视， 遵行， 遵守"
+                            "explain": "观察前面",
+                            "definition": "观察；注视；遵行；遵守"
                         }
                     ]
                 }
@@ -6928,7 +6921,7 @@
             "roots":[
                 {
                     "root": "bel 战争",
-                    "explain": "re·bel 反抗， 叛逆 re-,相对， 相反",
+                    "explain": "re·bel 反抗,叛逆 re- 相对,相反",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -6958,8 +6951,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "arm 武器， 装甲",
-                    "explain": "army 军队 ",
+                    "root": "arm 武器；装甲",
+                    "explain": "army 军队",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -7030,39 +7023,8 @@
                             "name": "de·bate",
                             "prefix":"de- 表完全,表加强",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "(言语上的)争斗",
                             "definition": "争辩"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "milit",
-                    "explain": "milit·ary 军事的， 军队的",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": ""
                         }
                     ]
                 }
@@ -7131,7 +7093,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "惩罚， 处罚"
+                            "definition": "惩罚；处罚"
                         },
                         {
                             "name": "pen·al",
@@ -7145,7 +7107,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "处罚， 刑罚， 罚点球"
+                            "definition": "处罚；刑罚；罚点球"
                         }
                     ]
                 }
@@ -7183,13 +7145,13 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "地理学。"
+                            "definition": "地理学"
                         },
                         {
                             "name": "geo·therm·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
-                            "explain": "therm,热的",
+                            "explain": "therm 热",
                             "definition": "地热的"
                         }
                     ]
@@ -7200,8 +7162,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "terr 土地， 陆地",
-                    "explain": "terrible 可怕的 -ible,形容词后缀",
+                    "root": "terr 土地,恐怖",
+                    "explain": "terrible 可怕的 地下的东西也总让人感到恐怖，如地狱,坟墓等",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -7220,22 +7182,22 @@
                             "name": "terr·itory",
                             "prefix":"",
                             "postfix":"-itory 表地点",
-                            "explain": "领主管辖区域， 引申词义领土， 领地",
-                            "definition": ""
+                            "explain": "领主管辖区域",
+                            "definition": "领土；领地"
                         },
                         {
                             "name": "terr·ain",
                             "prefix":"",
-                            "postfix":"-ain,名词后缀",
+                            "postfix":"-ain 名词后缀",
                             "explain": "",
-                            "definition": "地形， 地势"
+                            "definition": "地形；地势"
                         },
                         {
                             "name": "terr·ify",
                             "prefix":"",
                             "postfix":"-ify 使.... 词源同fact:使,做",
                             "explain": "",
-                            "definition": "使恐惧， 使惊吓"
+                            "definition": "使恐惧；使惊吓"
                         }
                     ]
                 }
@@ -7246,7 +7208,7 @@
             "roots":[
                 {
                     "root": "hum 土，尘土",
-                    "explain": "hum·ble 卑微的；低下的",
+                    "explain": "hum·ble 卑微的,低下的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -7265,7 +7227,7 @@
                             "name": "hum·an",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "人是有泥土造出的",
+                            "explain": "西方认为人是由泥土造出的，中国也有女娲用泥土造人",
                             "definition": "人"
                         },
                         {
@@ -7371,15 +7333,15 @@
                         {
                             "name": "aqua·rium",
                             "prefix":"",
-                            "postfix":"-rium,表地点",
+                            "postfix":"-rium 表地点",
                             "explain": "",
                             "definition": "水族馆"
                         },
                         {
                             "name": "op·aque",
-                            "prefix":"",
+                            "prefix":"op- 相对",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "隔着水看,模糊的",
                             "definition": "不透明的；不传热的；迟钝的"
                         }
                     ]
@@ -7409,16 +7371,16 @@
                         {
                             "name": "hydr·ant",
                             "prefix":"",
-                            "postfix":"-ant,名词后缀",
+                            "postfix":"-ant 名词后缀",
                             "explain": "",
-                            "definition": "给水栓， 消防龙头"
+                            "definition": "给水栓；消防龙头"
                         },
                         {
                             "name": "carbo·hydr·ate",
-                            "prefix":"carb-,碳",
+                            "prefix":"",
                             "postfix":"-ate 形容词,动词和名词后缀",
-                            "explain": "",
-                            "definition": ""
+                            "explain": "carb- 碳",
+                            "definition": "碳水化合物"
                         }
                     ]
                 }
@@ -7429,7 +7391,7 @@
             "roots":[
                 {
                     "root": "riv 河岸",
-                    "explain": "riv·er 河， 江",
+                    "explain": "riv·er 河,江",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -7448,12 +7410,12 @@
                             "name": "riv·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
-                            "explain": "",
+                            "explain": "隔着一条河的，楚河汉界",
                             "definition": "竞争者"
                         },
                         {
                             "name": "ar·rive",
-                            "prefix":"ar-,向， 往",
+                            "prefix":"ar-,向,往",
                             "postfix":"",
                             "explain": "指航海后到达陆地",
                             "definition": "到达"
@@ -7462,7 +7424,7 @@
                             "name": "de·rive",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "指从源头处流下， 引申词义衍生于",
+                            "explain": "衍生于：从源头处流下来的",
                             "definition": "衍生于"
                         }
                     ]
@@ -7474,7 +7436,7 @@
             "roots":[
                 {
                     "root": "flu 流",
-                    "explain": "flow 浮动， 流动",
+                    "explain": "flow 浮动,流动",
                     "configure":[
                         {
                             "vowelRoot":[2],
@@ -7508,14 +7470,14 @@
                             "prefix":"",
                             "postfix":"-ent 形容词后缀",
                             "explain": "",
-                            "definition": "流畅的，流利的"
+                            "definition": "流畅的；流利的"
                         },
                         {
                             "name": "in·flu·ence",
                             "prefix":"in- 进入,往里",
                             "postfix":"-ence 名词后缀",
                             "explain": "",
-                            "definition": "影响， 支配"
+                            "definition": "影响；支配"
                         },
                         {
                             "name": "super·flu·ous",
@@ -7529,7 +7491,7 @@
                             "prefix":"af-,去， 往",
                             "postfix":"-ent 形容词后缀",
                             "explain": "富得流油",
-                            "definition": "支流,富裕的"
+                            "definition": "支流；富裕的"
                         },
                         {
                             "name": "ef·flu·ence",
@@ -7542,8 +7504,8 @@
                             "name": "con·flu·ence",
                             "prefix":"con- 一起",
                             "postfix":"-ence 名词后缀",
-                            "explain": "",
-                            "definition": "汇合、汇流点"
+                            "explain": "流到一起",
+                            "definition": "汇合；汇流点"
                         }
                     ]
                 }
@@ -7587,8 +7549,8 @@
                             "name": "re·fuse",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "拒绝， 回绝"
+                            "explain": "往回流",
+                            "definition": "拒绝；回绝"
                         },
                         {
                             "name": "dif·fuse",
@@ -7743,7 +7705,7 @@
                             "name": "form·ulate",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "公式：统一的形式",
                             "definition": "规划；用公式表示"
                         }
                     ]
@@ -7767,10 +7729,10 @@
                     "words":[
                         {
                             "name": "poly·morph·ic",
-                            "prefix":"",
+                            "prefix":"poly- 多",
                             "postfix":"",
                             "explain": "",
-                            "definition": "形态学"
+                            "definition": "多态的；多形的"
                         },
                         {
                             "name": "morph·ology",
@@ -7827,8 +7789,8 @@
                         {
                             "name": "chron·meter",
                             "prefix":"",
-                            "postfix":"",
-                            "explain": "",
+                            "postfix":"-meter 测量",
+                            "explain": "测量时间的",
                             "definition": "精密计时器"
                         }
                     ]
@@ -7840,7 +7802,7 @@
             "roots":[
                 {
                     "root": "tempor 时间的",
-                    "explain": "tempor·ary 临时的， 暂时的 持续一段时间的， 后引申词义临时的， 暂时的",
+                    "explain": "tempor·ary 临时的；暂时的 后引申词义临时的；暂时的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -7864,7 +7826,7 @@
                         },
                         {
                             "name": "con·tempor·ary",
-                            "prefix":"con- 表加强,表强调",
+                            "prefix":"con- 一起",
                             "postfix":"-ary 名词和形容词后缀",
                             "explain": "",
                             "definition": "同时代的"
@@ -7902,7 +7864,7 @@
                         },
                         {
                             "name": "ag·grav·ate",
-                            "prefix":"ag-,向， 往",
+                            "prefix":"ag-,向,往",
                             "postfix":"-ate 形容词,动词和名词后缀",
                             "explain": "",
                             "definition": "加重"
@@ -7911,7 +7873,7 @@
                             "name": "grief",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "心情沉重",
                             "definition": "悲痛；忧伤；不幸"
                         }
                     ]
