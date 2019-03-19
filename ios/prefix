@@ -45,12 +45,19 @@ ob-
 3 ob- 相对,相反
 4 ob- 向上
 
+op=ob 相对,相反
+
+post- 在后,向后
+
+
 per- 
 1 per- 穿过,通过
 2 per- 表整个,表完全
 3 per- 否定,虚假
 
 pre- 在前,提前
+
+pur=pre 在前,提前
 
 pro=pre 在前,提前
 
@@ -59,6 +66,8 @@ re-
 2 re- 相对,相反 
 3 re- 再次,重新
 4 re- 表重复,表加强
+
+bio- 生命
 
 sub- 
 1 sub- 向下,从上往下
@@ -73,7 +82,7 @@ trans-
 
 tra- 转移,穿过
 
-inter ter-比较级
+inter- 往里,中间,互相
 
 bene- 好
 
@@ -83,6 +92,7 @@ herb- 草
 
 op- 相对
 
+dif- 分开
 
 
 

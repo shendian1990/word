@@ -125,7 +125,7 @@
             "roots":[
                 {
                     "root": "fame 说,引申为名声",
-                    "explain": "fam·ous 出名的,出名就是每个人都说得出来的",
+                    "explain": "fam·ous 出名的(每个人都说得出来他的名字)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -237,21 +237,21 @@
                             "prefix":"con 一起",
                             "postfix":"",
                             "explain": "到一个地方说:西方人们都会到教堂向神父忏悔",
-                            "definition": "承认, 告白, 忏悔"
+                            "definition": "承认；告白；忏悔"
                         },
                         {
                             "name": "pro·fess",
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"",
                             "explain": "入教时,会在很多人前面说自己对基督教的忠诚.以传播自己的信仰为业",
-                            "definition": "声称, 冒称，以...为业，正式接受入教，表明信仰"
+                            "definition": "声称；冒称；以...为业；正式接受入教"
                         },
                         {
                             "name": "pro·fess·ion",
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"-ion 名词后缀",
                             "explain": "",
-                            "definition": "职业,专业,声明,信仰"
+                            "definition": "职业；专业；声明；信仰"
                         },
                         {
                             "name": "pro·fess·or",
@@ -380,7 +380,7 @@
                             "prefix":"ac=ad=at 朝,去,向",
                             "postfix":"",
                             "explain": "",
-                            "definition": "喝采, 欢呼, 赞同"
+                            "definition": "喝采；欢呼；赞同"
                         },
                         {
                             "name": "de·claim",
@@ -408,7 +408,7 @@
                             "prefix":"ex- 向外",
                             "postfix":"",
                             "explain": "向外喊",
-                            "definition": "大叫, 呼喊"
+                            "definition": "大叫；呼喊"
                         }
                     ]
                 },
@@ -474,7 +474,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "传讯：把别人叫过来；嘉奖：叫过来奖赏；引用：说他人的话",
-                            "definition": "传讯,嘉奖,引用,引证"
+                            "definition": "传讯；嘉奖；引用；引证"
                         },
                         {
                             "name": "in·cite",
@@ -575,7 +575,7 @@
                             "prefix":"",
                             "postfix":"-ate 形容词,动词和名词后缀",
                             "explain": "话里面的意思",
-                            "definition": "暗示,表明"
+                            "definition": "暗示；表明"
                         },
                         {
                             "name": "in·dict",
@@ -607,7 +607,7 @@
             "roots":[
                 {
                     "root": "lingu 舌头",
-                    "explain": "langu·age 语言 说话离不开舌头",
+                    "explain": "langu·age 语言(说话离不开舌头)",
                     "configure":[
                         {
                             "vowelRoot":[1],
@@ -659,7 +659,7 @@
                             "name": "dia·log·ue",
                             "prefix":"dia=di 二,双 词源同two",
                             "postfix":"",
-                            "explain": "对话：两个人说的话",
+                            "explain": "两个人说的话",
                             "definition": "对话"
                         },
                         {
@@ -667,7 +667,7 @@
                             "prefix":"epi=epo 往后",
                             "postfix":"",
                             "explain": "最后才说的",
-                            "definition": "结尾, 收场白"
+                            "definition": "结尾；收场白"
                         },
                         {
                             "name": "apo·logy",
@@ -726,7 +726,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "音波的,音速的"
+                            "definition": "音波的；音速的"
                         },
                         {
                             "name": "re·son·ance",
@@ -778,14 +778,14 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "声音,音频的"
+                            "definition": "声音；音频的"
                         },
                         {
                             "name": "aud·itory",
                             "prefix":"",
                             "postfix":"-itory 表地点",
                             "explain": "",
-                            "definition": "礼堂,讲堂"
+                            "definition": "礼堂；讲堂"
                         },
                         {
                             "name": "audi·ence",
@@ -817,7 +817,7 @@
             "roots":[
                 {
                     "root": "vis 看",
-                    "explain": "vis·it 参观,访问 访问即观察其他地方的风俗,技术",
+                    "explain": "vis·it 参观,访问(观察其他地方的风俗,技术)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -926,14 +926,14 @@
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"-ent 形容词后缀",
                             "explain": "节俭:把当前多的物资存起来,等灾难到来时,留有生命必需品",
-                            "definition": "有先见之明的,有远虑的,节俭的"
+                            "definition": "有先见之明的；有远虑的；节俭的"
                         },
                         {
                             "name": "pro·vide",
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"",
                             "explain": "有先见之明的,未雨绸缪,在灾祸时能提供生命必需品",
-                            "definition": "供给,提供,准备"
+                            "definition": "供给；提供；准备"
                         }
                     ]
                 },
@@ -1003,7 +1003,7 @@
                             "name": "ad·opt",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"",
-                            "explain": "采纳：在众多选择中采纳一条",
+                            "explain": "采纳(在众多选择中采纳一条)",
                             "definition": "采纳"
                         },
                         {
@@ -1049,13 +1049,13 @@
                             "prefix":"in- 进入,往里",
                             "postfix":"",
                             "explain": "",
-                            "definition": "检查，巡视"
+                            "definition": "检查；巡视"
                         },
                         {
                             "name": "pro·spect",
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"",
-                            "explain": "希望：万事朝前看,好生照看自己的日子",
+                            "explain": "希望(万事朝前看)",
                             "definition": "景色；希望；寻找"
                         },
                         {
@@ -1073,12 +1073,10 @@
                             "definition": "怀疑"
                         },
                         {
-                            "name": "perspective",
-                            "insertPosition": [2,7],
+                            "name": "per·spect·ive",
                             "prefix":"per- 表整个,表完全",
                             "postfix":"",
                             "explain": "透视:能让人感受出不同物体间距离的图像(如近大远小规则),能让人一看就了解完全情况",
-                            "explainBoldPosition":[],
                             "definition": "远景；透视"
                         },
                         {
@@ -1164,14 +1162,14 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "写下光影的变换",
-                            "definition": "照片，照相"
+                            "definition": "照片；照相"
                         },
                         {
                             "name": "photo·copy",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "影印本 影印"
+                            "definition": "影印本；影印"
                         }
                     ]
                 }
@@ -1235,7 +1233,7 @@
                             "prefix":"il=in 进入,往里",
                             "postfix":"-ate 形容词,动词和名词后缀",
                             "explain": "进入光明",
-                            "definition": "照明，解释"
+                            "definition": "照明；解释"
                         }
                     ]
                 }
@@ -1246,7 +1244,7 @@
             "roots":[
                 {
                     "root": "man 手",
-                    "explain": "man·age 管理,经营 最初指“骑马时用手来控制马匹”, 后来引申为'控制,经营",
+                    "explain": "man·age 最初指“骑马时用手来控制马匹”, 后来引申为'控制,经营'",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1266,28 +1264,28 @@
                             "prefix":"",
                             "postfix":"-ager er=or 表人,物",
                             "explain": "管理的人",
-                            "definition": "管理者，经理"
+                            "definition": "管理者；经理"
                         },
                         {
                             "name": "man·ual",
                             "prefix":"",
                             "postfix":"-ual 形容词后缀",
                             "explain": "",
-                            "definition": "手工的，体力的，手册"
+                            "definition": "手工的；体力的；手册"
                         },
                         {
                             "name": "manu·fact·ure",
                             "prefix":"",
                             "postfix":"-ure 名词后缀",
                             "explain": "fact(生产,制造)",
-                            "definition": "生产， 制造"
+                            "definition": "生产；制造"
                         },
                         {
                             "name": "manu·script",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "script(写),用手写的东西",
-                            "definition": "手稿, 原稿"
+                            "explain": "手稿(用手写)",
+                            "definition": "手稿；原稿"
                         }
                     ]
                 },
@@ -1313,28 +1311,28 @@
                             "prefix":"com- 表加强,表强调",
                             "postfix":"",
                             "explain": "",
-                            "definition": "司令官，指挥官"
+                            "definition": "司令官；指挥官"
                         },
                         {
                             "name": "de·mand",
                             "prefix":"de- 表完全,表加强",
                             "postfix":"",
                             "explain": "",
-                            "definition": "要求，需求"
+                            "definition": "要求；需求"
                         },
                         {
                             "name": "com·mend",
                             "prefix":"com- 表加强,表强调",
                             "postfix":"",
-                            "explain": "托付给别人",
-                            "definition": "推荐，嘉奖"
+                            "explain": "推荐(托付给别人)",
+                            "definition": "推荐；嘉奖"
                         },
                         {
                             "name": "re·com·mend",
                             "prefix":"re- 表重复,表加强",
                             "postfix":"",
                             "explain": "",
-                            "definition": "建议, 推荐"
+                            "definition": "建议；推荐"
                         }
                     ]
                 },
@@ -1468,7 +1466,7 @@
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "对所作之事的反应",
-                            "definition": "反应，反抗"
+                            "definition": "反应；反抗"
                         }
                     ]
                 },
@@ -1501,7 +1499,7 @@
                             "prefix":"",
                             "postfix":"-cy 抽象名词后缀",
                             "explain": "",
-                            "definition": "机构，代理"
+                            "definition": "机构；代理"
                         },
                         {
                             "name": "ag·itate",
@@ -1586,7 +1584,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "做进去的,传染",
-                            "definition": "传染，影响"
+                            "definition": "传染；影响"
                         },
                         {
                             "name": "in·fect·ion",
@@ -1600,13 +1598,13 @@
                             "prefix":"af=ad=at 朝,去,向",
                             "postfix":"",
                             "explain": "该词衍生出两个截然相反的词义:1.做出来的样子，假装 2.真心实意的做，打动，影响。",
-                            "definition": "感染，打动，假装"
+                            "definition": "感染；打动；假装"
                         },
                         {
                             "name": "per·fect",
                             "prefix":"per- 表整个,表完全",
                             "postfix":"",
-                            "explain": "即全都做了，引申词义完美的。",
+                            "explain": "完美的(全都做了)",
                             "definition": "完美的"
                         },
                         {
@@ -1620,7 +1618,7 @@
                             "name": "fict·ion",
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
-                            "explain": "小说：凭空捏造，制造",
+                            "explain": "凭空捏造，制造",
                             "definition": "小说"
                         }
                     ]
@@ -1654,7 +1652,7 @@
                             "prefix":"of- 做 词源同 oper·ate 操作，手术",
                             "postfix":"",
                             "explain": "来自 office,办公室。引申词义官方的，正式的",
-                            "definition": "官方的，正式的"
+                            "definition": "官方的；正式的"
                         },
                         {
                             "name": "de·fic·it",
@@ -1681,15 +1679,15 @@
                             "name": "suf·fice",
                             "prefix":"suf=sub 向下,从上往下",
                             "postfix":"",
-                            "explain": "向下做引申词义做到足够，使足够，足以",
-                            "definition": "使足够，足以"
+                            "explain": "向下做，做到足够",
+                            "definition": "使足够；足以"
                         },
                         {
                             "name": "suf·fici·ent",
                             "prefix":"suf=sub 向下,从上往下",
                             "postfix":"-ent 形容词后缀",
                             "explain": "",
-                            "definition": "足够的，充分的"
+                            "definition": "足够的；充分的"
                         },
                         {
                             "name": "fac·ility",
@@ -1703,7 +1701,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "使简单，简化，促进"
+                            "definition": "使简单；简化；促进"
                         }
                     ]
                 },
@@ -1728,7 +1726,7 @@
                             "name": "bene·fit",
                             "prefix":"bene- 好的",
                             "postfix":"",
-                            "explain": "原指做好事，善举，后也指个人利益",
+                            "explain": "原指做好事，后也指个人利益",
                             "definition": "益处"
                         }
                     ]
@@ -1755,7 +1753,7 @@
                             "prefix":"",
                             "postfix":"-ure 名词后缀",
                             "explain": "",
-                            "definition": "形象，身材"
+                            "definition": "形象；身材"
                         },
                         {
                             "name": "dis·fig·ure",
@@ -1773,7 +1771,7 @@
             "roots":[
                 {
                     "root": "cid 切",
-                    "explain": "de·cide de-,向下，当断不断,必受其乱.引申词义决定",
+                    "explain": "de·cide 决定(当断不断,必受其乱) de- 向下",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1826,7 +1824,7 @@
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
                             "explain": "来自 decide,决定",
-                            "definition": "决定，决心；决议"
+                            "definition": "决定；决心；决议"
                         },
                         {
                             "name": "con·cise",
@@ -1840,7 +1838,7 @@
                             "prefix":"ex- 向外",
                             "postfix":"",
                             "explain": "",
-                            "definition": "切除，删除"
+                            "definition": "切除；删除"
                         },
                         {
                             "name": "pre·cise",
@@ -1865,7 +1863,7 @@
             "roots":[
                 {
                     "root": "tom 切",
-                    "explain": "atom a-,不 因古代认为原子是最小的不可切分的单位而得名",
+                    "explain": "atom 原子 a- 不 原来人认为原子是不可切分的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1903,7 +1901,7 @@
             "roots":[
                 {
                     "root": "scrib 刻,写",
-                    "explain": "de·scribe de-,向下, 向下写:描述",
+                    "explain": "de·scribe 描述(向下写) de- 向下",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1922,15 +1920,15 @@
                             "name": "sub·scribe",
                             "prefix":"sub- 向下,在下面",
                             "postfix":"",
-                            "explain": "即在合同下面签字",
-                            "definition": "定阅，定购，认购"
+                            "explain": "即在(合同)下面签字",
+                            "definition": "定阅；定购；认购"
                         },
                         {
                             "name": "pre·scribe",
                             "prefix":"pre- 在前,提前",
                             "postfix":"",
                             "explain": "最初指写在前面指示道路的路标,引申为指导",
-                            "definition": "规定，命令，开药"
+                            "definition": "规定；命令；开药"
                         }
                     ]
                 },
@@ -1967,7 +1965,7 @@
             "roots":[
                 {
                     "root": "graph 写",
-                    "explain": "photo·graph 即把光记录下来，引申词义照相，相片",
+                    "explain": "photo·graph 照相，相片(把光记录下来)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -1984,7 +1982,7 @@
                     "words":[
                         {
                             "name": "bio·graphy",
-                            "prefix":"bio-,生命",
+                            "prefix":"bio- 生命",
                             "postfix":"",
                             "explain": "写下一生",
                             "definition": "传记"
@@ -1997,7 +1995,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "pict 刻，雕刻",
+                    "root": "pict 刻,雕刻",
                     "explain": "pict·ure 绘画 最初雕刻人体像就是绘画",
                     "configure":[
                         {
@@ -2069,15 +2067,15 @@
                             "name": "de·pend",
                             "prefix":"de- 表完全,表加强",
                             "postfix":"",
-                            "explain": "依靠：悬挂在下面",
-                            "definition": "依赖，依靠，信赖"
+                            "explain": "依靠(悬挂在下面，只能依靠上面)",
+                            "definition": "依赖；依靠；信赖"
                         },
                         {
                             "name": "sus·pend",
-                            "prefix":"sus-,在下，向上",
+                            "prefix":"sus=sub 向下,从上往下",
                             "postfix":"",
                             "explain": "",
-                            "definition": "挂，吊，暂停，中止"
+                            "definition": "挂；吊；暂停；中止"
                         }
                     ]
                 },
@@ -2107,10 +2105,10 @@
                         },
                         {
                             "name": "sus·pense",
-                            "prefix":"",
+                            "prefix":"sus=sub 向下,从上往下",
                             "postfix":"",
-                            "explain": "一直牵挂着",
-                            "definition": "悬念，焦虑"
+                            "explain": "一直牵挂(挂在下面)着",
+                            "definition": "悬念；焦虑"
                         }
                     ]
                 }
@@ -2148,7 +2146,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "关节；接缝；接合处，接合点"
+                            "definition": "关节；接合处"
                         },
                         {
                             "name": "ad·join",
@@ -2166,7 +2164,7 @@
             "roots":[
                 {
                     "root": "prob 探测,检验，证实 ",
-                    "explain": "probably 大概,很可能 能被检验的,能证实的",
+                    "explain": "probably 大概,很可能(能被检验的,能证实的)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2186,7 +2184,7 @@
                             "prefix":"",
                             "postfix":"-able 表能力,适应力等",
                             "explain": "",
-                            "definition": "很可能的,可信的"
+                            "definition": "很可能的；可信的"
                         },
                         {
                             "name": "probe",
@@ -2198,8 +2196,8 @@
                     ]
                 },
                 {
-                    "root": "prov 检验，试探",
-                    "explain": "prob 检验，试探",
+                    "root": "prov 检验,试探",
+                    "explain": "prob 检验,试探",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2247,7 +2245,7 @@
                     "words":[
                         {
                             "name": "im·pel",
-                            "prefix":"im-,进入",
+                            "prefix":"im=in 进入,往里",
                             "postfix":"",
                             "explain": "往里推",
                             "definition": "促使"
@@ -2271,14 +2269,14 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "推进，推动"
+                            "definition": "推进；推动"
                         },
                         {
                             "name": "re·pel",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "往回推",
-                            "definition": "击退，驱逐"
+                            "definition": "击退；驱逐"
                         }
                     ]
                 },
@@ -2355,19 +2353,19 @@
                             "name": "ex·tract",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "向外拉,抽出一块",
+                            "explain": "往外抽出(文章)一部分",
                             "definition": "摘录"
                         },
                         {
                             "name": "dis·tract",
                             "prefix":"dis- 分开,散开,离开",
                             "postfix":"",
-                            "explain": "引申词义分心，精神混乱",
+                            "explain": "",
                             "definition": "分心"
                         },
                         {
                             "name": "con·tract",
-                            "prefix":"",
+                            "prefix":"con- 一起",
                             "postfix":"",
                             "explain": "拉到一起",
                             "definition": "合同；婚约；收缩"
@@ -2395,15 +2393,15 @@
                             "name": "trace",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "拉，拉出",
-                            "definition": "追踪，追溯，描绘"
+                            "explain": "追踪(拉出，抽丝剥茧)",
+                            "definition": "追踪；追溯；描绘"
                         },
                         {
                             "name": "re·trace",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "向后拉",
-                            "definition": "折回，返回，追溯"
+                            "definition": "折回；返回；追溯"
                         }
                     ]
                 },
@@ -2440,7 +2438,7 @@
             "roots":[
                 {
                     "root": "ject 扔,投",
-                    "explain": "jet  射出,往外扔气:喷气式飞机",
+                    "explain": "jet  喷气式飞机(往外喷气)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2459,7 +2457,7 @@
                             "name": "pro·ject",
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"",
-                            "explain": "方案，工程都是对以后想做的成品的投射",
+                            "explain": "方案，工程都是对想做的成品的意识投射",
                             "definition": "投射，投影，规划，方案，工程"
                         },
                         {
@@ -2473,14 +2471,14 @@
                             "name": "re·ject",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "扔回去",
+                            "explain": "扔回",
                             "definition": "拒绝"
                         },
                         {
                             "name": "in·ject",
                             "prefix":"in- 进入,往里",
                             "postfix":"",
-                            "explain": "扔进去",
+                            "explain": "往里扔",
                             "definition": "注射"
                         },
                         {
@@ -2494,28 +2492,28 @@
                             "name": "ob·ject",
                             "prefix":"ob- 相对,相反",
                             "postfix":"",
-                            "explain": "放置在前面的目标或物体。也用于指对着扔的，引申词义反对",
-                            "definition": "目标，物体，反对"
+                            "explain": "反对(对着扔的)",
+                            "definition": "目标；物体；反对"
                         },
                         {
                             "name": "sub·ject",
                             "prefix":"sub- 向下,在下面",
                             "postfix":"",
                             "explain": "扔到下面：被制服，被控制，国民，臣民。扔在下面：构成基础，主题，题目等",
-                            "definition": "主题，题目，学科，科目，从属于，受支配于"
+                            "definition": "主题，题目；学科，科目；从属于，受支配于"
                         },
                         {
                             "name": "tra·ject·ory",
                             "prefix":"tra- 转移,穿过",
                             "postfix":"",
                             "explain": "扔过的轨迹",
-                            "definition": "轨迹，踪迹，弹道"
+                            "definition": "轨迹；踪迹；弹道"
                         }
                     ]
                 },
                 {
                     "root": "press 挤,压",
-                    "explain": "press·ure -ure,名词后缀。压力 迫使 ",
+                    "explain": "press·ure 压力；迫使",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2549,27 +2547,27 @@
                             "prefix":"im=in 进入,往里",
                             "postfix":"-ion 名词后缀",
                             "explain": "",
-                            "definition": "印象，影响"
+                            "definition": "印象；影响"
                         },
                         {
                             "name": "de·press",
                             "prefix":"de- 向下",
                             "postfix":"",
                             "explain": "心情压抑",
-                            "definition": "使抑郁，沮丧"
+                            "definition": "使抑郁；沮丧"
                         },
                         {
                             "name": "op·press",
                             "prefix":"op- 表强调",
                             "postfix":"",
                             "explain": "",
-                            "definition": "压制，压迫"
+                            "definition": "压制；压迫"
                         },
                         {
                             "name": "ex·press",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "表达:内心情感推出去的",
+                            "explain": "表达(将内心情感推出去)",
                             "definition": "表达；快车，快递"
                         },
                         {
@@ -2577,7 +2575,7 @@
                             "prefix":"sup=sub 向下,从上往下",
                             "postfix":"",
                             "explain": "",
-                            "definition": "镇压，压制，抑制"
+                            "definition": "镇压；压制；抑制"
                         }
                     ]
                 }
@@ -2612,10 +2610,10 @@
                         },
                         {
                             "name": "com·pact",
-                            "prefix":"",
+                            "prefix":"com- 表加强,表强调",
                             "postfix":"",
                             "explain": "",
-                            "definition": "紧凑的，简洁的 合同，契约"
+                            "definition": "紧凑的，简洁的；合同，契约"
                         }
                     ]
                 }
@@ -2651,7 +2649,7 @@
                         {
                             "name": "frag·ile",
                             "prefix":"",
-                            "postfix":"ile=ible ",
+                            "postfix":"ile=ible",
                             "explain": "",
                             "definition": "易碎的"
                         }
@@ -2659,7 +2657,7 @@
                 },
                 {
                     "root": "fract 破开",
-                    "explain": "frag",
+                    "explain": "frag 破开",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2678,22 +2676,22 @@
                             "name": "fract·ion",
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
-                            "explain": "",
-                            "definition": "部分，少量"
+                            "explain": "破开的部分",
+                            "definition": "部分；少量"
                         },
                         {
                             "name": "fract·ure",
                             "prefix":"",
                             "postfix":"-ure 名词后缀",
                             "explain": "",
-                            "definition": "破裂,骨折"
+                            "definition": "破裂；骨折"
                         },
                         {
                             "name": "fract·ional",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "部分的,小数的"
+                            "definition": "部分的；小数的"
                         }
                     ]
                 }
@@ -2703,8 +2701,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "miss 扔，送出,离开",
-                    "explain": "miss·ile 导弹，发射物",
+                    "root": "miss 扔,送出,离开",
+                    "explain": "miss·ile 导弹；发射物",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2723,8 +2721,8 @@
                             "name": "dis·miss",
                             "prefix":"dis- 分开,散开,离开",
                             "postfix":"",
-                            "explain": "送走",
-                            "definition": "摒弃"
+                            "explain": "",
+                            "definition": "摒弃；扔开"
                         },
                         {
                             "name": "pro·miss",
@@ -2737,15 +2735,15 @@
                             "name": "mess·age",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "消息：发送出去的东西",
+                            "explain": "消息(发送出去的东西)",
                             "definition": "消息"
                         },
                         {
                             "name": "miss·ion",
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
-                            "explain": "使团：送出到其他国家的人",
-                            "definition": "使团,使命"
+                            "explain": "使团(送出到其他国家的人)",
+                            "definition": "使团；使命"
                         },
                         {
                             "name": "com·miss·ion",
@@ -2763,23 +2761,23 @@
                         },
                         {
                             "name": "per·miss·ion",
-                            "prefix":"",
+                            "prefix":"per- 穿过,通过",
                             "postfix":"-ion 名词后缀",
-                            "explain": "允许离开",
-                            "definition": "同意,许可,允许"
+                            "explain": "同意(允许通过,可以离开)",
+                            "definition": "同意；许可；允许"
                         },
                         {
                             "name": "ad·miss·ion",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"-ion 名词后缀",
-                            "explain": "准许出入,后指同意",
-                            "definition": "承认,入场费"
+                            "explain": "",
+                            "definition": "承认；入场费；进入许可；坦白；录用"
                         }
                     ]
                 },
                 {
-                    "root": "mit 扔，发送",
-                    "explain": "miss",
+                    "root": "mit 扔,发送",
+                    "explain": "miss 扔,发送",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2813,14 +2811,14 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "发出，放射；发行"
+                            "definition": "发出；放射；发行"
                         },
                         {
                             "name": "sub·mit",
                             "prefix":"sub- 向下,在下面",
                             "postfix":"",
-                            "explain": "放在下面的，引申比喻义屈服， 投降，及引申义提交，递呈供上级决定等",
-                            "definition": "屈服，投降，提交，递呈"
+                            "explain": "屈服(放在下面的)，递呈(由下属往上司提交的)",
+                            "definition": "屈服；投降；提交；递呈"
                         },
                         {
                             "name": "ad·mit",
@@ -2834,7 +2832,7 @@
                             "prefix":"trans- 转移",
                             "postfix":"",
                             "explain": "",
-                            "definition": "传送，发放，播送"
+                            "definition": "传送；发放；播送"
                         }
                     ]
                 }
@@ -2844,8 +2842,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "cept 抓住",
-                    "explain": "ac·cept 接受 此处由抓住代指领悟，接受",
+                    "root": "cept 拿,抓住",
+                    "explain": "ac·cept 承认；承担；接受",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -2864,35 +2862,35 @@
                             "name": "ex·cept",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "往外拿",
                             "definition": "除了"
                         },
                         {
                             "name": "in·cept",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "往里拿",
                             "definition": "摄取；接收"
                         },
                         {
                             "name": "inter·cept",
-                            "prefix":"",
+                            "prefix":"inter- 往里,中间,互相",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "阻截，拦截"
+                            "explain": "从中间拿",
+                            "definition": "阻截；拦截"
                         },
                         {
                             "name": "re·ceipt",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
                             "explain": "",
-                            "definition": "收据，收条"
+                            "definition": "收据；收条"
                         }
                     ]
                 },
                 {
                     "root": "capt 抓住",
-                    "explain": "cept",
+                    "explain": "cept 抓住",
                     "configure":[
                         {
                             "vowelRoot":[1],
@@ -2912,14 +2910,14 @@
                             "prefix":"",
                             "postfix":"-ure 名词后缀",
                             "explain": "",
-                            "definition": "捕获,战利品;俘获,夺得"
+                            "definition": "捕获；战利品；俘获；夺得"
                         },
                         {
                             "name": "capt·ive",
                             "prefix":"",
                             "postfix":"-ive 形容词后缀",
                             "explain": "",
-                            "definition": ""
+                            "definition": "被俘虏的；被迷住的"
                         },
                         {
                             "name": "capt·ion",
@@ -2932,7 +2930,7 @@
                 },
                 {
                     "root": "cip/cap 抓住",
-                    "explain": "capt",
+                    "explain": "capt 抓住",
                     "configure":[
                         {
                             "vowelRoot":[1],
@@ -2978,8 +2976,8 @@
                     ]
                 },
                 {
-                    "root": "ceiv",
-                    "explain": "cap",
+                    "root": "ceiv 抓住,理解",
+                    "explain": "cap 抓住,拿到",
                     "configure":[
                         {
                             "vowelRoot":[1,2],
@@ -3005,14 +3003,14 @@
                             "name": "con·ceive",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "形成概念",
                             "definition": "构想"
                         },
                         {
                             "name": "de·ceive",
-                            "prefix":"",
+                            "prefix":"de- 不,非,表相反",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "往坏的地方带",
                             "definition": "欺骗；行骗"
                         }
                     ]
@@ -3024,7 +3022,7 @@
             "roots":[
                 {
                     "root": "habit 持有，握住",
-                    "explain": "have-it",
+                    "explain": "habit 习惯，习性(长期持有的) 类似：have-it",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3043,8 +3041,8 @@
                             "name": "in·habit",
                             "prefix":"in- 进入,往里",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "居住，栖息"
+                            "explain": "持有的",
+                            "definition": "居住地；栖息"
                         },
                         {
                             "name": "in·habit·ant",
@@ -3061,8 +3059,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "prehens/prehend 抓住，理解",
-                    "explain": "ap·prehend 逮捕 理解:抓住事物的核心",
+                    "root": "prehens/prehend 抓住,理解",
+                    "explain": "ap·prehend 逮捕；理解(抓住事物的核心)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3099,8 +3097,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "lect 收集，选出",
-                    "explain": "collect 收集；募捐",
+                    "root": "lect 收集,选出",
+                    "explain": "col·lect 收集；募捐",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3126,14 +3124,14 @@
                             "name": "e·lite",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "精英(往外挑出来的)",
                             "definition": "精英；精华"
                         },
                         {
-                            "name": "college",
+                            "name": "col·lege",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "一群有共同点的人，同事。后来该词用于一起工作师生",
+                            "explain": "师生(选择出来有共同点的,爱学习的)",
                             "definition": "大学；学院；学会"
                         }
                     ]
@@ -3144,8 +3142,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "leg 法律 收集",
-                    "explain": "leg·al 法律的；合法的 de由收集引申收集的规则，法规",
+                    "root": "leg 法律,收集,送出",
+                    "explain": "leg·al 法律的(收集的规则)；合法的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3164,8 +3162,8 @@
                             "name": "de·leg·ate",
                             "prefix":"de- 向下",
                             "postfix":"-ate 形容词,动词和名词后缀",
-                            "explain": "依法授权，委托",
-                            "definition": "授权， 委托"
+                            "explain": "送出,派去下面做事",
+                            "definition": "委派…为代表"
                         },
                         {
                             "name": "leg·islation",
@@ -3179,7 +3177,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "合法的， 合情合理的,正统的"
+                            "definition": "合法的；合情合理的；正统的"
                         }
                     ]
                 }
@@ -3189,8 +3187,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "fer 携带",
-                    "explain": "of·fer 提出，给予 of-,朝前 向前带的",
+                    "root": "fer 拿,带,携带",
+                    "explain": "of·fer 提出；给予(向前带的) of- 朝前",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3209,15 +3207,15 @@
                             "name": "re·fer",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "提到，查阅，参考"
+                            "explain": "参考(往看过的知识拿)",
+                            "definition": "提到；查阅；参考"
                         },
                         {
                             "name": "pre·fer",
                             "prefix":"pre- 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "优先，偏好"
+                            "explain": "提前拿",
+                            "definition": "优先；偏好"
                         },
                         {
                             "name": "dif·fer",
@@ -3237,36 +3235,43 @@
                             "name": "suf·fer",
                             "prefix":"suf-,在下",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "受苦，忍受，遭受"
+                            "explain": "在(困难)下面拿住的",
+                            "definition": "受苦；忍受；遭受"
                         },
                         {
                             "name": "inter·fer",
-                            "prefix":"",
+                            "prefix":"inter 相互",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "干扰，干涉"
+                            "explain": "干扰(相互携带给对方)",
+                            "definition": "干扰；干涉"
                         },
                         {
                             "name": "trans·fer",
                             "prefix":"trans- 转移",
                             "postfix":"",
                             "explain": "",
-                            "definition": "转移，转与，转让"
+                            "definition": "转移；转让"
                         },
                         {
                             "name": "dif·fer·entiate",
-                            "prefix":"",
+                            "prefix":"dif- 分开",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "分开拿的",
                             "definition": "辨别"
                         },
                         {
                             "name": "con·fer",
                             "prefix":"con- 一起",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "(想法)拿到一起的",
                             "definition": "商谈，协商，授予，颁发"
+                        },
+                        {
+                            "name": "con·fer·ence",
+                            "prefix":"con- 一起",
+                            "postfix":"",
+                            "explain": "(想法)拿到一起的",
+                            "definition": "会议"
                         },
                         {
                             "name": "fer·ry",
@@ -3284,7 +3289,7 @@
             "roots":[
                 {
                     "root": "pon 放置",
-                    "explain": "com·pon·ent 组成的，构成的 放在一起的",
+                    "explain": "com·pon·ent 组成的；放在一起的",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3300,24 +3305,31 @@
                     ],
                     "words":[
                         {
+                            "name": "op·pose",
+                            "prefix":"op=ob 相对,相反",
+                            "postfix":"",
+                            "explain": "对着放的",
+                            "definition": "反对；阻挠"
+                        },
+                        {
                             "name": "op·pon·ent",
-                            "prefix":"op-,相对， 对着的",
+                            "prefix":"op=ob 相对,相反",
                             "postfix":"-ent 形容词后缀",
                             "explain": "对着放的",
-                            "definition": "反对者， 对手"
+                            "definition": "反对者；对手"
                         },
                         {
                             "name": "post·pone",
-                            "prefix":"post-,在后",
+                            "prefix":"post- 在后,向后",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "延期 把…放在后面"
+                            "explain": "把事情向后放",
+                            "definition": "延期"
                         }
                     ]
                 },
                 {
                     "root": "pound 放置",
-                    "explain": "pon",
+                    "explain": "pon 放置",
                     "configure":[
                         {
                             "vowelRoot":[1,2],
@@ -3336,14 +3348,14 @@
                             "name": "com·pound",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "放到一起的",
                             "definition": "复合物"
                         }
                     ]
                 },
                 {
-                    "root": "pos",
-                    "explain": "pound",
+                    "root": "pos 放置,摆放",
+                    "explain": "pound 放置",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3363,35 +3375,35 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "摆放姿势",
-                            "definition": "姿势，姿态"
+                            "definition": "姿势；姿态"
                         },
                         {
                             "name": "pause",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "停止，暂停"
+                            "explain": "放置不动的",
+                            "definition": "停止；暂停"
                         },
                         {
                             "name": "pre·pose",
-                            "prefix":"",
+                            "prefix":"pre- 在前,提前",
                             "postfix":"",
                             "explain": "",
                             "definition": "把…放在前面"
                         },
                         {
                             "name": "pur·pose",
-                            "prefix":"pur-,向前",
+                            "prefix":"pur=pre 在前,提前",
                             "postfix":"",
-                            "explain": "向前放置引申词义意图",
-                            "definition": "意图， 目的， 意义"
+                            "explain": "意图(提前放置的)",
+                            "definition": "意图；目的；意义"
                         },
                         {
                             "name": "sup·pose",
                             "prefix":"",
                             "postfix":"sup-,在下",
-                            "explain": "",
-                            "definition": "认为， 假设， 推测， 猜测"
+                            "explain": "假设(根据事实往下延伸)",
+                            "definition": "认为；假设；推测；猜测"
                         },
                         {
                             "name": "com·pose",
@@ -3405,27 +3417,27 @@
                             "prefix":"dis- 分开,散开,离开",
                             "postfix":"",
                             "explain": "分开放,有序布置",
-                            "definition": " 处理；处置；安排"
+                            "definition": "处理；处置；安排"
                         },
                         {
                             "name": "de·pos·it",
                             "prefix":"de- 向下",
                             "postfix":"",
                             "explain": "",
-                            "definition": "沉积， 存放"
+                            "definition": "沉积；存放；存款；保证金"
                         },
                         {
                             "name": "im·pose",
                             "prefix":"im-,进入， 使",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "推行， 强加"
+                            "explain": "放一个负担在身上",
+                            "definition": "强加；利用；欺骗"
                         },
                         {
                             "name": "ex·pose",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "往外站",
                             "definition": "暴露"
                         },
                         {
@@ -3433,13 +3445,13 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "位置， 观点， 态度"
+                            "definition": "位置；观点；态度"
                         },
                         {
                             "name": "pos·ture",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "向外站的",
                             "definition": "姿势"
                         }
                     ]
@@ -3450,7 +3462,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "sign 标记， 记号",
+                    "root": "sign 标记,记号",
                     "explain": "sign·al 信号",
                     "configure":[
                         {
@@ -3477,21 +3489,21 @@
                             "name": "de·sign",
                             "prefix":"de- 向下",
                             "postfix":"",
-                            "explain": "即写下来， 描绘， 设计",
-                            "definition": "设计"
+                            "explain": "写下来",
+                            "definition": "描绘；设计"
                         },
                         {
                             "name": "as·sign",
-                            "prefix":"as-,去， 往",
+                            "prefix":"as-,去,往",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "指定,任命,赋值"
+                            "explain": "任命(地图上标记某一点让人去任命)",
+                            "definition": "指定；任命；赋值"
                         },
                         {
                             "name": "re·sign",
                             "prefix":"re- 相对,相反",
                             "postfix":"",
-                            "explain": "即写下来， 描绘， 设计",
+                            "explain": "从员工名单划去",
                             "definition": "辞职；放弃"
                         }
                     ]
@@ -3523,13 +3535,13 @@
                             "prefix":"",
                             "postfix":"-ation = act+ion 名词后缀",
                             "explain": "",
-                            "definition": "捐款，捐赠物；捐赠"
+                            "definition": "捐款；捐赠物；捐赠"
                         },
                         {
                             "name": "par·don",
                             "prefix":"par=per 表整个,表完全",
                             "postfix":"",
-                            "explain": "完全的给予，引申词义赦免",
+                            "explain": "赦免(完全的给予)",
                             "definition": "原谅；赦免；宽恕"
                         }
                     ]
@@ -3553,10 +3565,10 @@
                     "words":[
                         {
                             "name": "en·dow",
-                            "prefix":"",
+                            "prefix":"en=in 进入,往里",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "捐赠，资助"
+                            "explain": "往里给",
+                            "definition": "捐赠；资助"
                         }
                     ]
                 },
@@ -3579,9 +3591,9 @@
                     "words":[
                         {
                             "name": "e·dit",
-                            "prefix":"",
+                            "prefix":"e(x) 向外",
                             "postfix":"",
-                            "explain": "向外给与",
+                            "explain": "向外给与，往外发表",
                             "definition": "编辑；校订"
                         }
                     ]
@@ -3592,8 +3604,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "trib 部落",
-                    "explain": "tribe 部落，群 来自 tri-,三 罗马最初有三个部落组成",
+                    "root": "trib 部落,贡品,贡献,分配",
+                    "explain": "tribe 部落 来自 tri-,三 罗马最初有三个部落组成。给与,分配(部落的贡品)",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3617,10 +3629,10 @@
                         },
                         {
                             "name": "at·trib·ute",
-                            "prefix":"at-,向，往",
+                            "prefix":"at=ad 向，往",
                             "postfix":"",
-                            "explain": "trib 由部落引申贡品,给与,分配的意思",
-                            "definition": "归因于 属性"
+                            "explain": "分配",
+                            "definition": "把…归于；属性"
                         },
                         {
                             "name": "con·trib·ute",
@@ -3645,7 +3657,7 @@
             "roots":[
                 {
                     "root": "tect 覆盖",
-                    "explain": "de·tect 查明 de-,不，非使相反 即揭开覆盖，查明",
+                    "explain": "de·tect 查明(与覆盖，隐藏相反) de-,不，非使相反",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3669,7 +3681,7 @@
                         },
                         {
                             "name": "de·tect·ive",
-                            "prefix":"",
+                            "prefix":"de- 不,非,表相反",
                             "postfix":"-ive 形容词后缀",
                             "explain": "",
                             "definition": "侦探"
@@ -3683,7 +3695,7 @@
             "roots":[
                 {
                     "root": "cover 覆盖",
-                    "explain": "dis·cover 发现 dis- 不,表否定",
+                    "explain": "dis·cover 发现(与覆盖，隐藏相反) dis- 不,表否定",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3703,7 +3715,7 @@
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": "覆盖，覆盖范围"
+                            "definition": "覆盖；覆盖范围"
                         }
                     ]
                 }
@@ -3764,7 +3776,7 @@
                             "name": "ped·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
-                            "explain": "自行车踏板",
+                            "explain": "自行车踏板(用脚踏的)",
                             "definition": "踩踏板；骑车"
                         },
                         {
@@ -3785,15 +3797,15 @@
                             "name": "centi·pede",
                             "prefix":"cent-,百，百分之一",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "一百条脚的",
                             "definition": "蜘蛛"
                         },
                         {
                             "name": "ped·estrian",
                             "prefix":"",
-                            "postfix":"",
+                            "postfix":"-estrian 人的后缀",
                             "explain": "",
-                            "definition": "行人,nba 步行者"
+                            "definition": "行人"
                         }
                     ]
                 }
@@ -3841,13 +3853,6 @@
                             "definition": "小推车"
                         },
                         {
-                            "name": "char·ge",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "向前冲",
-                            "definition": ""
-                        },
-                        {
                             "name": "carr·iage",
                             "prefix":"",
                             "postfix":"",
@@ -3855,10 +3860,17 @@
                             "definition": "车厢"
                         },
                         {
+                            "name": "char·ge",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "向前冲",
+                            "definition": ""
+                        },
+                        {
                             "name": "car·eer",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "原指路程，驰骋，后用于职业",
+                            "explain": "原指马车走过路程，轨迹。职业(人所走过的轨迹)",
                             "definition": "职业"
                         }
                     ]
@@ -3895,18 +3907,18 @@
                             "definition": "并发的；同时发生的"
                         },
                         {
+                            "name": "course",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "朝着一个方向跑的",
+                            "definition": "科目；课程；过程"
+                        },
+                        {
                             "name": "curr·iculum",
                             "prefix":"",
                             "postfix":"",
                             "explain": "",
-                            "definition": ""
-                        },
-                        {
-                            "name": "course",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": "科目；课程；过程"
+                            "definition": "课程；总课程"
                         }
                     ]
                 }
@@ -3916,8 +3928,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "cess 走",
-                    "explain": "ac·cess 进入,接近",
+                    "root": "sess 坐",
+                    "explain": "sit 坐",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3936,22 +3948,22 @@
                             "name": "sess·ion",
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
-                            "explain": "",
+                            "explain": "坐下休息的一段时间",
                             "definition": "一场，一节，一段时间，开庭，开会"
                         },
                         {
-                            "name": "obsess",
+                            "name": "ob·sess",
                             "prefix":"ob- 向上",
                             "postfix":"",
-                            "explain": "传说中鬼神附体或着魔",
-                            "definition": "着魔，痴迷，着迷"
+                            "explain": "鬼上身",
+                            "definition": "着魔；痴迷；着迷"
                         },
                         {
                             "name": "pos·sess",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "拥有，所有，占据，着魔"
+                            "explain": "pos=pose 占据",
+                            "definition": "拥有；占据；着魔"
                         }
                     ]
                 },
@@ -3977,14 +3989,14 @@
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"",
                             "explain": "",
-                            "definition": "行进，前进，收益"
+                            "definition": "行进；前进"
                         },
                         {
                             "name": "pre·cede",
                             "prefix":"pre 在前,提前",
                             "postfix":"",
                             "explain": "",
-                            "definition": "先走，先于"
+                            "definition": "先走；先于"
                         },
                         {
                             "name": "re·cede",
@@ -3997,7 +4009,7 @@
                             "name": "con·cede",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
+                            "explain": "一起走：大家各让一步",
                             "definition": "让步；承认"
                         }
                     ]
@@ -4009,7 +4021,7 @@
             "roots":[
                 {
                     "root": "gress 走",
-                    "explain": "pro·gress 前进，进步",
+                    "explain": "pro·gress 前进；进步",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4160,7 +4172,7 @@
             "roots":[
                 {
                     "root": "turb 转,绕,搅拌",
-                    "explain": "dis·turb dis-分开,散开 搅拌开，扰乱",
+                    "explain": "dis·turb dis-分开。搅拌开，引申词义扰乱",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -4217,7 +4229,7 @@
                             "name": "re·volu·tion",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "往回转 革命(30年河东,30年河西)",
+                            "explain": "革命(往回转，往老路上走。类似：30年河东,30年河西)",
                             "definition": "革命；大变革"
                         }
                     ]
@@ -4263,7 +4275,7 @@
                             "prefix":"",
                             "postfix":"-it 走 词源同ex·it 往外走,出口",
                             "explain": "",
-                            "definition": "电路"
+                            "definition": "环道；电路"
                         },
                         {
                             "name": "circ·ular",
@@ -4345,7 +4357,7 @@
                             "name": "st·age",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "站的地方,舞台",
+                            "explain": "舞台(观众的歇脚处)",
                             "definition": "阶段；舞台"
                         },
                         {
@@ -4912,7 +4924,7 @@
                             "name": "re·pute",
                             "prefix":"re- 再次,重新",
                             "postfix":"",
-                            "explain": "名望(根据做的事情)重新考虑人的名声",
+                            "explain": "名望(根据做的事情)重新思考，考虑人的名声",
                             "definition": "名誉；声望"
                         },
                         {
@@ -4945,7 +4957,7 @@
             "roots":[
                 {
                     "root": "jud 判断， 审判",
-                    "explain": "jud·ge 法官， 审判员， 判断， 审判",
+                    "explain": "jud·ge 法官；审判员；判断",
                     "configure":[
                         {
                             "vowelRoot":[],
