@@ -1134,6 +1134,58 @@
             "index": 1,
             "roots":[
                 {
+                    "root": "serv 观察,看护",
+                    "explain": "serv·ice 服务,服役 -ice,名词后缀",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "de·serve",
+                            "prefix":"de- 表完全,表加强",
+                            "postfix":"",
+                            "explain": "看护所应得的报酬",
+                            "definition": "应得"
+                        },
+                        {
+                            "name": "pre·serve",
+                            "prefix":"pre- 在前,提前",
+                            "postfix":"",
+                            "explain": "在前面看护",
+                            "definition": "保护；维护；保存"
+                        },
+                        {
+                            "name": "con·serve",
+                            "prefix":"con- 表加强,表强调",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "保护"
+                        },
+                        {
+                            "name": "ob·serve",
+                            "prefix":"ob- 向前,朝向",
+                            "postfix":"",
+                            "explain": "观察前面",
+                            "definition": "观察；注视；遵行；遵守"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
                     "root": "phot 光",
                     "explain": "photo 图像",
                     "configure":[
@@ -1509,6 +1561,39 @@
                             "definition": "煽动"
                         }
                     ]
+                },
+                {
+                    "root": "ig 做,行动",
+                    "explain": "ag 做,行动",
+                    "configure":[
+                        {
+                            "vowelRoot":[0],
+                            "vowelExplain":[0],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":"a-e-i-o-u"
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "amb·ig·uous",
+                            "prefix":"ambi- 周围,两边 同源词：about 四周",
+                            "postfix":"-ous 形容词后缀",
+                            "explain": "往两个方向做",
+                            "definition": "模棱两可的"
+                        },
+                        {
+                            "name": "nav·ig·ate",
+                            "prefix":"",
+                            "postfix":"-ate",
+                            "explain": "nav：船 最初指划船",
+                            "definition": "驾驶；操纵；航行"
+                        }
+                    ]
                 }
             ]
         },
@@ -1576,7 +1661,7 @@
                             "name": "ef·fect",
                             "prefix":"ef=ex 向外",
                             "postfix":"",
-                            "explain": "做出来的效果",
+                            "explain": "效果(做出来的)",
                             "definition": "效果"
                         },
                         {
@@ -1595,10 +1680,17 @@
                         },
                         {
                             "name": "af·fect",
-                            "prefix":"af=ad=at 朝,去,向",
+                            "prefix":"af=ad 朝,去,向 词源同：at",
                             "postfix":"",
                             "explain": "该词衍生出两个截然相反的词义:1.做出来的样子，假装 2.真心实意的做，打动，影响。",
                             "definition": "感染；打动；假装"
+                        },
+                        {
+                            "name": "af·fect··ion",
+                            "prefix":"af=ad 朝,去,向 词源同：at",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "喜爱；感情；感染"
                         },
                         {
                             "name": "per·fect",
@@ -1612,7 +1704,7 @@
                             "prefix":"de- 不,非,表相反",
                             "postfix":"",
                             "explain": "没做好",
-                            "definition": "缺陷"
+                            "definition": "缺点，缺陷；变节，叛变"
                         },
                         {
                             "name": "fict·ion",
@@ -1693,7 +1785,7 @@
                             "name": "fac·ility",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "即促进事物简化的设施或工具，后词义通用化",
+                            "explain": "即制造使事物简化的设施",
                             "definition": "设施"
                         },
                         {
@@ -1702,6 +1794,13 @@
                             "postfix":"",
                             "explain": "",
                             "definition": "使简单；简化；促进"
+                        },
+                        {
+                            "name": "magni·fic·ent ",
+                            "prefix":"magn- 大 magn·etic 磁力(很强大的力)",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "高尚的；壮丽的；宏伟的"
                         }
                     ]
                 },
@@ -1770,7 +1869,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "cid 切",
+                    "root": "cid 切,断",
                     "explain": "de·cide 决定(当断不断,必受其乱) de- 向下",
                     "configure":[
                         {
@@ -1788,7 +1887,7 @@
                     "words":[
                         {
                             "name": "sui·cide",
-                            "prefix":"sui- 自己的 词源同self",
+                            "prefix":"sui- 自己的 同源词：self",
                             "postfix":"",
                             "explain": "",
                             "definition": "自杀"
@@ -1891,6 +1990,100 @@
                             "postfix":"",
                             "explain": "",
                             "definition": "解剖"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "par 切,相等",
+                    "explain": "pair 一对 把东西从中间切开一分为二就得到一对，这一对也是一样的",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[2],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "com·pare",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "将相等的事物放在一起进行(对比)",
+                            "definition": "对比；对照"
+                        },
+                        {
+                            "name": "part·ner",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "合作者；搭档；配偶"
+                        },
+                        {
+                            "name": "par·ent",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "由“切”引申出“带来”的含义,parent就是把你带到这个世界上的人",
+                            "definition": "父母"
+                        },
+                        {
+                            "name": "par·t",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "把东西切成很多分",
+                            "definition": "部分；零件；分离"
+                        },
+                        {
+                            "name": "a·part",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "把东西切成很多分",
+                            "definition": "分别地；分开地"
+                        },
+                        {
+                            "name": "a·part·ment",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "一个隔间",
+                            "definition": "一公寓房间"
+                        },
+                        {
+                            "name": "part·icle",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "微粒；质点；极小量"
+                        },
+                        {
+                            "name": "part·icular",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "个别项目；部分的；偏袒的；特别的；独有的"
+                        },
+                        {
+                            "name": "im·particular",
+                            "prefix":"im =in 表否定",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "不偏不倚的；公正的"
+                        },
+                        {
+                            "name": "de·part",
+                            "prefix":"de- 向下",
+                            "postfix":"",
+                            "explain": "切开,离开",
+                            "definition": "离开；死亡"
                         }
                     ]
                 }
@@ -2153,7 +2346,7 @@
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"",
                             "explain": "",
-                            "definition": "连接"
+                            "definition": "连接；邻接"
                         }
                     ]
                 }
@@ -3050,6 +3243,13 @@
                             "postfix":"",
                             "explain": "",
                             "definition": "居民"
+                        },
+                        {
+                            "name": "pro·habit·ion",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "提前拿走的",
+                            "definition": "禁酒；禁止；妨碍"
                         }
                     ]
                 }
@@ -3178,6 +3378,20 @@
                             "postfix":"",
                             "explain": "",
                             "definition": "合法的；合情合理的；正统的"
+                        },
+                        {
+                            "name": "il·leg·al",
+                            "prefix":"il=un 不,无,表否定",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "合法的；合情合理的；正统的"
+                        },
+                        {
+                            "name": "privi·lege",
+                            "prefix":"priv- 私人",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "特权；特别恩典"
                         }
                     ]
                 }
@@ -6880,58 +7094,6 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "serv 观察,看护",
-                    "explain": "serv·ice 服务,服役 -ice,名词后缀",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "de·serve",
-                            "prefix":"de- 表完全,表加强",
-                            "postfix":"",
-                            "explain": "看护所应得的报酬",
-                            "definition": "应得"
-                        },
-                        {
-                            "name": "pre·serve",
-                            "prefix":"pre- 在前,提前",
-                            "postfix":"",
-                            "explain": "在前面看护",
-                            "definition": "保护；维护；保存"
-                        },
-                        {
-                            "name": "con·serve",
-                            "prefix":"con- 表加强,表强调",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": "保护"
-                        },
-                        {
-                            "name": "ob·serve",
-                            "prefix":"ob- 向前,朝向",
-                            "postfix":"",
-                            "explain": "观察前面",
-                            "definition": "观察；注视；遵行；遵守"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "roots":[
-                {
                     "root": "bel 战争",
                     "explain": "re·bel 反抗,叛逆 re- 相对,相反",
                     "configure":[
@@ -7326,7 +7488,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "aqua 水",
+                    "root": "aqu 水",
                     "explain": "aqua·mar·ine 海蓝宝石",
                     "configure":[
                         {
@@ -7350,11 +7512,72 @@
                             "definition": "水族馆"
                         },
                         {
+                            "name": "aque·ous",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "水的"
+                        },
+                        {
+                            "name": "aqui·fer·ous",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "fer 携带",
+                            "definition": "含水的"
+                        },
+                        {
                             "name": "op·aque",
                             "prefix":"op- 相对",
                             "postfix":"",
                             "explain": "隔着水看,模糊的",
                             "definition": "不透明的；不传热的；迟钝的"
+                        }
+                    ]
+                },
+                {
+                    "root": "equ 相等",
+                    "explain": "aqu 水 由像水一样平引申为相等(没有一个地方过高或过矮)",
+                    "configure":[
+                        {
+                            "vowelRoot":[0],
+                            "vowelExplain":[0],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "equ·able",
+                            "prefix":"",
+                            "postfix":"-able",
+                            "explain": "",
+                            "definition": "平静的；相等的"
+                        },
+                        {
+                            "name": "equ·ation",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "等式；方程式"
+                        },
+                        {
+                            "name": "equ·ator",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "将地球均等分为两个半球",
+                            "definition": "赤道"
+                        },
+                        {
+                            "name": "equ·al",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "",
+                            "definition": "相等的；平等的"
                         }
                     ]
                 }
