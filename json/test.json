@@ -1,0 +1,122 @@
+{
+    "etymology":[
+        {
+            "index": 1,
+            "roots":[
+                {
+                    "root": "voc 声音",
+                    "explain": "voice 声音",
+                    "configure":{
+                        "vowelRoot":[],
+                        "vowelExplain":[2,4],
+                        "firstRoot":[],
+                        "firstExplain":[],
+                        "secondRoot":[],
+                        "secondExplain":[],
+                        "thirdRoot":[],
+                        "thirdExplain":[],
+                        "Change":"a-e-i-o-u"
+                    },
+                    "words":[
+                        {
+                            "name": "voc·al",
+                            "prefix":"",
+                            "postfix":"-al 形容词后缀",
+                            "explain": "",
+                            "definition": "歌唱的；声音的；元音"
+                        },
+                        {
+                            "name": "voc·abulary",
+                            "prefix":"",
+                            "postfix":"-abulary=able+ary 能....的",
+                            "explain": "词汇表就是所有能说的词的集合",
+                            "definition": "词汇；词表"
+                        },
+                        {
+                            "name": "voc·ation",
+                            "prefix":"",
+                            "postfix":"-ation=act+ion 名词后缀",
+                            "explain": "原先指上帝的呼唤：神职；牧师类的工作。现泛指所有职业",
+                            "definition": "职业；天职；天命；神召"
+                        },
+                        {
+                            "name": "ad·voc·ate",
+                            "prefix":"ad=at 朝,去,向",
+                            "postfix":"-ate 形容词；动词和名词后缀",
+                            "explain": "最初指去(法院)说",
+                            "definition": "提倡；拥护；鼓吹；为…辩护"
+                        },
+                        {
+                            "name": "ad·voc·ator",
+                            "prefix":"",
+                            "postfix":"-ator = ate+or or:表人,物",
+                            "explain": "",
+                            "definition": "拥护者；提倡者"
+                        },
+                        {
+                            "name": "equi·voc·al",
+                            "prefix":"equi=equ 相等,等同 词源同equll",
+                            "postfix":"-al 形容词后缀",
+                            "explain": "两边说的意见都一样",
+                            "definition": "意义不明确的；模棱两可的"
+                        },
+                        {
+                            "name": "pro·voc·ation",
+                            "prefix":"pro=pre 在前,提前",
+                            "postfix":"-ation = act+ion 名词后缀",
+                            "explain": "打仗时，会派出人站在队伍前面叫嚣",
+                            "definition": "激怒；刺激；挑拨"
+                        },
+                        {
+                            "name": "con·voc·ation",
+                            "prefix":"con- 一起",
+                            "postfix":"-ation = act+ion 名词后缀",
+                            "explain": "开会：所有人聚到一起说",
+                            "definition": "召集；会议"
+                        }
+                    ]
+                },
+                {
+                    "root": "vok 说",
+                    "explain": "voc 说",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[2],
+                            "firstExplain":[2],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":"c-ch-k—g—h"
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "con·voke",
+                            "prefix":"con- 一起",
+                            "postfix":"",
+                            "explain": "开会:所有人聚到一起说",
+                            "definition": "召集；会议"
+                        },
+                        {
+                            "name": "e·voke",
+                            "prefix":"e = e(x) 往外",
+                            "postfix":"",
+                            "explain": "把(记忆)喊出来",
+                            "definition": "唤起；引起"
+                        },
+                        {
+                            "name": "in·voke",
+                            "prefix":"in- 进入,往里",
+                            "postfix":"",
+                            "explain": "往(心)里喊",
+                            "definition": "唤起；引起"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
