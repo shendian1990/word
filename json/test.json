@@ -1,122 +1,350 @@
-{
-    "etymology":[
-        {
-            "index": 1,
-            "roots":[
-                {
-                    "root": "voc 声音",
-                    "explain": "voice 声音",
-                    "configure":{
-                        "vowelRoot":[],
-                        "vowelExplain":[2,4],
-                        "firstRoot":[],
-                        "firstExplain":[],
-                        "secondRoot":[],
-                        "secondExplain":[],
-                        "thirdRoot":[],
-                        "thirdExplain":[],
-                        "Change":"a-e-i-o-u"
-                    },
-                    "words":[
-                        {
-                            "name": "voc·al",
-                            "prefix":"",
-                            "postfix":"-al 形容词后缀",
-                            "explain": "",
-                            "definition": "歌唱的；声音的；元音"
-                        },
-                        {
-                            "name": "voc·abulary",
-                            "prefix":"",
-                            "postfix":"-abulary=able+ary 能....的",
-                            "explain": "词汇表就是所有能说的词的集合",
-                            "definition": "词汇；词表"
-                        },
-                        {
-                            "name": "voc·ation",
-                            "prefix":"",
-                            "postfix":"-ation=act+ion 名词后缀",
-                            "explain": "原先指上帝的呼唤：神职；牧师类的工作。现泛指所有职业",
-                            "definition": "职业；天职；天命；神召"
-                        },
-                        {
-                            "name": "ad·voc·ate",
-                            "prefix":"ad=at 朝,去,向",
-                            "postfix":"-ate 形容词；动词和名词后缀",
-                            "explain": "最初指去(法院)说",
-                            "definition": "提倡；拥护；鼓吹；为…辩护"
-                        },
-                        {
-                            "name": "ad·voc·ator",
-                            "prefix":"",
-                            "postfix":"-ator = ate+or or:表人,物",
-                            "explain": "",
-                            "definition": "拥护者；提倡者"
-                        },
-                        {
-                            "name": "equi·voc·al",
-                            "prefix":"equi=equ 相等,等同 词源同equll",
-                            "postfix":"-al 形容词后缀",
-                            "explain": "两边说的意见都一样",
-                            "definition": "意义不明确的；模棱两可的"
-                        },
-                        {
-                            "name": "pro·voc·ation",
-                            "prefix":"pro=pre 在前,提前",
-                            "postfix":"-ation = act+ion 名词后缀",
-                            "explain": "打仗时，会派出人站在队伍前面叫嚣",
-                            "definition": "激怒；刺激；挑拨"
-                        },
-                        {
-                            "name": "con·voc·ation",
-                            "prefix":"con- 一起",
-                            "postfix":"-ation = act+ion 名词后缀",
-                            "explain": "开会：所有人聚到一起说",
-                            "definition": "召集；会议"
-                        }
-                    ]
-                },
-                {
-                    "root": "vok 说",
-                    "explain": "voc 说",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[2],
-                            "firstExplain":[2],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":"c-ch-k—g—h"
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "con·voke",
-                            "prefix":"con- 一起",
-                            "postfix":"",
-                            "explain": "开会:所有人聚到一起说",
-                            "definition": "召集；会议"
-                        },
-                        {
-                            "name": "e·voke",
-                            "prefix":"e = e(x) 往外",
-                            "postfix":"",
-                            "explain": "把(记忆)喊出来",
-                            "definition": "唤起；引起"
-                        },
-                        {
-                            "name": "in·voke",
-                            "prefix":"in- 进入,往里",
-                            "postfix":"",
-                            "explain": "往(心)里喊",
-                            "definition": "唤起；引起"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "root": "voc 声音",
+        "index": 1,
+        "explain": "voice 声音",
+        "configure":
+            {
+                "vowelRoot":[],
+                "vowelExplain":[2,4],
+                "firstRoot":[],
+                "firstExplain":[],
+                "secondRoot":[],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"a-e-i-o-u"
+            },
+        "words":[
+            {
+                "name": "voc·al",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-al 形容词后缀",
+                "explain": "发声 ➡ 歌唱的；声音的；元音"
+            },
+            {
+                "name": "voc·abulary",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-abulary=able+ary 能....的",
+                "explain": "所有能说的词的集合 ➡ 词汇表"
+            },
+            {
+                "name": "voc·ation",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-ation=act+ion 名词后缀",
+                "explain": "原先指上帝的呼唤 ➡ 神职；牧师类的工作。现泛指所有职业"
+            },
+            {
+                "name": "ad·voc·ate",
+                "cellType":11,
+                "prefix":"ad=at 朝,去,向",
+                "postfix":"-ate 形容词；动词和名词后缀",
+                "explain": "最初指去(法院)说 ➡ 为…辩护,引申为：提倡；拥护；鼓吹"
+            },
+            {
+                "name": "ad·voc·ator",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-ator = ate+or or:表人,物",
+                "explain": "拥护的人 ➡ 拥护者；提倡者"
+            },
+            {
+                "name": "equi·voc·al",
+                "cellType":11,
+                "prefix":"equi=equ 相等,等同 词源同equll",
+                "postfix":"-al 形容词后缀",
+                "explain": "两边(做与不做)都有理 ➡ 意义不明确的；模棱两可的"
+            },
+            {
+                "name": "pro·voc·ation",
+                "cellType":11,
+                "prefix":"pro=pre 在前,提前",
+                "postfix":"-ation = act+ion 名词后缀",
+                "explain": "打仗时在前面叫嚣 ➡ 激怒；刺激；挑拨"
+            },
+            {
+                "name": "con·voc·ation",
+                "cellType":11,
+                "prefix":"con- 一起",
+                "postfix":"-ation = act+ion 名词后缀",
+                "explain": "所有人聚到一起说 ➡ 召集；会议"
+            }
+        ]
+    },
+    {
+        "root": "vok 说",
+        "index": 2,
+        "explain": "voc 说",
+        "configure":[
+            {
+                "vowelRoot":[],
+                "vowelExplain":[],
+                "firstRoot":[2],
+                "firstExplain":[2],
+                "secondRoot":[],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"c-ch-k—g—h"
+            }
+        ],
+        "words":[
+            {
+                "name": "con·voke",
+                "cellType":10,
+                "prefix":"con- 一起",
+                "postfix":"",
+                "explain": "所有人聚到一起说 ➡ 召集；会议"
+            },
+            {
+                "name": "e·voke",
+                "cellType":10,
+                "prefix":"e = e(x) 往外",
+                "postfix":"",
+                "explain": "把(记忆)喊出来 ➡ 唤起；引起"
+            },
+            {
+                "name": "in·voke",
+                "cellType":10,
+                "prefix":"in- 进入,往里",
+                "postfix":"",
+                "explain": "往(心)里喊 ➡ 唤起；引起"
+            }
+        ]
+    },
+    {
+        "root": "fame 说,引申为名声",
+        "index": 3,
+        "explain": "fam·ous 出名的(每个人都说得出来他的名字)",
+        "configure":[
+            {
+                "vowelRoot":[],
+                "vowelExplain":[],
+                "firstRoot":[],
+                "firstExplain":[],
+                "secondRoot":[],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":""
+            }
+        ],
+        "words":[
+            {
+                "name": "defame",
+                "cellType":10,
+                "prefix":"de- 不,非,表相反",
+                "postfix":"",
+                "explain": "说坏话 ➡ 诽谤；中伤"
+            },
+            {
+                "name": "in·fam·ous",
+                "cellType":11,
+                "prefix":"in=un 不,无,表否定",
+                "postfix":"-ous 充满…的,形容词后缀",
+                "explain": "不好的名声 ➡ 声名狼藉的；无耻的"
+            }
+        ]
+    },
+    {
+        "root": "fant 说话",
+        "index": 4,
+        "explain": "fame 说话",
+        "configure":[
+            {
+                "vowelRoot":[],
+                "vowelExplain":[],
+                "firstRoot":[2],
+                "firstExplain":[2],
+                "secondRoot":[3],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"l-m-n-r\n+t/d/s"
+            }
+        ],
+        "words":[
+            {
+                "name": "in·fant",
+                "cellType":10,
+                "prefix":"in=un 不,无,表否定",
+                "postfix":"",
+                "explain": "还不会说话的人 ➡ 婴儿"
+            }
+        ]
+    },
+    {
+        "root": "fat 天意,命运,注定",
+        "index": 5,
+        "explain": "fant 说话 fate(神)说的话,引申为天意",
+        "configure":[
+            {
+                "vowelRoot":[1],
+                "vowelExplain":[1,2],
+                "firstRoot":[],
+                "firstExplain":[],
+                "secondRoot":[],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"an-en-in-on-un"
+            }
+        ],
+        "words":[
+            {
+                "name": "fat·al",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-al 形容词后缀",
+                "explain": "神说的一句话对人生起决定性作用 ➡ 决定性的；致命的；毁灭性的"
+            },
+            {
+                "name": "fat·ality",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-ality = al+ity 名词后缀",
+                "explain": "天意 ➡ 死亡；灾祸；天命；致命性"
+            }
+        ]
+    },
+    {
+        "root": "fess 说",
+        "index": 6,
+        "explain": "fate 说",
+        "configure":[
+            {
+                "vowelRoot":[1],
+                "vowelExplain":[1,2],
+                "firstRoot":[2,3],
+                "firstExplain":[2],
+                "secondRoot":[],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"d-t-th-s-z"
+            }
+        ],
+        "words":[
+            {
+                "name": "con·fess",
+                "cellType":10,
+                "prefix":"con 一起",
+                "postfix":"",
+                "explain": "到一个地方说(西方人们都会到教堂向神父忏悔) ➡ 忏悔；承认；告白"
+            },
+            {
+                "name": "pro·fess",
+                "cellType":10,
+                "prefix":"pro=pre 在前,提前",
+                "postfix":"",
+                "explain": "入教时,会在很多人前面发誓自己的忠诚.以传播教义为业 ➡ 正式接受入教；以...为业；声称；冒称"
+            },
+            {
+                "name": "pro·fess·ion",
+                "cellType":11,
+                "prefix":"pro=pre 在前,提前",
+                "postfix":"-ion 名词后缀",
+                "explain": "职业；专业；声明；信仰"
+            },
+            {
+                "name": "pro·fess·or",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-or 表人,物",
+                "explain": "在(学生)前面讲述知识 ➡ 教授；宣称者"
+            }
+        ]
+    },
+    {
+        "root": "fab 说(好)话",
+        "index": 7,
+        "explain": "fame 说",
+        "configure":[
+            {
+                "vowelRoot":[1],
+                "vowelExplain":[2],
+                "firstRoot":[2],
+                "firstExplain":[2,3],
+                "secondRoot":[],
+                "secondExplain":[],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"a-e-i-o-u\nb-p-m-ph-f-v"
+            }
+        ],
+        "words":[
+            {
+                "name": "fab·ulous",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-ulous = ul+ous 充满…的,形容词后缀",
+                "explain": "美好的话 ➡ 寓言般的；难以置信的；极妙的"
+            },
+            {
+                "name": "fab·le",
+                "cellType":1,
+                "prefix":"",
+                "postfix":"-le 动词,形容词后缀",
+                "explain": "美好的话 ➡ 寓言"
+            },
+            {
+                "name": "af·fab·le",
+                "cellType":11,
+                "prefix":"af=ad 朝",
+                "postfix":"-le 动词,形容词后缀",
+                "explain": "朝好的方面说,专说好话 ➡ 和蔼可亲的；友善的"
+            },
+            {
+                "name": "ef·fab·le",
+                "cellType":11,
+                "prefix":"ef=ex 往外",
+                "postfix":"-le 动词,形容词后缀",
+                "explain": "往外说 ➡ 能被说出的；可表达的"
+            }
+        ]
+    },
+    {
+        "root": "phon 声音",
+        "index": 8,
+        "explain": "fame 说",
+        "configure":[
+            {
+                "vowelRoot":[2],
+                "vowelExplain":[1],
+                "firstRoot":[0,1],
+                "firstExplain":[0],
+                "secondRoot":[3],
+                "secondExplain":[2],
+                "thirdRoot":[],
+                "thirdExplain":[],
+                "Change":"a-e-i-o-u\nb-p-m-ph-f-v\nl,m,n,r"
+            }
+        ],
+        "words":[
+            {
+                "name": "phone",
+                "cellType":0,
+                "prefix":"",
+                "postfix":"",
+                "explain": "传播声音 ➡ 电话"
+            },
+            {
+                "name": "tele·phone",
+                "cellType":10,
+                "prefix":"tele- 远",
+                "postfix":"",
+                "explain": "远方的声音 ➡ 电话；电话机"
+            },
+            {
+                "name": "sym·phony",
+                "cellType":10,
+                "prefix":"sym- 一起,共同,相同",
+                "postfix":"",
+                "explain": "(很多乐器)一起发出的声音 ➡ 交响乐"
+            }
+        ]
+    }
+]
