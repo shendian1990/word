@@ -3819,46 +3819,6 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "sess 坐",
-                    "explain": "sit 坐",
-                    "configure":[
-                        {
-                            "vowelRoot":[],
-                            "vowelExplain":[],
-                            "firstRoot":[],
-                            "firstExplain":[],
-                            "secondRoot":[],
-                            "secondExplain":[],
-                            "thirdRoot":[],
-                            "thirdExplain":[],
-                            "Change":""
-                        }
-                    ],
-                    "words":[
-                        {
-                            "name": "sess·ion",
-                            "prefix":"",
-                            "postfix":"-ion 名词后缀",
-                            "explain": "坐下休息的一段时间",
-                            "definition": "一场，一节，一段时间，开庭，开会"
-                        },
-                        {
-                            "name": "ob·sess",
-                            "prefix":"ob- 向上",
-                            "postfix":"",
-                            "explain": "鬼上身",
-                            "definition": "着魔；痴迷；着迷"
-                        },
-                        {
-                            "name": "pos·sess",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "pos=pose 占据",
-                            "definition": "拥有；占据；着魔"
-                        }
-                    ]
-                },
-                {
                     "root": "ced 走",
                     "explain": "cess",
                     "configure":[
@@ -3879,29 +3839,25 @@
                             "name": "pro·ceed",
                             "prefix":"pro=pre 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "行进；前进"
+                            "explain": "往前走 ➡ 行进；前进"
                         },
                         {
                             "name": "pre·cede",
                             "prefix":"pre 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "先走；先于"
+                            "explain": "提前走 ➡ 先走；先于"
                         },
                         {
                             "name": "re·cede",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "往回走",
-                            "definition": "后退；减弱"
+                            "explain": "往回走 ➡ 后退；减弱"
                         },
                         {
                             "name": "con·cede",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "一起走：大家各让一步",
-                            "definition": "让步；承认"
+                            "explain": "一起走：大家各让一步 ➡ 让步；承认"
                         }
                     ]
                 }
@@ -3929,31 +3885,28 @@
                     "words":[
                         {
                             "name": "ag·gress·ive",
-                            "prefix":"",
+                            "prefix":"ag=ad 朝,去,向",
                             "postfix":"-ive 形容词后缀",
-                            "explain": "",
-                            "definition": "侵略性的；好斗的；有进取心的"
+                            "explain": "一直往前走 ➡ 侵略性的；好斗的；有进取心的",
+                            "definition": ""
                         },
                         {
                             "name": "in·gress",
                             "prefix":"in- 进入,往里",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "入侵；入境"
+                            "explain": "往里面走 ➡ 入侵；入境"
                         },
                         {
                             "name": "re·gress",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "倒退；回归"
+                            "explain": "往回走 ➡ 倒退；回归"
                         },
                         {
                             "name": "con·gress",
                             "prefix":"con- 一起",
                             "postfix":"",
-                            "explain": "一群人走到一起",
-                            "definition": "国会；代表大会"
+                            "explain": "走到一起(才能开会) ➡ 国会；代表大会"
                         }
                     ]
                 }
@@ -3980,53 +3933,40 @@
                     ],
                     "words":[
                         {
-                            "name": "vert",
-                            "prefix":"",
-                            "postfix":"",
-                            "explain": "",
-                            "definition": "通风口"
-                        },
-                        {
                             "name": "wind·ow",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "窗户(让风通过的，走的)",
-                            "definition": "窗户"
+                            "explain": "让风通过的 ➡ 窗户"
                         },
                         {
                             "name": "ad·vert",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"",
-                            "explain": "朝...走,注意到",
-                            "definition": "注意；谈到；来临"
+                            "explain": "朝...走,注意到 ➡ 注意；谈到；来临"
                         },
                         {
                             "name": "ad·vert·ize",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"-ize 使",
-                            "explain": "吸引人们注意力,让人朝着某个地方走",
-                            "definition": "广告"
+                            "explain": "吸引人们注意力,让人朝着某个地方走 ➡ 广告"
                         },
                         {
                             "name": "pre·vert",
                             "prefix":"pre 在前,提前",
                             "postfix":"",
-                            "explain": "提前走，提前离开",
-                            "definition": "预防；防止；阻止"
+                            "explain": "提前走，提前离开 ➡ 预防；防止；阻止"
                         },
                         {
                             "name": "re·vert",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "回转；回复；恢复"
+                            "explain": "回转；回复；恢复"
                         },
                         {
                             "name": "re·verse",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "颠倒；反转"
+                            "explain": "颠倒；反转"
                         }
                     ]
                 }
@@ -4053,8 +3993,7 @@
                     "name": "ab·err·ant",
                     "prefix":"ab- 不,非,表否定,表相反",
                     "postfix":"",
-                    "explain": "",
-                    "definition": "反常的"
+                    "explain": "反常的"
                 }
             ]
         },
@@ -4082,8 +4021,7 @@
                             "name": "dis·turb·ance",
                             "prefix":"dis- 分开,散开",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "干扰；骚乱；忧虑"
+                            "explain": "干扰；骚乱；忧虑"
                         }
                     ]
                 }
@@ -4111,17 +4049,15 @@
                     "words":[
                         {
                             "name": "re·volve",
-                            "prefix":"re- 向后,往回",
+                            "prefix":"re- 表重复,表加强",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "旋转；转动；环绕"
+                            "explain": "旋转；转动；环绕"
                         },
                         {
                             "name": "re·volu·tion",
                             "prefix":"re- 向后,往回",
                             "postfix":"",
-                            "explain": "革命(往回转，往老路上走。类似：30年河东,30年河西)",
-                            "definition": "革命；大变革"
+                            "explain": "往回转，往老路上走(30年河东,30年河西) ➡ 革命；大变革"
                         }
                     ]
                 }
@@ -4151,36 +4087,31 @@
                             "name": "circ·let",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "小圈；戒指；饰环"
+                            "explain": "小圆圈 ➡ 小圈；戒指；饰环"
                         },
                         {
                             "name": "circ·um·spect",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "向四周看",
-                            "definition": "小心谨慎的"
+                            "explain": "向周围看 ➡ 小心谨慎的"
                         },
                         {
                             "name": "circ·uit",
                             "prefix":"",
                             "postfix":"-it 走 词源同ex·it 往外走,出口",
-                            "explain": "",
-                            "definition": "环道；电路"
+                            "explain": "环道；电路"
                         },
                         {
                             "name": "circ·ular",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "循环的；流通的"
+                            "explain": "走在圆圈上 ➡ 循环的；流通的"
                         },
                         {
                             "name": "circ·us",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "马戏团(圆形帐篷)",
-                            "definition": "马戏团"
+                            "explain": "圆形帐篷 ➡ 马戏团"
                         }
                     ]
                 }
@@ -4210,8 +4141,7 @@
                             "name": "hemi·sphere",
                             "prefix":"hemi=semi 半,词源同same 相同的(切成两半,则每一半都相同)",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "半球"
+                            "explain": "半球"
                         }
                     ]
                 }
@@ -4241,50 +4171,43 @@
                             "name": "st·and",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "站立；位于；停滞"
+                            "explain": "站立；位于；停滞"
                         },
                         {
                             "name": "st·age",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "舞台(观众的歇脚处)",
-                            "definition": "阶段；舞台"
+                            "explain": "观众的歇脚处 ➡ 舞台\n舞台戏剧的一幕 ➡ 阶段"
                         },
                         {
                             "name": "st·ate",
                             "prefix":"",
                             "postfix":"-ate 形容词,动词和名词后缀",
-                            "explain": "'立'与话语,状态有关 左传：太上有立德，其次有立功，其次有立言",
-                            "definition": "国家，州；状态，状况；陈述，说明"
+                            "explain": "'立'与话语,状态有关 左传：太上有立德，其次有立功，其次有立言 ➡ 国家，州；状态，状况；陈述，说明"
                         },
                         {
                             "name": "st·ation",
                             "prefix":"",
                             "postfix":"-ation = act+ion 名词后缀",
-                            "explain": "车站(站的不动的地方)",
-                            "definition": "车站；驻地"
+                            "explain": "站的不动的地方 ➡ 驻地；车站"
                         },
                         {
                             "name": "st·atue",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "雕像；塑像"
+                            "explain": "雕像；塑像"
                         },
                         {
                             "name": "st·are",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "站着不动的看",
-                            "definition": "凝视；盯着看"
+                            "explain": "站着不动的看 ➡ 凝视；盯着看"
                         },
                         {
                             "name": "sy·st·em",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "系统(站到一起,整体)",
-                            "definition": "系统；体系；制度"
+                            "explain": "站到一起；形成整体 ➡ 系统；体系；制度"
                         }
                     ]
                 }
@@ -4314,50 +4237,80 @@
                             "name": "seat",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "座位；座椅"
+                            "explain": "座位；座椅"
                         },
                         {
                             "name": "pre·sid·ent",
                             "prefix":"",
                             "postfix":"-ent 形容词后缀",
-                            "explain": "坐在前面",
-                            "definition": "主席；总统；总裁"
+                            "explain": "坐在前面 ➡ 主席；总统；总裁"
                         },
                         {
                             "name": "re·side",
-                            "prefix":"re- 向后,往回",
+                            "prefix":"re- 表重复",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "居住，定居"
+                            "explain": "一直坐的地方 ➡ 居住，定居"
                         },
                         {
                             "name": "settle",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "安定"
+                            "explain": "坐着的 ➡ 安定"
                         },
                         {
                             "name": "sub·sidy",
                             "prefix":"sub- 向下,在下面",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "帮助；补贴；津贴；资助费"
+                            "explain": "坐在...下面 ➡ 帮助；补贴；津贴；资助费"
                         },
                         {
                             "name": "para·site",
                             "prefix":"para- 在旁,旁边",
                             "postfix":"",
-                            "explain": "坐在别人旁边吃饭的，吃剩饭的",
-                            "definition": "寄生虫"
+                            "explain": "坐在别人旁边吃饭的；吃剩饭的 ➡ 寄生虫"
                         },
                         {
                             "name": "sit·uation",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "situate,坐落于，引申词义环境，情况，状况，形势等",
-                            "definition": "环境；情况；状况；形势"
+                            "explain": "坐落于 ➡ 环境，情况，状况，形势等"
+                        }
+                    ]
+                },
+                {
+                    "root": "sess 坐",
+                    "explain": "sit 坐",
+                    "configure":[
+                        {
+                            "vowelRoot":[],
+                            "vowelExplain":[],
+                            "firstRoot":[],
+                            "firstExplain":[],
+                            "secondRoot":[],
+                            "secondExplain":[],
+                            "thirdRoot":[],
+                            "thirdExplain":[],
+                            "Change":""
+                        }
+                    ],
+                    "words":[
+                        {
+                            "name": "sess·ion",
+                            "prefix":"",
+                            "postfix":"-ion 名词后缀",
+                            "explain": "坐下休息的一段时间 ➡ 一场，一节，一段时间，开庭，开会"
+                        },
+                        {
+                            "name": "ob·sess",
+                            "prefix":"ob- 向上",
+                            "postfix":"",
+                            "explain": "鬼上身(坐在身上) ➡ 着魔；痴迷；着迷"
+                        },
+                        {
+                            "name": "pos·sess",
+                            "prefix":"",
+                            "postfix":"",
+                            "explain": "pos=pose 占据 ➡ 拥有；占据；着魔"
                         }
                     ]
                 }
@@ -4387,22 +4340,19 @@
                             "name": "cape",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "海角(陆地向大海延伸的一个头)",
-                            "definition": "海角；披肩"
+                            "explain": "陆地向大海延伸的一个头 ➡ 海角"
                         },
                         {
                             "name": "cap·ital",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "首都；资本"
+                            "explain": "身首(头)异处 ➡ '首'都；资本"
                         },
                         {
                             "name": "capt·ain",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "队长"
+                            "explain": "头头 ➡ 队长"
                         }
                     ]
                 }
@@ -4430,10 +4380,9 @@
                     "words":[
                         {
                             "name": "re·mind",
-                            "prefix":"",
+                            "prefix":"re- 表重复,表加强",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "提醒"
+                            "explain": "使一直记得 ➡ 提醒"
                         }
                     ]
                 },
@@ -4458,29 +4407,25 @@
                             "name": "ment·ion",
                             "prefix":"",
                             "postfix":"-ion 名词后缀",
-                            "explain": "",
-                            "definition": "提到；提及"
+                            "explain": "提到；提及"
                         },
                         {
                             "name": "ment·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
-                            "explain": "",
-                            "definition": "精神的；心理的；思考的"
+                            "explain": "精神的；心理的；思考的"
                         },
                         {
                             "name": "com·ment",
-                            "prefix":"",
+                            "prefix":"com=con 表加强,表强调",
                             "postfix":"-ment 表行为，状态，性质 词源同mind",
-                            "explain": "",
-                            "definition": "评论；意见；批评"
+                            "explain": "评论；意见；批评"
                         },
                         {
                             "name": "ment·or",
                             "prefix":"",
                             "postfix":"-or 表人,物",
-                            "explain": "指导学习和思考的人",
-                            "definition": "指导者；良师益友"
+                            "explain": "指导学习和思考的人 ➡ 指导者；良师益友"
                         }
                     ]
                 }
@@ -4510,15 +4455,13 @@
                             "name": "sens·or",
                             "prefix":"",
                             "postfix":"-or 表人,物",
-                            "explain": "",
-                            "definition": "传感器"
+                            "explain": "传感器"
                         },
                         {
                             "name": "sens·ible",
                             "prefix":"",
                             "postfix":"-ible=able 表能力,适应力等",
-                            "explain": "",
-                            "definition": "能感知的；敏感的"
+                            "explain": "能感知的；敏感的"
                         }
                     ]
                 },
@@ -4543,22 +4486,19 @@
                             "name": "sent·iment",
                             "prefix":"",
                             "postfix":"-iment 表行为，状态，性质 词源同mind",
-                            "explain": "",
-                            "definition": "感情，多愁善感"
+                            "explain": "感情；多愁善感"
                         },
                         {
                             "name": "re·sent",
                             "prefix":"re- 表重复,表加强",
                             "postfix":"",
-                            "explain": "气愤(一直在心里的感觉，越想越气)",
-                            "definition": "怨恨；愤恨；厌恶"
+                            "explain": "一直在心里的感觉，越想越气 ➡ 气愤；怨恨；愤恨"
                         },
                         {
                             "name": "sent·iment",
                             "prefix":"",
                             "postfix":"-iment 表行为,状态,性质 词源同mind",
-                            "explain": "",
-                            "definition": "情感；伤感；哀伤"
+                            "explain": "情感；伤感；哀伤"
                         }
                     ]
                 }
@@ -4588,22 +4528,19 @@
                             "name": "mem·orize",
                             "prefix":"",
                             "postfix":"-ize 使",
-                            "explain": "",
-                            "definition": "记忆"
+                            "explain": "记忆"
                         },
                         {
                             "name": "mem·orial",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "纪念碑，纪念馆"
+                            "explain": "纪念碑；纪念馆"
                         },
                         {
                             "name": "re·mem·ber",
                             "prefix":"re- 再次,重新",
                             "postfix":"",
-                            "explain": "再次记起",
-                            "definition": "记忆；想起；纪念"
+                            "explain": "再次记起 ➡ 记忆；想起；纪念"
                         }
                     ]
                 }
@@ -4633,22 +4570,19 @@
                             "name": "sci·ence",
                             "prefix":"",
                             "postfix":"-ence 名词后缀",
-                            "explain": "",
-                            "definition": "科学；技术"
+                            "explain": "科学；技术"
                         },
                         {
                             "name": "con·sci·ence",
                             "prefix":"con- 一起",
                             "postfix":"-ence 名词后缀",
-                            "explain": "",
-                            "definition": "良知"
+                            "explain": "大家都明白的道理 ➡ 良知"
                         },
                         {
                             "name": "con·sci·ous",
-                            "prefix":"",
+                            "prefix":"con- 表加强",
                             "postfix":"-ous 充满…的,形容词后缀",
-                            "explain": "",
-                            "definition": "意识到"
+                            "explain": "意识到"
                         }
                     ]
                 }
@@ -4678,22 +4612,19 @@
                             "name": "i·gn·ore",
                             "prefix":"i(n)=un 不,无,表否定",
                             "postfix":"",
-                            "explain": "不知道",
-                            "definition": "忽视；无知"
+                            "explain": "不知道 ➡ 忽视；无知"
                         },
                         {
                             "name": "dia·gn·ose",
                             "prefix":"dia- 穿过,(完全)通过,完全",
                             "postfix":"",
-                            "explain": "完全了解",
-                            "definition": "诊断"
+                            "explain": "完全了解(病情) ➡ 诊断"
                         },
                         {
                             "name": "a·gn·ostic",
                             "prefix":"a(n)=un 不,无,表否定",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "不可知论者"
+                            "explain": "不可知论者"
                         }
                     ]
                 },
@@ -4725,8 +4656,7 @@
                             "name": "soph·omore",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "二年级生比一年级变得稍微聪明一点",
-                            "definition": "大学二年级生"
+                            "explain": "二年级生比一年级变得稍微聪明一点 ➡ 大学二年级生"
                         }
                     ]
                 }
@@ -4756,22 +4686,19 @@
                             "name": "counter",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "柜台(算账的地方)由于柜台是顾客与老板相对而站的地方引申为对立面",
-                            "definition": "柜台；对立面；反驳"
+                            "explain": "算账的地方 ➡ 柜台\n 柜台是顾客与老板相对而站的地方 ➡ 对立面；反驳"
                         },
                         {
                             "name": "ac·count",
                             "prefix":"ad- 朝,去,向 词源同at",
                             "postfix":"",
-                            "explain": "计算余额",
-                            "definition": "账户；解释；账目"
+                            "explain": "计算余额 ➡ 账户；解释；账目"
                         },
                         {
                             "name": "ac·count·able",
                             "prefix":"",
                             "postfix":"-able 表能力,适应力等",
-                            "explain": "",
-                            "definition": "有责任的；有解释义务的"
+                            "explain": "能对帐目说明的 ➡ 有责任的；有解释义务的"
                         }
                     ]
                 }
@@ -4781,7 +4708,7 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "put 计算思考",
+                    "root": "put 计算,思考",
                     "explain": "com·put·er 计算机",
                     "configure":[
                         {
@@ -4799,45 +4726,39 @@
                     "words":[
                         {
                             "name": "com·pute",
-                            "prefix":"",
+                            "prefix":"com- 表加强",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "计算"
+                            "explain": "计算"
                         },
                         {
                             "name": "dis·pute",
                             "prefix":"dis- 分开,散开",
                             "postfix":"",
-                            "explain": "想法不同",
-                            "definition": "辩论；怀疑"
+                            "explain": "想法不同 ➡ 辩论；怀疑"
                         },
                         {
                             "name": "re·pute",
                             "prefix":"re- 再次,重新",
                             "postfix":"",
-                            "explain": "名望(根据做的事情)重新思考，考虑人的名声",
-                            "definition": "名誉；声望"
+                            "explain": "根据做的事情重新考虑名声 ➡ 名誉；声望"
                         },
                         {
                             "name": "re·put·ation",
                             "prefix":"re- 再次,重新",
                             "postfix":"-ation = act+ion 名词后缀",
-                            "explain": "",
-                            "definition": "名声；名誉；声望"
+                            "explain": "名声；名誉；声望"
                         },
                         {
                             "name": "de·pute",
                             "prefix":"de- 向下",
                             "postfix":"",
-                            "explain": "经过仔细思考的授权",
-                            "definition": "授权；代理"
+                            "explain": "经过仔细思考的授权 ➡ 授权；代理"
                         },
                         {
                             "name": "de·puty",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "副职(代理人)",
-                            "definition": "副职"
+                            "explain": "代理人 ➡ 副职"
                         }
                     ]
                 }
@@ -4867,34 +4788,30 @@
                             "name": "pre·judge",
                             "prefix":"pre- 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "预先判断；成见"
+                            "explain": "预先的判断 ➡ 成见；偏见"
                         },
                         {
                             "name": "pre·jud·ice",
                             "prefix":"",
                             "postfix":"-ice 名词后缀",
-                            "explain": "",
-                            "definition": "偏见；成见"
+                            "explain": "偏见；成见"
                         },
                         {
                             "name": "jud·icial",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "与审判相关的",
-                            "definition": "司法的"
+                            "explain": "与审判相关的 ➡ 司法的"
                         },
                         {
                             "name": "jud·icious",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "有判断力的",
-                            "definition": "明智的；有判断力的"
+                            "explain": "有判断力的 ➡ 明智的；有判断力的"
                         }
                     ]
                 },
                 {
-                    "root": "just 合法的， 公正的",
+                    "root": "just 合法的,公正的",
                     "explain": "jud",
                     "configure":[
                         {
@@ -4914,22 +4831,19 @@
                             "name": "just·ify",
                             "prefix":"",
                             "postfix":"-ify 使.... 词源同fact:使,做",
-                            "explain": "使合法",
-                            "definition": "证明合法；证明有理；辩护"
+                            "explain": "使合法 ➡ 证明合法；证明有理；辩护"
                         },
                         {
                             "name": "ad·just",
                             "prefix":"ad=at 朝,去,向",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "调节"
+                            "explain": "朝着公正,正确的方向 ➡ 调节"
                         },
                         {
                             "name": "just·ice",
                             "prefix":"",
                             "postfix":"-ice 名词后缀",
-                            "explain": "",
-                            "definition": "公平；正义"
+                            "explain": "公平；正义"
                         }
                     ]
                 }
