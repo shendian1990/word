@@ -3209,15 +3209,13 @@
                             "name": "con·fer·ence",
                             "prefix":"con- 一起",
                             "postfix":"",
-                            "explain": "(想法)拿到一起的",
-                            "definition": "会议"
+                            "explain": "(想法)拿到一起 ➡ 会议"
                         },
                         {
                             "name": "fer·ry",
                             "prefix":"",
                             "postfix":"-ry 名词后缀",
-                            "explain": "",
-                            "definition": "渡船"
+                            "explain": "携带 ➡ 渡船"
                         }
                     ]
                 }
@@ -3247,22 +3245,19 @@
                             "name": "op·pose",
                             "prefix":"op=ob 相对,相反",
                             "postfix":"",
-                            "explain": "对着放的",
-                            "definition": "反对；阻挠"
+                            "explain": "对着放 ➡ 反对；阻挠"
                         },
                         {
                             "name": "op·pon·ent",
                             "prefix":"op=ob 相对,相反",
                             "postfix":"-ent 形容词后缀",
-                            "explain": "对着放的",
-                            "definition": "反对者；对手"
+                            "explain": "对着放 ➡ 反对者；对手"
                         },
                         {
                             "name": "post·pone",
                             "prefix":"post- 在后,向后",
                             "postfix":"",
-                            "explain": "把事情向后放",
-                            "definition": "延期"
+                            "explain": "把事情向后放 ➡ 延期"
                         }
                     ]
                 },
@@ -3287,8 +3282,7 @@
                             "name": "com·pound",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "放到一起的",
-                            "definition": "复合物"
+                            "explain": "放到一起 ➡ 复合物"
                         }
                     ]
                 },
@@ -3313,85 +3307,73 @@
                             "name": "pose",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "摆放姿势",
-                            "definition": "姿势；姿态"
+                            "explain": "摆放(姿势) ➡ 姿势；姿态"
                         },
                         {
                             "name": "pause",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "放置不动的",
-                            "definition": "停止；暂停"
+                            "explain": "置于某地(不动的) ➡ 停止；暂停"
                         },
                         {
                             "name": "pre·pose",
                             "prefix":"pre- 在前,提前",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "把…放在前面"
+                            "explain": "把…放在前面"
                         },
                         {
                             "name": "pur·pose",
                             "prefix":"pur=pre 在前,提前",
                             "postfix":"",
-                            "explain": "意图(提前放置的)",
-                            "definition": "意图；目的；意义"
+                            "explain": "提前放置的 ➡ 意图；目的；意义"
                         },
                         {
                             "name": "sup·pose",
                             "prefix":"",
                             "postfix":"sup-,在下",
-                            "explain": "假设(根据事实往下延伸)",
-                            "definition": "认为；假设；推测；猜测"
+                            "explain": "根据事实往下延伸 ➡ 认为；假设；推测；猜测"
                         },
                         {
                             "name": "com·pose",
                             "prefix":"com- 一起",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "组成"
+                            "explain": "放在一起 ➡ 组成"
                         },
                         {
                             "name": "dis·pose",
                             "prefix":"dis- 分开,散开,离开",
                             "postfix":"",
-                            "explain": "分开放,有序布置",
-                            "definition": "处理；处置；安排"
+                            "explain": "分开放；有序布置 ➡ 处理；处置；安排"
                         },
                         {
                             "name": "de·pos·it",
                             "prefix":"de- 向下",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "沉积；存放；存款；保证金"
+                            "explain": "向下放 ➡ 沉积；存放；存款；保证金"
                         },
                         {
                             "name": "im·pose",
                             "prefix":"im-,进入， 使",
                             "postfix":"",
-                            "explain": "放一个负担在身上",
-                            "definition": "强加；利用；欺骗"
+                            "explain": "放负担在身上 ➡ 强加；利用；欺骗"
                         },
                         {
                             "name": "ex·pose",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "往外站",
-                            "definition": "暴露"
+                            "explain": "往外站 ➡ 暴露"
                         },
                         {
                             "name": "pos·ition",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "位置；观点；态度"
+                            "explain": "位置；观点；态度"
                         },
                         {
                             "name": "pos·ture",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "向外站的",
-                            "definition": "姿势"
+                            "explain": "姿势"
                         }
                     ]
                 }
@@ -3421,29 +3403,25 @@
                             "name": "sign·ify",
                             "prefix":"",
                             "postfix":"-ify 使.... 词源同fact:使,做",
-                            "explain": "使成为记号,暗示",
-                            "definition": "表示；意味；预示"
+                            "explain": "记号；暗示 ➡ 表示；意味；预示"
                         },
                         {
                             "name": "de·sign",
                             "prefix":"de- 向下",
                             "postfix":"",
-                            "explain": "写下来",
-                            "definition": "描绘；设计"
+                            "explain": "写下来 ➡ 描绘；设计"
                         },
                         {
                             "name": "as·sign",
                             "prefix":"as-,去,往",
                             "postfix":"",
-                            "explain": "任命(地图上标记某一点让人去任命)",
-                            "definition": "指定；任命；赋值"
+                            "explain": "地图上标记某一点让人去任命 ➡ 指定；任命；赋值"
                         },
                         {
                             "name": "re·sign",
                             "prefix":"re- 相对,相反",
                             "postfix":"",
-                            "explain": "从员工名单划去",
-                            "definition": "辞职；放弃"
+                            "explain": "从员工名单划去 ➡ 辞职；放弃"
                         }
                     ]
                 }
@@ -3473,15 +3451,13 @@
                             "name": "don·ation",
                             "prefix":"",
                             "postfix":"-ation = act+ion 名词后缀",
-                            "explain": "",
-                            "definition": "捐款；捐赠物；捐赠"
+                            "explain": "给予 ➡ 捐款；捐赠物；捐赠"
                         },
                         {
                             "name": "par·don",
                             "prefix":"par=per 表整个,表完全",
                             "postfix":"",
-                            "explain": "赦免(完全的给予)",
-                            "definition": "原谅；赦免；宽恕"
+                            "explain": "完全的给予 ➡ 赦免；原谅；宽恕"
                         }
                     ]
                 },
@@ -3506,8 +3482,7 @@
                             "name": "en·dow",
                             "prefix":"en=in 进入,往里",
                             "postfix":"",
-                            "explain": "往里给",
-                            "definition": "捐赠；资助"
+                            "explain": "给于 ➡ 捐赠；资助"
                         }
                     ]
                 },
@@ -3532,8 +3507,7 @@
                             "name": "e·dit",
                             "prefix":"e(x) 向外",
                             "postfix":"",
-                            "explain": "向外给与，往外发表",
-                            "definition": "编辑；校订"
+                            "explain": "向外给与；往外发表 ➡ 编辑；校订"
                         }
                     ]
                 }
@@ -3563,29 +3537,25 @@
                             "name": "trib·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
-                            "explain": "",
-                            "definition": "部落的；种族的"
+                            "explain": "部落的；种族的"
                         },
                         {
                             "name": "at·trib·ute",
                             "prefix":"at=ad 向，往",
                             "postfix":"",
-                            "explain": "分配",
-                            "definition": "把…归于；属性"
+                            "explain": "分配 ➡ 把…归于；属性"
                         },
                         {
                             "name": "con·trib·ute",
                             "prefix":"con- 表加强,表强调",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "贡献"
+                            "explain": "贡献"
                         },
                         {
                             "name": "dis·trib·ute",
                             "prefix":"dis- 分开,散开",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "分配；散布"
+                            "explain": "分配；散布"
                         }
                     ]
                 }
@@ -3615,15 +3585,13 @@
                             "name": "deck",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "甲板"
+                            "explain": "覆盖物 ➡ 甲板"
                         },
                         {
                             "name": "de·tect·ive",
                             "prefix":"de- 不,非,表相反",
                             "postfix":"-ive 形容词后缀",
-                            "explain": "",
-                            "definition": "侦探"
+                            "explain": "与覆盖相反；揭开(秘密) ➡ 侦探"
                         }
                     ]
                 }
@@ -3653,8 +3621,7 @@
                             "name": "cover·age",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "覆盖；覆盖范围"
+                            "explain": "覆盖；覆盖范围"
                         }
                     ]
                 }
@@ -3684,8 +3651,7 @@
                             "name": "crypt·ology",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "密码学"
+                            "explain": "密码学"
                         }
                     ]
                 }
@@ -3715,36 +3681,31 @@
                             "name": "ped·al",
                             "prefix":"",
                             "postfix":"-al 形容词后缀",
-                            "explain": "自行车踏板(用脚踏的)",
-                            "definition": "踩踏板；骑车"
+                            "explain": "用脚踏的 ➡ 自行车踏板；骑车"
                         },
                         {
                             "name": "bi·ped",
                             "prefix":"bi- 两",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "两足动物"
+                            "explain": "两足动物"
                         },
                         {
                             "name": "ex·ped·ition",
                             "prefix":"ex- 向外",
                             "postfix":"",
-                            "explain": "往外走",
-                            "definition": "远征"
+                            "explain": "往外走 ➡ 远征"
                         },
                         {
                             "name": "centi·pede",
                             "prefix":"cent-,百，百分之一",
                             "postfix":"",
-                            "explain": "一百条脚的",
-                            "definition": "蜘蛛"
+                            "explain": "一百条脚的 ➡ 蜘蛛"
                         },
                         {
                             "name": "ped·estrian",
                             "prefix":"",
                             "postfix":"-estrian 人的后缀",
-                            "explain": "",
-                            "definition": "行人"
+                            "explain": "步行者"
                         }
                     ]
                 }
@@ -3754,8 +3715,8 @@
             "index": 1,
             "roots":[
                 {
-                    "root": "car 跑",
-                    "explain": "car 车,携带，运输",
+                    "root": "car 跑；运输",
+                    "explain": "car 车；携带；运输",
                     "configure":[
                         {
                             "vowelRoot":[],
@@ -3771,25 +3732,22 @@
                     ],
                     "words":[
                         {
-                            "name": "carry",
+                            "name": "carr·y",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "搬运 携带"
+                            "explain": "搬运；携带"
                         },
                         {
                             "name": "car·go",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "货物"
+                            "explain": "货物"
                         },
                         {
                             "name": "cart",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "小推车"
+                            "explain": "小推车"
                         },
                         {
                             "name": "carr·iage",
@@ -3802,15 +3760,13 @@
                             "name": "char·ge",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "向前冲",
-                            "definition": ""
+                            "explain": "向前冲"
                         },
                         {
                             "name": "car·eer",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "原指马车走过路程，轨迹。职业(人所走过的轨迹)",
-                            "definition": "职业"
+                            "explain": "原指马车走过'轨迹'；后指人所走过的'轨迹' ➡ 职业"
                         }
                     ]
                 },
@@ -3835,29 +3791,25 @@
                             "name": "curr·ent",
                             "prefix":"",
                             "postfix":"-ent 形容词后缀",
-                            "explain": "一直在跑的，一直在流的",
-                            "definition": "流通的，通用的"
+                            "explain": "一直在跑的；流动的 ➡ 流通的，通用的"
                         },
                         {
                             "name": "con·curr·ent",
                             "prefix":"",
                             "postfix":"-ent 形容词后缀",
-                            "explain": "(事件)跑到一起",
-                            "definition": "并发的；同时发生的"
+                            "explain": "(事件)跑到一起 ➡ 并发的；同时发生的"
                         },
                         {
                             "name": "course",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "朝着一个方向跑的",
-                            "definition": "科目；课程；过程"
+                            "explain": "朝着目标(一定要学会)跑 ➡ 科目；课程；过程"
                         },
                         {
                             "name": "curr·iculum",
                             "prefix":"",
                             "postfix":"",
-                            "explain": "",
-                            "definition": "课程；总课程"
+                            "explain": "课程；总课程"
                         }
                     ]
                 }
