@@ -2,7 +2,7 @@
     {
         "root": "voc 声音",
         "index": 1,
-        "explain": "voice 声音",
+        "explain": "voc ➡ voice 声音",
         "configure":
         {
             "vowelRoot":[],
@@ -77,7 +77,7 @@
     {
         "root": "vok 说",
         "index": 2,
-        "explain": "voc 说",
+        "explain": "vok ➡ voc 说",
         "configure":
         {
             "vowelRoot":[],
@@ -117,7 +117,7 @@
     {
         "root": "fame 说,引申为名声",
         "index": 3,
-        "explain": "fam·ous 出名的(每个人都说得出来他的名字)",
+        "explain": "fame ➡ fam·ous 出名的(每个人都说得出来他的名字)",
         "configure":
         {
             "vowelRoot":[],
@@ -150,7 +150,7 @@
     {
         "root": "fant 说话",
         "index": 4,
-        "explain": "fame 说话",
+        "explain": "fant ➡ fame 说话",
         "configure":
         {
             "vowelRoot":[],
