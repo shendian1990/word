@@ -149,8 +149,7 @@
                 "cellType":10,
                 "prefix":"de- 不,非,表相反",
                 "postfix":"",
-                "explain": "说坏话 ➡ 诽谤；中伤",
-                "definition": ""
+                "explain": "说坏话 ➡ 诽谤；中伤"
             },
             {
                 "name": "in·fam·ous",
@@ -446,7 +445,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":"a-e-i-o-u l-m-n-r"
+            "change":"a-e-i-o-u l-m-n-r",
+            "firstChange":[],
+            "secondChange":[],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -479,7 +482,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":"a-e-i-o-u 莎宾l"
+            "change":"a-e-i-o-u 莎宾l",
+            "firstChange":[],
+            "secondChange":[],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -518,6 +525,14 @@
         "explain": "dig·it 手指；dig：由手指引申的'挖,指'含义 dict最初表示'指着说'",
         "configure":
         {
+            "vowelRoot":[],
+            "vowelExplain":[],
+            "firstRoot":[],
+            "firstExplain":[],
+            "secondRoot":[],
+            "secondExplain":[],
+            "thirdRoot":[],
+            "thirdExplain":[],
             "change":"c-ch-ct-k—g—h",
             "firstChange":[5,6,10],
             "secondChange":[],
@@ -617,6 +632,14 @@
         "explain": "langu·age 语言(说话离不开舌头)",
         "configure":
         {
+            "vowelRoot":[],
+            "vowelExplain":[],
+            "firstRoot":[],
+            "firstExplain":[],
+            "secondRoot":[],
+            "secondExplain":[],
+            "thirdRoot":[],
+            "thirdExplain":[],
             "change":"a-e-i-o-u",
             "firstChange":[0,4],
             "secondChange":[],
@@ -646,6 +669,14 @@
         "explain": "lingu 说",
         "configure":
         {
+            "vowelRoot":[],
+            "vowelExplain":[],
+            "firstRoot":[],
+            "firstExplain":[],
+            "secondRoot":[],
+            "secondExplain":[],
+            "thirdRoot":[],
+            "thirdExplain":[],
             "change":"an-en-in-on-un",
             "firstChange":[6,7],
             "secondChange":[],
@@ -730,8 +761,7 @@
                 "cellType":11,
                 "prefix":"re- 表重复,表加强",
                 "postfix":"",
-                "explain": "重复的声音 ➡ 共振；共鸣",
-                "definition": ""
+                "explain": "重复的声音 ➡ 共振；共鸣"
             },
             {
                 "name": "SON·ATA ",
@@ -756,7 +786,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":""
+            "change":"",
+            "firstChange":[8],
+            "secondChange":[3],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -817,7 +851,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":""
+            "change":"",
+            "firstChange":[8],
+            "secondChange":[3],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -892,7 +930,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":"d-t-th-s-z"
+            "change":"d-t-th-s-z",
+            "firstChange":[8],
+            "secondChange":[3],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -976,7 +1018,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":""
+            "change":"",
+            "firstChange":[],
+            "secondChange":[],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -1144,8 +1190,7 @@
                 "cellType":10,
                 "prefix":"de- 表完全,表加强",
                 "postfix":"",
-                "explain": "看护所应得的报酬 ➡ 应得",
-                "definition": ""
+                "explain": "看护所应得的报酬 ➡ 应得"
             },
             {
                 "name": "pre·serve",
@@ -1409,8 +1454,7 @@
                 "cellType":0,
                 "prefix":"",
                 "postfix":"",
-                "explain": "tain= take in",
-                "definition": "维持；维修；保养"
+                "explain": "tain= take in 维持；维修；保养"
             }
         ]
     },
@@ -1482,8 +1526,7 @@
                 "cellType":0,
                 "prefix":"",
                 "postfix":"",
-                "explain": "不是空想的,真正做出来的,实际存在的 ➡ 真实的；实际的",
-                "definition": ""
+                "explain": "不是空想的,真正做出来的,实际存在的 ➡ 真实的；实际的"
             },
             {
                 "name": "counter·act",
@@ -1845,8 +1888,7 @@
                 "cellType":10,
                 "prefix":"bene 好的",
                 "postfix":"",
-                "explain": "原指做好事；后也指个人利益 ➡ 益处",
-                "definition": ""
+                "explain": "原指做好事；后也指个人利益 ➡ 益处"
             }
         ]
     },
@@ -2059,8 +2101,7 @@
                 "cellType":0,
                 "prefix":"",
                 "postfix":"",
-                "explain": "由“切”引申出“带来”的含义 ➡ 父母(把你带到这个世界上的人)",
-                "definition": ""
+                "explain": "由“切”引申出“带来”的含义 ➡ 父母(把你带到这个世界上的人)"
             },
             {
                 "name": "part",
@@ -2176,8 +2217,7 @@
                 "cellType":10,
                 "prefix":"sub 向下,在下面",
                 "postfix":"",
-                "explain": "写在下方的 ➡ 脚注",
-                "definition": ""
+                "explain": "写在下方的 ➡ 脚注"
             }
         ]
     },
@@ -2596,8 +2636,7 @@
                 "cellType":10,
                 "prefix":"con- 一起",
                 "postfix":"",
-                "explain": "(利益)拉到一起 ➡ 合同；婚约；收缩",
-                "definition": ""
+                "explain": "(利益)拉到一起 ➡ 合同；婚约；收缩"
             }
         ]
     },
@@ -2845,8 +2884,7 @@
                 "cellType":0,
                 "prefix":"",
                 "postfix":"",
-                "explain": "通过拍打使两个物体紧凑，融为一体，利益一致 ➡ 协议，条约",
-                "definition": ""
+                "explain": "通过拍打使两个物体紧凑，融为一体，利益一致 ➡ 协议，条约"
             },
             {
                 "name": "com·pact",
@@ -3006,8 +3044,7 @@
                 "cellType":11,
                 "prefix":"per- 穿过,通过",
                 "postfix":"-ion 名词后缀",
-                "explain": "允许离开 ➡ 同意；许可；允许",
-                "definition": "同意"
+                "explain": "允许离开 ➡ 同意；许可；允许"
             },
             {
                 "name": "ad·miss·ion",
@@ -3387,8 +3424,7 @@
                 "cellType":10,
                 "prefix":"col=con 共同",
                 "postfix":"",
-                "explain": "选择出来有共同点的,爱学习的 ➡ 师生",
-                "definition": "大学；学院；学会"
+                "explain": "选择出来有共同点的,爱学习的 ➡ 师生；大学；学院；学会"
             }
         ]
     },
@@ -4018,7 +4054,11 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":""
+            "change":"",
+            "firstChange":[],
+            "secondChange":[],
+            "thirdChange":[],
+            "forthChange":[]
         },
         "words":[
             {
@@ -4135,8 +4175,7 @@
                 "cellType":0,
                 "prefix":"",
                 "postfix":"",
-                "explain": "",
-                "definition": "车厢"
+                "explain": "车厢"
             },
             {
                 "name": "char·ge",
@@ -4282,8 +4321,7 @@
                 "cellType":11,
                 "prefix":"ag=ad 朝,去,向",
                 "postfix":"-ive 形容词后缀",
-                "explain": "一直往前走 ➡ 侵略性的；好斗的；有进取心的",
-                "definition": ""
+                "explain": "一直往前走 ➡ 侵略性的；好斗的；有进取心的"
             },
             {
                 "name": "in·gress",
@@ -4982,6 +5020,7 @@
             },
             {
                 "name": "mem·orial",
+                "cellType":0,
                 "prefix":"",
                 "postfix":"",
                 "explain": "纪念碑；纪念馆"
@@ -5109,8 +5148,7 @@
                 "cellType":0,
                 "prefix":"",
                 "postfix":"",
-                "explain": "",
-                "definition": "诡辩的；强词夺理的"
+                "explain": "诡辩的；强词夺理的"
             },
             {
                 "name": "soph·omore",
@@ -5494,6 +5532,7 @@
             },
             {
                 "name": "en·cour·age",
+                "cellType":10,
                 "prefix":"en 使",
                 "postfix":"",
                 "explain": "使充满勇气 ➡ 鼓励"
@@ -5570,8 +5609,7 @@
                 "cellType":10,
                 "prefix":"bene 美好的;美的",
                 "postfix":"ion 名词后缀",
-                "explain": "好的话语 ➡ 祝福",
-                "definition": ""
+                "explain": "好的话语 ➡ 祝福"
             }
         ]
     },
@@ -5823,8 +5861,7 @@
                 "cellType":1,
                 "prefix":"",
                 "postfix":"ia 病",
-                "explain": "trist=treat+ist：治疗者 ➡ 精神病医生",
-                "definition": ""
+                "explain": "trist=treat+ist：治疗者 ➡ 精神病医生"
             }
         ]
     },
@@ -6657,6 +6694,7 @@
         "words":[
             {
                 "name": "patr·iot",
+                "cellType":0,
                 "prefix":"",
                 "postfix":"",
                 "explain": "同一个父亲的；同一个祖先的 ➡ 同胞；爱国者"
@@ -6929,6 +6967,7 @@
             },
             {
                 "name": "polic·y",
+                "cellType":0,
                 "prefix":"",
                 "postfix":"",
                 "explain": "政策；主张"
