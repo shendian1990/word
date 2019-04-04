@@ -2033,7 +2033,7 @@
             "consonant":[4,13],
             "add":[5],
             "trans":[],
-            "change":"b-p-m-ph-f-v +t/d/s",
+            "change":"b-p-m-ph-f-v\n+t/d/s",
             "firstChange":[],
             "secondChange":[],
             "thirdChange":[],
