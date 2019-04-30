@@ -482,7 +482,7 @@
             "secondExplain":[],
             "thirdRoot":[],
             "thirdExplain":[],
-            "change":"a-e-i-o-u 莎宾l",
+            "change":"a-e-i-o-u +t/d/s",
             "firstChange":[],
             "secondChange":[],
             "thirdChange":[],
@@ -1260,7 +1260,7 @@
         ]
     },
     {
-        "root": "luna 月亮",
+        "root": "lun 月亮",
         "index": 25,
         "explain": "moon 月亮",
         "configure":
